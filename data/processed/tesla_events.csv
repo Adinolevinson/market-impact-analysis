@@ -1,20 +1,24 @@
-event_id	ticker	event_date	event_name	event_type
-TSLA	TSLA_001	25/01/2023	Q4 2022 Earnings	Earnings
-TSLA	TSLA_002	19/04/2023	Q1 2023 Earnings	Earnings
-TSLA	TSLA_003	24/01/2024	Q4 2023 Earnings	Earnings
-TSLA	TSLA_004	23/04/2024	Q1 2024 Earnings	Earnings
-TSLA	TSLA_005	21/11/2019	Cybertruck Unveiled	Product Launch
-TSLA	TSLA_006	10/06/2021	Model S Plaid Delivery Event	Product Launch
-TSLA	TSLA_007	01/12/2022	Tesla Semi Delivery Event	Product Launch
-TSLA	TSLA_008	30/11/2023	Cybertruck Deliveries Begin	Product Launch
-TSLA	TSLA_009	13/01/2023	Global Vehicle Price Cuts	Pricing Strategy
-TSLA	TSLA_010	07/04/2023	Further US Price Cuts	Pricing Strategy
-TSLA	TSLA_011	20/04/2024	Major Price Reductions Across Key Models	Pricing Strategy
-TSLA	TSLA_012	22/09/2020	Battery Day	Technology Announcement
-TSLA	TSLA_013	30/09/2022	AI Day 2022	Technology Announcement
-TSLA	TSLA_014	10/10/2024	"Robotaxi Event"	Technology Announcement
-TSLA	TSLA_015	11/08/2020	5-for-1 Stock Split Announced	Corporate Action
-TSLA	TSLA_016	05/08/2022	3-for-1 Stock Split Announced	Corporate Action
-TSLA	TSLA_017	13/06/2024	Shareholders Approve Elon Musk Pay Package	Corporate Action
-TSLA	TSLA_018	07/04/2022	Gigafactory Berlin Opens	Factory Expansion
-TSLA	TSLA_019	20/04/2022	"Gigafactory Texas Opening (""Cyber Rodeo"")"	Factory Expansion
+Ticker,event_id,event_date,event_name,event_type
+TSLA,TSLA_001,25/01/2023,Q4 2022 Earnings,Earnings
+TSLA,TSLA_002,19/04/2023,Q1 2023 Earnings,Earnings
+TSLA,TSLA_003,24/01/2024,Q4 2023 Earnings,Earnings
+TSLA,TSLA_004,23/04/2024,Q1 2024 Earnings,Earnings
+TSLA,TSLA_005,21/11/2019,Cybertruck Unveiled,Product Launch
+TSLA,TSLA_006,10/06/2021,Model S Plaid Delivery Event,Product Launch
+TSLA,TSLA_007,01/12/2022,Tesla Semi Delivery Event,Product Launch
+TSLA,TSLA_008,30/11/2023,Cybertruck Deliveries Begin,Product Launch
+TSLA,TSLA_009,13/01/2023,Global Vehicle Price Cuts,Pricing Strategy
+TSLA,TSLA_010,07/04/2023,Further US Price Cuts,Pricing Strategy
+TSLA,TSLA_011,20/04/2024,Major Price Reductions Across Key Models,Pricing Strategy
+TSLA,TSLA_012,22/09/2020,Battery Day,Technology Announcement
+TSLA,TSLA_013,30/09/2022,AI Day 2022,Technology Announcement
+TSLA,TSLA_014,10/10/2024,"Robotaxi (""We, Robot"") Event",Technology Announcement
+TSLA,TSLA_015,11/08/2020,5-for-1 Stock Split Announced,Corporate Action
+TSLA,TSLA_016,05/08/2022,3-for-1 Stock Split Announced,Corporate Action
+TSLA,TSLA_017,13/06/2024,Shareholders Approve Elon Musk Pay Package,Corporate Action
+TSLA,TSLA_018,07/04/2022,Gigafactory Berlin Opens,Factory Expansion
+TSLA,TSLA_019,20/04/2022,"Gigafactory Texas Opening (""Cyber Rodeo"")",Factory Expansion
+TSLA,TSLA_020,01/03/2023,Mexico Gigafactory Announced,Factory Expansion
+TSLA,TSLA_021,02/02/2021,Touchscreen Recall (NHTSA),Recall
+TSLA,TSLA_022,16/02/2023,FSD Beta Recall via Software Update,Recall
+TSLA,TSLA_023,13/12/2023,Autopilot Recall Affecting Over 2 Million Vehicles,Recall

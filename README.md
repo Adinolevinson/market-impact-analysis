@@ -19,3 +19,8 @@ A data science project investigating how company events influence stock price mo
 - yfinance
 - Jupyter
 - Git
+
+### Process
+1. I created a csv of 23 important events/announcements in Tesla history
+2. Downloaded Tesla stock data from 2019 to 2026 every day
+3. Created tables of the % change in stock comparing every day (up to 5) after the event to the day before
