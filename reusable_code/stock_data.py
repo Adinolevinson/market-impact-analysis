@@ -1,18 +1,29 @@
-import yfinance as yf
 import pandas as pd
+import yfinance as yf
 
 
-def download_stock_data(
-    ticker: str,
-    start_date: str,
-    end_date: str,
-) -> pd.DataFrame:
-    """Download historical stock-price data from Yahoo Finance."""
-    data = yf.download(
+def download_stock_data(ticker, start_date, end_date):
+
+    stock = yf.download(
         ticker,
         start=start_date,
         end=end_date,
-        auto_adjust=False,
+        auto_adjust=True
     )
 
-    return data
+    # Remove ticker level if yfinance returns MultiIndex columns
+    if isinstance(stock.columns, pd.MultiIndex):
+        stock.columns = stock.columns.get_level_values(0)
+
+    # Turn Date index into a normal column
+    stock = stock.reset_index()
+
+    # Make sure Date is datetime
+    stock["Date"] = pd.to_datetime(stock["Date"])
+
+    # Keep required columns
+    stock = stock[
+        ["Date", "Close", "High", "Low", "Open", "Volume"]
+    ]
+
+    return stock

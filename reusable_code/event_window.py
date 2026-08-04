@@ -1,4 +1,19 @@
+import pandas as pd
+
+
 def get_event_window(event_id, events_data, stock_data):
+
+    events_data = events_data.copy()
+    stock_data = stock_data.copy()
+
+    events_data["event_date"] = pd.to_datetime(
+    events_data["event_date"]
+)
+
+    stock_data["Date"] = pd.to_datetime(
+        stock_data["Date"]
+    )
+
 
     # Find the event with the matching event_id
     event = events_data[
