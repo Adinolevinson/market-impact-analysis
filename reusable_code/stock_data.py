@@ -18,7 +18,6 @@ def download_stock_data(ticker, start_date, end_date):
     # Turn Date index into a normal column
     stock = stock.reset_index()
 
-    # Make sure Date is datetime
     stock["Date"] = pd.to_datetime(stock["Date"])
 
     # Keep required columns
