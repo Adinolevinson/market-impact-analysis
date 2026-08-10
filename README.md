@@ -24,5 +24,10 @@ A data science project investigating how company events influence stock price mo
 1. I created a csv of 23 important events/announcements in Tesla history
 2. Downloaded Tesla stock data from 2019 to 2026 every day
 3. Created tables of the % change in stock comparing every day (up to 5) after the event to the day before
-4. Downloaded SPY stock data to compare market stock change compared to Teslas and created a function that puts them 
-    into a table to clearly see the difference 
+4. Downloaded SPY stock data to compare market stock change compared to Teslas and created a function that puts them into a table to clearly see the difference
+5. Built a reusable pipeline that autmoatically processes every event's window into one combined dataset
+- Step 3 - 5 is creating reusable functions for events windows, SPY benchmark, abnomral retuns and combining all together
+6. EDA:
+    Including:
+    - average event abnormal return + absolute line graphs
+    - 
