@@ -31,3 +31,6 @@ A data science project investigating how company events influence stock price mo
     Including:
     - average event abnormal return + absolute line graphs
     - 
+7. Created a table with each event and its returns as 1 row, which simplifies the data and allows for future machine learning
+8. Added a measure to see the stock change 5 days up till the announcement
+9. Initial machine learning , learnt data not good enough
