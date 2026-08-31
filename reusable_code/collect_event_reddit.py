@@ -1,5 +1,6 @@
 import requests
 import pandas as pd
+import time
 
 
 def collect_event_reddit(event_id, search_query, start_date, end_date):
@@ -21,33 +22,102 @@ def collect_event_reddit(event_id, search_query, start_date, end_date):
 
     for subreddit in subreddits:
 
-        params = {
-            "subreddit": subreddit,
-            "title": search_query,
-            "after": start_date.strftime("%Y-%m-%d"),
-            "before": (end_date + pd.Timedelta(days=1)).strftime("%Y-%m-%d"),
-            "sort": "asc",
-            "limit": 100
-        }
+        current_after = int(start_date.timestamp())
 
-        response = requests.get(
-            url,
-            params=params,
-            timeout=30
+        end_timestamp = int(
+            (end_date + pd.Timedelta(days=1)).timestamp()
         )
 
-        if response.status_code != 200:
-            print(
-                f"Skipped {subreddit} for {event_id}: "
-                f"status {response.status_code}"
+        while True:
+
+            params = {
+                "subreddit": subreddit,
+                "after": current_after,
+                "before": end_timestamp,
+                "sort": "asc",
+                "limit": 100
+            }
+
+            response = requests.get(
+                url,
+                params=params,
+                timeout=30
             )
-            continue
 
-        data = response.json()
+            if response.status_code == 429:
 
-        all_posts.extend(data["data"])
+                wait_time = int(
+                    response.headers.get(
+                        "X-RateLimit-Reset",
+                        10
+                    )
+                )
+
+                print(
+                    f"Rate limited on {subreddit} "
+                    f"for {event_id}. "
+                    f"Waiting {wait_time} seconds..."
+                )
+
+                time.sleep(wait_time)
+
+                continue
+
+            if response.status_code != 200:
+
+                print(
+                    f"Skipped {subreddit} for {event_id}: "
+                    f"status {response.status_code}"
+                )
+
+                break
+
+            data = response.json()
+
+            batch = data["data"]
+
+            if len(batch) == 0:
+                break
+
+            all_posts.extend(batch)
+
+            if len(batch) < 100:
+                break
+
+            last_post_time = batch[-1]["created_utc"]
+
+            current_after = last_post_time + 1
+
+            time.sleep(1)
 
     posts = pd.DataFrame(all_posts)
+
+    if posts.empty:
+        return posts
+
+    posts = posts.drop_duplicates(
+        subset="id"
+    )
+
+    posts["title"] = posts["title"].fillna("")
+    posts["selftext"] = posts["selftext"].fillna("")
+
+    posts["search_text"] = (
+        posts["title"]
+        + " "
+        + posts["selftext"]
+    ).str.lower()
+
+    search_words = search_query.lower().split()
+
+    posts = posts[
+        posts["search_text"].apply(
+            lambda text: all(
+                word in text
+                for word in search_words
+            )
+        )
+    ]
 
     if posts.empty:
         return posts

@@ -1,0 +1,559 @@
+event_id,post_id,subreddit,created_date,title,selftext,score,num_comments,url,search_query,text
+TSLA_004,1cbetac,teslainvestorsclub,2024-04-23 20:20:37,Tesla has released their Q1 earnings,,1,0,https://twitter.com/SawyerMerritt/status/1782863354169528570,Tesla earnings,Tesla has released their Q1 earnings
+TSLA_004,1cbfm57,teslainvestorsclub,2024-04-23 20:52:44,Tesla showing robotaxi software in earnings report,,1,0,https://www.reddit.com/r/teslainvestorsclub/comments/1cbfm57/tesla_showing_robotaxi_software_in_earnings_report/,Tesla earnings,Tesla showing robotaxi software in earnings report
+TSLA_004,1cbforf,teslainvestorsclub,2024-04-23 20:55:39,Tesla Q1 2024 Earnings Visualized,,25,5,https://twitter.com/carbonfinancex/status/1782874816879395299,Tesla earnings,Tesla Q1 2024 Earnings Visualized
+TSLA_004,1cboa7k,teslainvestorsclub,2024-04-24 03:25:39,Updated vehicle plans: genuine or something else?,"The announcement about accelerating the introduction of new, more affordable vehicle models has certainly made headlines, but there are several reasons why I'm questioning the authenticity of these plans:
+
+1. **Reaction to Negative Press**: The announcement seems timed as a response to the public and market reaction to a Reuters story which reported the scrapping of the ""Model 2."" This move could be seen as an attempt to stabilize stock prices and reassure investors.
+
+2. **Recent Layoffs**: Despite the substantial workforce reductions at Tesla, they claim readiness to launch ambitious new projects.
+
+3. **Executive Departures**: The exit of crucial executives like Drew Bagliano raises questions about internal agreement on the company’s strategic directions.
+
+4. **Vagueness from Space Daddy**: When pressed about new models he has provided no concrete details, which adds to the uncertainty.
+
+5. **No Preceding Rumors**: Typically, Tesla developments leak early, but there’s been no buzz about these new vehicles, suggesting they might not be as imminent as claimed.
+
+6. **Sudden Announcement**: This update came out of nowhere in Tesla’s latest earnings report, with no prior hints that new models were nearing production.
+
+7. [this](https://www.reddit.com/r/teslainvestorsclub/s/d6z6s19rx4)
+
+Despite these concerns, I should mention that I'm long on Tesla, single digit cost basis, and I own calls and LEAPS for the earnings report. I'm not complaining—I plan to be sipping martinis on a yacht in 2040 thanks to Tesla.
+
+So, what do you think? Are Tesla’s updated plans a strategic pivot, or are they playing the market to manage perceptions?
+
+",25,105,https://www.reddit.com/r/teslainvestorsclub/comments/1cboa7k/updated_vehicle_plans_genuine_or_something_else/,Tesla earnings,"Updated vehicle plans: genuine or something else? The announcement about accelerating the introduction of new, more affordable vehicle models has certainly made headlines, but there are several reasons why I'm questioning the authenticity of these plans:
+
+1. **Reaction to Negative Press**: The announcement seems timed as a response to the public and market reaction to a Reuters story which reported the scrapping of the ""Model 2."" This move could be seen as an attempt to stabilize stock prices and reassure investors.
+
+2. **Recent Layoffs**: Despite the substantial workforce reductions at Tesla, they claim readiness to launch ambitious new projects.
+
+3. **Executive Departures**: The exit of crucial executives like Drew Bagliano raises questions about internal agreement on the company’s strategic directions.
+
+4. **Vagueness from Space Daddy**: When pressed about new models he has provided no concrete details, which adds to the uncertainty.
+
+5. **No Preceding Rumors**: Typically, Tesla developments leak early, but there’s been no buzz about these new vehicles, suggesting they might not be as imminent as claimed.
+
+6. **Sudden Announcement**: This update came out of nowhere in Tesla’s latest earnings report, with no prior hints that new models were nearing production.
+
+7. [this](https://www.reddit.com/r/teslainvestorsclub/s/d6z6s19rx4)
+
+Despite these concerns, I should mention that I'm long on Tesla, single digit cost basis, and I own calls and LEAPS for the earnings report. I'm not complaining—I plan to be sipping martinis on a yacht in 2040 thanks to Tesla.
+
+So, what do you think? Are Tesla’s updated plans a strategic pivot, or are they playing the market to manage perceptions?"
+TSLA_004,1cbq452,teslainvestorsclub,2024-04-24 05:08:57,How practical is Tesla Robotaxi network for distributed compute - Elon referred to as AWS-like service on today's earnings,,1,0,https://www.reddit.com/r/teslainvestorsclub/comments/1cbq452/how_practical_is_tesla_robotaxi_network_for/,Tesla earnings,How practical is Tesla Robotaxi network for distributed compute - Elon referred to as AWS-like service on today's earnings
+TSLA_004,1cc4ed1,teslainvestorsclub,2024-04-24 17:37:37,Model 2.5 Discussion and Thoughts,"Hey Everyone,
+
+After the earnings call last night, I started thinking about ""Model 2.5"".
+
+My goal for this post is to create some discussion and brainstorm what ""Model 2.5"" could be / what could/would make sense. I am not an expert, just a fellow enthusiast that enjoys thinking about tech. I am really just throwing shit at the wall to start some discussion and would like you all provide your thoughts and ideas.
+
+**Assumptions (for the sake of this discussion):**
+
+* Calling it ""Model 2.5"", guessing this is not the next gen platform (robo taxi / model 2)
+* Model 2.5 will be derivative of the model 3/Y platform.
+* Model 2.5 will be a ""base"" version or slimmed down version of Model 3. I am assuming less range, less features, etc.
+* Model 3 RWD - $38990 - 272 miles of range (for the sake of this exercise)
+   * quick google search tells me battery size is 57.5 kWh
+   * At \~$125/kwh, then RWD battery costs 57.5 \* 125 = $7187
+
+**Model 2.5 ""major"" changes:**
+
+1. Range guess: 200 miles range
+   1. this would require 73% (42kWh) of the RWD battery pack
+   2. 73% of $7187 = $5246, $1941 savings.
+2. Acceleration and top speed nerfed, trade off for more efficient motor.
+   1. maybe we get more range out of the 42 kWH battery or less battery (to lower cost) to achieve 200mi range.
+3. Shorter car (length), maybe by 6-8 inches, less weight
+4. More aerodynamic design, more range or less battery
+5. 17"" wheels - smaller wheels result in more range / less battery
+6. 800v / 48v architecture weight savings and/or improved manufacturing efficiency?
+7. Steer by Wire - no idea if this is cheaper to implement/manufacture or reduce weight?
+8. Maybe with all the efficiency gains from items above, maybe tesla can manage 200mi range with 35kWh, maybe less?
+
+**Things they could remove for additional cost savings:**
+
+1. No ventilated seats
+2. No rear screen
+3. No double pane glass
+4. Standard suspension / reduced suspension
+5. No powered lift gate
+6. No Ambient lighting
+7. No glass roof
+8. Less speakers 7-9 speakers
+9. Standard headlights
+10. Cloth seats
+11. Unsure how all the above affect supply chain.
+
+**Other:**
+
+* With only 200mi range, I would hope batteries would be LFP so users can charge to 100%. But this would likely exclude it from any EV incentives.
+   * can they get the car down to 32k, then plus 7500 incentive gets us to 25k
+* I don't think tesla limits and software features
+* Thinking this will play in the same segment as the cross trek/HR-V/corolla cross
+* I figured 200mi range felt like a good differentiator against the M3 RWD.
+   * assuming average person commutes 30-40mi per day, this feels sufficient for 90% of use cases. With incentives at 25k, this feels compelling.
+
+&#x200B;
+
+What are everyones thoughts? ",21,55,https://www.reddit.com/r/teslainvestorsclub/comments/1cc4ed1/model_25_discussion_and_thoughts/,Tesla earnings,"Model 2.5 Discussion and Thoughts Hey Everyone,
+
+After the earnings call last night, I started thinking about ""Model 2.5"".
+
+My goal for this post is to create some discussion and brainstorm what ""Model 2.5"" could be / what could/would make sense. I am not an expert, just a fellow enthusiast that enjoys thinking about tech. I am really just throwing shit at the wall to start some discussion and would like you all provide your thoughts and ideas.
+
+**Assumptions (for the sake of this discussion):**
+
+* Calling it ""Model 2.5"", guessing this is not the next gen platform (robo taxi / model 2)
+* Model 2.5 will be derivative of the model 3/Y platform.
+* Model 2.5 will be a ""base"" version or slimmed down version of Model 3. I am assuming less range, less features, etc.
+* Model 3 RWD - $38990 - 272 miles of range (for the sake of this exercise)
+   * quick google search tells me battery size is 57.5 kWh
+   * At \~$125/kwh, then RWD battery costs 57.5 \* 125 = $7187
+
+**Model 2.5 ""major"" changes:**
+
+1. Range guess: 200 miles range
+   1. this would require 73% (42kWh) of the RWD battery pack
+   2. 73% of $7187 = $5246, $1941 savings.
+2. Acceleration and top speed nerfed, trade off for more efficient motor.
+   1. maybe we get more range out of the 42 kWH battery or less battery (to lower cost) to achieve 200mi range.
+3. Shorter car (length), maybe by 6-8 inches, less weight
+4. More aerodynamic design, more range or less battery
+5. 17"" wheels - smaller wheels result in more range / less battery
+6. 800v / 48v architecture weight savings and/or improved manufacturing efficiency?
+7. Steer by Wire - no idea if this is cheaper to implement/manufacture or reduce weight?
+8. Maybe with all the efficiency gains from items above, maybe tesla can manage 200mi range with 35kWh, maybe less?
+
+**Things they could remove for additional cost savings:**
+
+1. No ventilated seats
+2. No rear screen
+3. No double pane glass
+4. Standard suspension / reduced suspension
+5. No powered lift gate
+6. No Ambient lighting
+7. No glass roof
+8. Less speakers 7-9 speakers
+9. Standard headlights
+10. Cloth seats
+11. Unsure how all the above affect supply chain.
+
+**Other:**
+
+* With only 200mi range, I would hope batteries would be LFP so users can charge to 100%. But this would likely exclude it from any EV incentives.
+   * can they get the car down to 32k, then plus 7500 incentive gets us to 25k
+* I don't think tesla limits and software features
+* Thinking this will play in the same segment as the cross trek/HR-V/corolla cross
+* I figured 200mi range felt like a good differentiator against the M3 RWD.
+   * assuming average person commutes 30-40mi per day, this feels sufficient for 90% of use cases. With incentives at 25k, this feels compelling.
+
+&#x200B;
+
+What are everyones thoughts?"
+TSLA_004,1cc59wy,teslainvestorsclub,2024-04-24 18:11:50,"Jim Cramer Takes Potshots At Tesla, Boeing, Shrugs Off Post-Earnings Rally As 'Smacks Of Fiction:' ' Horrendous Cash Flow'",,1,0,https://turbooptiontrading.com/2024/04/24/jim-cramer-takes-potshots-at-tesla-boeing-shrugs-off-post-earnings-rally-as-smacks-of-fiction-horrendous-cash-flow/,Tesla earnings,"Jim Cramer Takes Potshots At Tesla, Boeing, Shrugs Off Post-Earnings Rally As 'Smacks Of Fiction:' ' Horrendous Cash Flow'"
+TSLA_004,1cb57ss,stocks,2024-04-23 13:53:10,These are the stocks on my watchlist (4/23),"  
+
+Hi! I am an ex-prop trader that trades equities.
+
+This is a daily watchlist for trading. I might trade all of the stocks on here, or none of them, on any given day. I might trade stocks that don't appear on here! I hold no positions in any stocks long-term but Amazon/Mag7/general broad market indices. (unless otherwise noted in these tickers). If you’re on old reddit, click “show images” at the top to see all the charts quickly.
+
+I usually make these watchlists premarket, (or from 6:30 to 7 as time permits), but can be delayed if I'm trading the open. These aren't mean to be taken as gospel or any recommendation to buy/sell. Many stocks I post are <$500M market cap. Most are NOT good long-term investments but are good candidates to day trade. If you have questions to ask, PLEASE ask specific ones. Questions like “Thoughts on \_\_\_\_\_? will be ignored unless you add detail to the question”. 
+
+News: [Tesla Stock in ‘No Man’s Land’ After 43% Rout Ahead of Earnings](https://www.bloomberg.com/news/articles/2024-04-23/tesla-stock-in-no-man-s-land-after-43-rout-ahead-of-earnings)
+
+**TSLA-**Again, worth watching today. Hit lows on the 90 day chart, forecasts look bad, and earnings will be the crux today. At this point, I have no idea how earnings will go. 
+
+**IBRX- FDA Approves bladder cancer therapy**
+
+SPOT- Becomes profitable, revenue and earnings guidance beat expectations, though actual reported numbers are below expectations. $315 level worth watching. 
+
+CPRI- FTC sues to block Tapestry’s $8.5 acquisition of CPRI, vote was rumored to be 5-0 (meaning that it’s extremely unlikely this acquisition will go through). 
+
+**Longer-term watches:** NVDA/SMCI, SNOW, BA (long), ULTA, TSLA",8,0,https://www.reddit.com/r/stocks/comments/1cb57ss/these_are_the_stocks_on_my_watchlist_423/,Tesla earnings,"These are the stocks on my watchlist (4/23)   
+
+Hi! I am an ex-prop trader that trades equities.
+
+This is a daily watchlist for trading. I might trade all of the stocks on here, or none of them, on any given day. I might trade stocks that don't appear on here! I hold no positions in any stocks long-term but Amazon/Mag7/general broad market indices. (unless otherwise noted in these tickers). If you’re on old reddit, click “show images” at the top to see all the charts quickly.
+
+I usually make these watchlists premarket, (or from 6:30 to 7 as time permits), but can be delayed if I'm trading the open. These aren't mean to be taken as gospel or any recommendation to buy/sell. Many stocks I post are <$500M market cap. Most are NOT good long-term investments but are good candidates to day trade. If you have questions to ask, PLEASE ask specific ones. Questions like “Thoughts on \_\_\_\_\_? will be ignored unless you add detail to the question”. 
+
+News: [Tesla Stock in ‘No Man’s Land’ After 43% Rout Ahead of Earnings](https://www.bloomberg.com/news/articles/2024-04-23/tesla-stock-in-no-man-s-land-after-43-rout-ahead-of-earnings)
+
+**TSLA-**Again, worth watching today. Hit lows on the 90 day chart, forecasts look bad, and earnings will be the crux today. At this point, I have no idea how earnings will go. 
+
+**IBRX- FDA Approves bladder cancer therapy**
+
+SPOT- Becomes profitable, revenue and earnings guidance beat expectations, though actual reported numbers are below expectations. $315 level worth watching. 
+
+CPRI- FTC sues to block Tapestry’s $8.5 acquisition of CPRI, vote was rumored to be 5-0 (meaning that it’s extremely unlikely this acquisition will go through). 
+
+**Longer-term watches:** NVDA/SMCI, SNOW, BA (long), ULTA, TSLA"
+TSLA_004,1cbei70,stocks,2024-04-23 20:08:23,Tesla earnings are out — here are the numbers,"Tesla reported earnings after the bell. Here are the results.
+
+Earnings per share: 45 cents adjusted vs. 51 cents per share expected by LSEG
+Revenue: $21.30 billion vs. $22.15 billion expected by LSEG
+Wall Street is projecting revenue will drop 5.1% from $23.33 billion a year earlier, which would mark the first year-over-year drop in sales since 2020, when the Covid-19 pandemic disrupted production.
+
+Tesla shares have plummeted 42% this year on concerns about weak deliveries, competition in China and the company’s ongoing price cuts. Earlier this month, Tesla reported an 8.5% year-over-year decline in vehicle deliveries for the first quarter.
+
+Elon Musk’s electric vehicle company is now facing heightened competition worldwide, with fully electric cars still in demand but sales growth in the segment slowing. Tesla and key rivals have been slashing EV prices, on and off for months, to try to spur demand.
+
+Tesla embarked on a massive restructuring this month with two executives, Drew Baglino and Rohan Patel, resigning. Musk said last week in a companywide memo that the automaker was cutting more than 10% of its global workforce.
+
+The layoffs and resignations followed a Reuters report that said Tesla would scrap plans to make a low-cost electric car in the near future, and instead focus on self-driving technology. While Musk initially balked at the report, he later said in a post on social media site X that Tesla would go “balls to the wall for autonomy.”
+
+Musk has promised investors and customers a self-driving vehicle for years, but never delivered.
+
+He is now saying there will be an unveiling of a Tesla robotaxi on Aug. 8, 2024. Unveiling events do not mean a vehicle is ready to be produced. For example, Tesla first unveiled a new version of its Roadster in December 2017, and has yet to produce the car.
+
+Shareholders submitted and voted on questions for Tesla executives to answer ahead of Tuesday’s call. Submissions included a request for a “realistic timeline for launching a revenue-generating robotaxi network,” and a progress update on a “cheaper next-generation vehicle.”
+
+A livestream of the earnings call is scheduled for 5:30 p.m. ET.
+
+Source: https://www.cnbc.com/2024/04/23/tesla-tsla-earnings-q1-2024-.html",1601,780,https://www.reddit.com/r/stocks/comments/1cbei70/tesla_earnings_are_out_here_are_the_numbers/,Tesla earnings,"Tesla earnings are out — here are the numbers Tesla reported earnings after the bell. Here are the results.
+
+Earnings per share: 45 cents adjusted vs. 51 cents per share expected by LSEG
+Revenue: $21.30 billion vs. $22.15 billion expected by LSEG
+Wall Street is projecting revenue will drop 5.1% from $23.33 billion a year earlier, which would mark the first year-over-year drop in sales since 2020, when the Covid-19 pandemic disrupted production.
+
+Tesla shares have plummeted 42% this year on concerns about weak deliveries, competition in China and the company’s ongoing price cuts. Earlier this month, Tesla reported an 8.5% year-over-year decline in vehicle deliveries for the first quarter.
+
+Elon Musk’s electric vehicle company is now facing heightened competition worldwide, with fully electric cars still in demand but sales growth in the segment slowing. Tesla and key rivals have been slashing EV prices, on and off for months, to try to spur demand.
+
+Tesla embarked on a massive restructuring this month with two executives, Drew Baglino and Rohan Patel, resigning. Musk said last week in a companywide memo that the automaker was cutting more than 10% of its global workforce.
+
+The layoffs and resignations followed a Reuters report that said Tesla would scrap plans to make a low-cost electric car in the near future, and instead focus on self-driving technology. While Musk initially balked at the report, he later said in a post on social media site X that Tesla would go “balls to the wall for autonomy.”
+
+Musk has promised investors and customers a self-driving vehicle for years, but never delivered.
+
+He is now saying there will be an unveiling of a Tesla robotaxi on Aug. 8, 2024. Unveiling events do not mean a vehicle is ready to be produced. For example, Tesla first unveiled a new version of its Roadster in December 2017, and has yet to produce the car.
+
+Shareholders submitted and voted on questions for Tesla executives to answer ahead of Tuesday’s call. Submissions included a request for a “realistic timeline for launching a revenue-generating robotaxi network,” and a progress update on a “cheaper next-generation vehicle.”
+
+A livestream of the earnings call is scheduled for 5:30 p.m. ET.
+
+Source: https://www.cnbc.com/2024/04/23/tesla-tsla-earnings-q1-2024-.html"
+TSLA_004,1cbzohq,stocks,2024-04-24 14:30:34,These are the stocks on my watchlist (4/24),"  
+Hi! I am an ex-prop trader that trades equities.
+
+  
+This is a daily watchlist for trading. I might trade all of the stocks on here, or none of them, on any given day. I might trade stocks that don't appear on here! I hold no positions in any stocks long-term but Amazon/Mag7/general broad market indices. (unless otherwise noted in these tickers). If you’re on old reddit, click “show images” at the top to see all the charts quickly.
+
+  
+I usually make these watchlists premarket, (or from 6:30 to 7 as time permits), but can be delayed if I'm trading the open. These aren't mean to be taken as gospel or any recommendation to buy/sell. 
+
+Many stocks I post are <$500M market cap. Most are NOT good long-term investments but are good candidates to day trade. If you have questions to ask, PLEASE ask specific ones. Questions like “Thoughts on \_\_\_\_\_? will be ignored unless you add detail to the question”.
+
+  
+News:  [Boeing’s $3.9 Billion Cash Burn Adds Urgency to Revival Plan](https://www.bloomberg.com/news/articles/2024-04-24/boeing-s-3-9-billion-cash-burn-adds-urgency-to-quality-reboot)
+
+  
+**TSLA-** Missed earnings but the stock went up anyway. Tesla's first-quarter earnings showed drops of 9% for sales and 48% for adjusted profit, as compared with first-quarter 2023 results. Revenue dropped to $21.3 billion.  
+  
+  
+**RILY-** Confirms that the company had nothing to do with Brian Kahn, who the company had a close relationship with. Kahn was involved in the collapse of a hedge fund and defaulted on settlements to pay off defrauded investors.   
+   
+**CPRI-** Yesterday’s news- FTC sues to block Tapestry’s $8.5 acquisition of CPRI, vote was rumored to be 5-0 (meaning that it’s extremely unlikely this acquisition will go through). Stock has fallen even further today, worth watching.  
+   
+**BA-** Reported earnings today- -$1.13 vs -$1.43 EPS, confirmed cuts of 737 production. Sold half of my position at open, still holding the rest from $170.   
+  
+  
+Longer-term watches: NVDA/SMCI, SNOW, BA (long), ULTA, TSLA  
+  
+",0,7,https://www.reddit.com/r/stocks/comments/1cbzohq/these_are_the_stocks_on_my_watchlist_424/,Tesla earnings,"These are the stocks on my watchlist (4/24)   
+Hi! I am an ex-prop trader that trades equities.
+
+  
+This is a daily watchlist for trading. I might trade all of the stocks on here, or none of them, on any given day. I might trade stocks that don't appear on here! I hold no positions in any stocks long-term but Amazon/Mag7/general broad market indices. (unless otherwise noted in these tickers). If you’re on old reddit, click “show images” at the top to see all the charts quickly.
+
+  
+I usually make these watchlists premarket, (or from 6:30 to 7 as time permits), but can be delayed if I'm trading the open. These aren't mean to be taken as gospel or any recommendation to buy/sell. 
+
+Many stocks I post are <$500M market cap. Most are NOT good long-term investments but are good candidates to day trade. If you have questions to ask, PLEASE ask specific ones. Questions like “Thoughts on \_\_\_\_\_? will be ignored unless you add detail to the question”.
+
+  
+News:  [Boeing’s $3.9 Billion Cash Burn Adds Urgency to Revival Plan](https://www.bloomberg.com/news/articles/2024-04-24/boeing-s-3-9-billion-cash-burn-adds-urgency-to-quality-reboot)
+
+  
+**TSLA-** Missed earnings but the stock went up anyway. Tesla's first-quarter earnings showed drops of 9% for sales and 48% for adjusted profit, as compared with first-quarter 2023 results. Revenue dropped to $21.3 billion.  
+  
+  
+**RILY-** Confirms that the company had nothing to do with Brian Kahn, who the company had a close relationship with. Kahn was involved in the collapse of a hedge fund and defaulted on settlements to pay off defrauded investors.   
+   
+**CPRI-** Yesterday’s news- FTC sues to block Tapestry’s $8.5 acquisition of CPRI, vote was rumored to be 5-0 (meaning that it’s extremely unlikely this acquisition will go through). Stock has fallen even further today, worth watching.  
+   
+**BA-** Reported earnings today- -$1.13 vs -$1.43 EPS, confirmed cuts of 737 production. Sold half of my position at open, still holding the rest from $170.   
+  
+  
+Longer-term watches: NVDA/SMCI, SNOW, BA (long), ULTA, TSLA"
+TSLA_004,1cc3zkj,stocks,2024-04-24 17:21:58,Summary of Apr 23 evening & Apr 24 morning earnings,"* Tesla ⬆️ 11% after announcing new products, despite earnings miss
+* Hilton Hotels ⬆️ 4.4% after earnings beat
+* AT&T ⬆️ 2% after subscriber gains and beating earnings, cash flow expectations
+* Visa ⬆️ 1% after earnings beat
+* Boeing 🔻2% after earnings beat, but problems persist
+* General Dynamics 🔻5% after mixed earnings",18,2,https://www.reddit.com/r/stocks/comments/1cc3zkj/summary_of_apr_23_evening_apr_24_morning_earnings/,Tesla earnings,"Summary of Apr 23 evening & Apr 24 morning earnings * Tesla ⬆️ 11% after announcing new products, despite earnings miss
+* Hilton Hotels ⬆️ 4.4% after earnings beat
+* AT&T ⬆️ 2% after subscriber gains and beating earnings, cash flow expectations
+* Visa ⬆️ 1% after earnings beat
+* Boeing 🔻2% after earnings beat, but problems persist
+* General Dynamics 🔻5% after mixed earnings"
+TSLA_004,1car8j0,wallstreetbets,2024-04-23 00:45:28,Tesla tmrw earnings ,,0,3,https://i.redd.it/walg3f6sl4wc1.jpeg,Tesla earnings,Tesla tmrw earnings
+TSLA_004,1casmnu,wallstreetbets,2024-04-23 01:51:28,About that Falling Knife - Tesla,"It's time boys and girls. Earnings season is back and there is one sharp knife in the collection. TSLA. Yep, the price action on this is insane towards the $150 April 26th puts. 
+
+Who here has leveraged their house on a third HELOC at 9.66% to buy into the downside of this fantastic firesale? I know I have. 
+
+Nothing can stop this train wreck to coming to a completion after tomorrow's earnings. 
+
+What wild and crazy thing with Elon say that can save this ship from an impending port side collapse? 
+
+Look no further than previous earnings calls to get a load of what might be in store. 
+
+>If interest rates come down quickly, I think margins will be good and if they don't come down quickly they won't be that good,"" he said. ""We have lots of people who want to buy our car, but simply can't afford it. 
+
+I don't know Mr. Musk, Ford motor company is offering the Mach E for 0.00 apr financing for 72 months. Interest rates aren't coming down anytime soon so the notion that Musk can call out to full year guidance isn't even a realistic thing. Interest rates aren't coming down at all so kiss those margin lips goodbye. 
+
+What's crazy is why wouldn't he offer 0.00% financing considering when you buy a Tesla you lose about 30% in value as soon as you drive it off the lot. 
+
+ What about this doozy of a foresight 
+
+>It's a longshot worth taking because the payoff potential is very high, but it's not a sure thing at all. It's a high-risk, high-payoff program,"" Musk said. ""Dojo is working and it is doing training jobs; we are scaling it up and we have plans for Dojo 1.5, Dojo 2 and Dojo 3. It's got potential but can't emphasize enough: high risk, high payoff. 
+
+I don't know, Jensen Huang said he has this ready for any car company to develop and tailor to their needs. All they have to do is buy the ""chips"". 
+
+[Nvidia Drive](https://preview.redd.it/e64uokb6t4wc1.png?width=1537&format=png&auto=webp&s=fbcc23c246f35290643393cc6d021d4df14fde7b)
+
+Nvidia drive is getting trained by synthetic data in a digital twin. All that data capturing by Tesla owners will be nothing compared to the endless synthetic situations that can train the Nvidia drive platform along with data capture. 
+
+The point is, Robotaxis aren't going to be a only Tesla thing. They will be an entire automotive autonomous driving thing for many players. 
+
+This is devastating because while Mr. Musk may mention Robotaxis 1000 times on this earnings call it will ring hollow to the rest of the industry listening. Yeah, we can do that too. 
+
+And all of that is before 1 law even allows Robotaxis to exist in the first place. Look for that legislation to pass in 2030 in the shortest period possible once they prove this technology won't kill people. 
+
+But there's more
+
+Tesla is building robots too and they should be ready next year. Again, Jensen Huang just eating that lunch. See here's a thing that some of you didn't know. Story time. Once upon a time Elon invested in a company called OpenAI. After some infighting, arguing and things happening Elong decided to give OpenAI and ultimatum if they wanted to continue to exist. He told them to fold OpenAI into Tesla and they were like Nah bro we good. 
+
+In a big brain smooth move Elon said ok and peaced out.
+
+So the thing that could power Optimus's brain in the best way is not at Tesla. It's at Microsoft. Good one Elon.  
+
+>After spending the past year teasing continuous upgrades to Tesla's Optimus project, Musk said that the company has a chance of shipping ""some number of Optimus units next year.""   
+>  
+>Calling it a ""revolutionary"" product, Musk said that Optimus ""has the potential to far exceed the value of everything else at Tesla combined.""
+
+So what does it all mean? If you ask me I say the chickens are coming home to roost. 
+
+If Tesla can't maintain the last blockade of selling pressure of $138 - $135 the dam will break and this stock goes to $100 in a matter of weeks. 
+
+Matter of weeks? Mmm, maybe a matter of days. 
+
+In the end, it was just a car company. Do I think this is the end of Tesla? No, I think it's a great company. It may just be time for a leadership change and a massive investment in charging stations with a 0.00% apr buy down so they can sell units and FSD. 
+
+I do think they can turn things around but let's be clear. There is no amount of fairy dust Musk can put on this pig in the short term. He's going to have to work his way out of it. The competition is fierce and the headwinds are coming for Tesla like we've never seen before. 
+
+I don't know who is still shitting out fantasy numbers and price points of $294 but you have to be kidding. Or who's saying this has the opportunity to be largest and greatest tech company in the world. This ain't it. 
+
+Cathy Wood has stopped buying Tesla and Wedbush is about off this train too. You can make money off of this too. Don't miss this falling knife hit the floor. 
+
+here's the price action and it's a sight to behold
+
+https://preview.redd.it/o17ais3kw4wc1.png?width=1416&format=png&auto=webp&s=57797003a6594ecdd0b09ecc540254a8be63ceec
+
+Positions - Small Short about to be a LARGE short. ",108,150,https://www.reddit.com/r/wallstreetbets/comments/1casmnu/about_that_falling_knife_tesla/,Tesla earnings,"About that Falling Knife - Tesla It's time boys and girls. Earnings season is back and there is one sharp knife in the collection. TSLA. Yep, the price action on this is insane towards the $150 April 26th puts. 
+
+Who here has leveraged their house on a third HELOC at 9.66% to buy into the downside of this fantastic firesale? I know I have. 
+
+Nothing can stop this train wreck to coming to a completion after tomorrow's earnings. 
+
+What wild and crazy thing with Elon say that can save this ship from an impending port side collapse? 
+
+Look no further than previous earnings calls to get a load of what might be in store. 
+
+>If interest rates come down quickly, I think margins will be good and if they don't come down quickly they won't be that good,"" he said. ""We have lots of people who want to buy our car, but simply can't afford it. 
+
+I don't know Mr. Musk, Ford motor company is offering the Mach E for 0.00 apr financing for 72 months. Interest rates aren't coming down anytime soon so the notion that Musk can call out to full year guidance isn't even a realistic thing. Interest rates aren't coming down at all so kiss those margin lips goodbye. 
+
+What's crazy is why wouldn't he offer 0.00% financing considering when you buy a Tesla you lose about 30% in value as soon as you drive it off the lot. 
+
+ What about this doozy of a foresight 
+
+>It's a longshot worth taking because the payoff potential is very high, but it's not a sure thing at all. It's a high-risk, high-payoff program,"" Musk said. ""Dojo is working and it is doing training jobs; we are scaling it up and we have plans for Dojo 1.5, Dojo 2 and Dojo 3. It's got potential but can't emphasize enough: high risk, high payoff. 
+
+I don't know, Jensen Huang said he has this ready for any car company to develop and tailor to their needs. All they have to do is buy the ""chips"". 
+
+[Nvidia Drive](https://preview.redd.it/e64uokb6t4wc1.png?width=1537&format=png&auto=webp&s=fbcc23c246f35290643393cc6d021d4df14fde7b)
+
+Nvidia drive is getting trained by synthetic data in a digital twin. All that data capturing by Tesla owners will be nothing compared to the endless synthetic situations that can train the Nvidia drive platform along with data capture. 
+
+The point is, Robotaxis aren't going to be a only Tesla thing. They will be an entire automotive autonomous driving thing for many players. 
+
+This is devastating because while Mr. Musk may mention Robotaxis 1000 times on this earnings call it will ring hollow to the rest of the industry listening. Yeah, we can do that too. 
+
+And all of that is before 1 law even allows Robotaxis to exist in the first place. Look for that legislation to pass in 2030 in the shortest period possible once they prove this technology won't kill people. 
+
+But there's more
+
+Tesla is building robots too and they should be ready next year. Again, Jensen Huang just eating that lunch. See here's a thing that some of you didn't know. Story time. Once upon a time Elon invested in a company called OpenAI. After some infighting, arguing and things happening Elong decided to give OpenAI and ultimatum if they wanted to continue to exist. He told them to fold OpenAI into Tesla and they were like Nah bro we good. 
+
+In a big brain smooth move Elon said ok and peaced out.
+
+So the thing that could power Optimus's brain in the best way is not at Tesla. It's at Microsoft. Good one Elon.  
+
+>After spending the past year teasing continuous upgrades to Tesla's Optimus project, Musk said that the company has a chance of shipping ""some number of Optimus units next year.""   
+>  
+>Calling it a ""revolutionary"" product, Musk said that Optimus ""has the potential to far exceed the value of everything else at Tesla combined.""
+
+So what does it all mean? If you ask me I say the chickens are coming home to roost. 
+
+If Tesla can't maintain the last blockade of selling pressure of $138 - $135 the dam will break and this stock goes to $100 in a matter of weeks. 
+
+Matter of weeks? Mmm, maybe a matter of days. 
+
+In the end, it was just a car company. Do I think this is the end of Tesla? No, I think it's a great company. It may just be time for a leadership change and a massive investment in charging stations with a 0.00% apr buy down so they can sell units and FSD. 
+
+I do think they can turn things around but let's be clear. There is no amount of fairy dust Musk can put on this pig in the short term. He's going to have to work his way out of it. The competition is fierce and the headwinds are coming for Tesla like we've never seen before. 
+
+I don't know who is still shitting out fantasy numbers and price points of $294 but you have to be kidding. Or who's saying this has the opportunity to be largest and greatest tech company in the world. This ain't it. 
+
+Cathy Wood has stopped buying Tesla and Wedbush is about off this train too. You can make money off of this too. Don't miss this falling knife hit the floor. 
+
+here's the price action and it's a sight to behold
+
+https://preview.redd.it/o17ais3kw4wc1.png?width=1416&format=png&auto=webp&s=57797003a6594ecdd0b09ecc540254a8be63ceec
+
+Positions - Small Short about to be a LARGE short."
+TSLA_004,1catjzn,wallstreetbets,2024-04-23 02:35:44,'Expect some fireworks': What to look for in Tesla’s crucial earnings report on Tuesday,,19,10,https://www.forbes.com.au/news/investing/crucial-tesla-earning-report/,Tesla earnings,'Expect some fireworks': What to look for in Tesla’s crucial earnings report on Tuesday
+TSLA_004,1cb3pqq,wallstreetbets,2024-04-23 12:46:19,TSLA: Big question for Elon today on earnings day!,"IMO, the biggest question for Elon to answer during today’s earnings will be what is Tesla strategy to counter $20K BYD Chinese cars coming into US soon from Mexican factories?
+
+BYD executives announced on Wednesday the automaker will begin selling its Dolphin Mini electric vehicle (EV) in Mexico at 358,800 pesos ($20,990).
+
+I have been saying for a long time now, Tesla needs a CEO who can focus on the car, customers & shareholders instead of X, fighting with media and its main customers - the liberals who have almost completely abandoned Tesla. IMO, the way things are going Tesla may go down below $125 soon.
+
+https://www.reuters.com/business/autos-transportation/chinese-carmaker-byd-launches-low-cost-dolphin-mini-ev-mexico-2024-02-28/#:~:text=BYD%20executives%20announced%20on%20Wednesday,in%20reach%20of%20Mexican%20consumers.
+
+Disclosure: I’m not a financial advisor and own no Tesla shares. It just hurts watching how things are spiralling down at an iconic company in front of our own eyes.",477,309,https://www.reddit.com/r/wallstreetbets/comments/1cb3pqq/tsla_big_question_for_elon_today_on_earnings_day/,Tesla earnings,"TSLA: Big question for Elon today on earnings day! IMO, the biggest question for Elon to answer during today’s earnings will be what is Tesla strategy to counter $20K BYD Chinese cars coming into US soon from Mexican factories?
+
+BYD executives announced on Wednesday the automaker will begin selling its Dolphin Mini electric vehicle (EV) in Mexico at 358,800 pesos ($20,990).
+
+I have been saying for a long time now, Tesla needs a CEO who can focus on the car, customers & shareholders instead of X, fighting with media and its main customers - the liberals who have almost completely abandoned Tesla. IMO, the way things are going Tesla may go down below $125 soon.
+
+https://www.reuters.com/business/autos-transportation/chinese-carmaker-byd-launches-low-cost-dolphin-mini-ev-mexico-2024-02-28/#:~:text=BYD%20executives%20announced%20on%20Wednesday,in%20reach%20of%20Mexican%20consumers.
+
+Disclosure: I’m not a financial advisor and own no Tesla shares. It just hurts watching how things are spiralling down at an iconic company in front of our own eyes."
+TSLA_004,1cb996l,wallstreetbets,2024-04-23 16:39:22,tesla earnings enter extreme fear levels,,44,10,https://i.redd.it/h5kly37vb9wc1.jpeg,Tesla earnings,tesla earnings enter extreme fear levels
+TSLA_004,1cbapw9,wallstreetbets,2024-04-23 17:38:08,Tesla just announced release of new model three performance today,Will this affect the market with today’s earnings? Elon is clearly making a desperate attempt to save face. Will it matter,6,7,https://www.reddit.com/r/wallstreetbets/comments/1cbapw9/tesla_just_announced_release_of_new_model_three/,Tesla earnings,Tesla just announced release of new model three performance today Will this affect the market with today’s earnings? Elon is clearly making a desperate attempt to save face. Will it matter
+TSLA_004,1cbbpu5,wallstreetbets,2024-04-23 18:17:41,Tesla Puts will not print,"I am a Tesla bear, and made some decent change on puts last week. My gut says puts will be destroyed today, here is why:  
+
+
+1. Missing earnings is priced in, if anything, stock was oversold. Some big hedge funds are actually buying in, and analyst price targets are higher than current prices
+2. Tesla isn't just a car company. I am not pretending that it's a tech company per se, but it has other divisions, like battery that are profitable. Also, the FSD price cut will be instrumental going forward. I don't know of many car company that have convinced its buyers to pay $100 a month-$1200  a year per car on subscription.
+3. Even though its being dragged, it still can pivot, and we know Musk-the guy who has convinced millions of people on his 'genius', isn't going to just admit defeat, and watch the stock go to shit, when he was just recently trying to get a 56 Billion payout
+
+I know y'all won't listen, but cash out. ",1150,392,https://www.reddit.com/r/wallstreetbets/comments/1cbbpu5/tesla_puts_will_not_print/,Tesla earnings,"Tesla Puts will not print I am a Tesla bear, and made some decent change on puts last week. My gut says puts will be destroyed today, here is why:  
+
+
+1. Missing earnings is priced in, if anything, stock was oversold. Some big hedge funds are actually buying in, and analyst price targets are higher than current prices
+2. Tesla isn't just a car company. I am not pretending that it's a tech company per se, but it has other divisions, like battery that are profitable. Also, the FSD price cut will be instrumental going forward. I don't know of many car company that have convinced its buyers to pay $100 a month-$1200  a year per car on subscription.
+3. Even though its being dragged, it still can pivot, and we know Musk-the guy who has convinced millions of people on his 'genius', isn't going to just admit defeat, and watch the stock go to shit, when he was just recently trying to get a 56 Billion payout
+
+I know y'all won't listen, but cash out."
+TSLA_004,1cbc3ic,wallstreetbets,2024-04-23 18:32:47,This is why you need to get in TSLA puts,"It's an absolute no brainer. Cyber truck sucks, their semi sucks. All they have are a few cars that are made cheaper and cheaper because they're no longer selling as well. And what happened to the Tesla Roadster? It'll never come out. I'm grabbing puts. 135p looks good for 4/26, only 280 bucks a pop. Plus the stock is up 2% so they're at a discount today. 
+
+Every article I've read on Tesla today has been bearish. CNBC, Yahoo Finance, even fucking Reuters has been trashing on Musk. The guy believes Tesla is an AI company. Lol ""self driving"" c'mon
+
+For reference, TSLA dropped over 10% last earnings, and the one before it, and the one before that, and the one before that.",6,49,https://www.reddit.com/r/wallstreetbets/comments/1cbc3ic/this_is_why_you_need_to_get_in_tsla_puts/,Tesla earnings,"This is why you need to get in TSLA puts It's an absolute no brainer. Cyber truck sucks, their semi sucks. All they have are a few cars that are made cheaper and cheaper because they're no longer selling as well. And what happened to the Tesla Roadster? It'll never come out. I'm grabbing puts. 135p looks good for 4/26, only 280 bucks a pop. Plus the stock is up 2% so they're at a discount today. 
+
+Every article I've read on Tesla today has been bearish. CNBC, Yahoo Finance, even fucking Reuters has been trashing on Musk. The guy believes Tesla is an AI company. Lol ""self driving"" c'mon
+
+For reference, TSLA dropped over 10% last earnings, and the one before it, and the one before that, and the one before that."
+TSLA_004,1cbc8dj,wallstreetbets,2024-04-23 18:38:09,$TSLA - I'm buying more. Let's see how this ages post earnings. (PURE DEGEN SPECULATION),"What happened to the degens in this sub wtf? 
+
+Anyways take this take with a grain of salt as I'm only an investment banker that uses a mouse with excel and using my whole $10 bonus this year to do this. I'm a long-term investor (5+ year horizon) I've read most recent research reports and considering how autistic Elon is I think there will be a nice lil rally after earnings tonight. The stock is trading near 2023 lows... Even if it goes lower to $100 I'll just buy more. People keep trying to say whether the stock is fairly priced but there is no exact comparable to this company (bUt wDyMm iT's mO0rE tHaNn tHe Wh0Le cAr mArKeT fO0rD hAsS bEtTeR cRuIisE cO0nTro0O0o0l itS tHe sAmE tHiiNg...) Finance is all theories - AKA NOT FACTS (never was never will be a right or wrong answer) People that say its overvalued are either boomers or those who believe in last decade financial theories that MAY or MAY NOT hold with todays stock market reactions. Or maybe they are right...Have y'all forgotten the previous rally? do you think Tesla is in a better place TODAY vs. then? feel free to bash me but TO THE MOON (either today or eventually one day 100%) ",45,63,https://www.reddit.com/r/wallstreetbets/comments/1cbc8dj/tsla_im_buying_more_lets_see_how_this_ages_post/,Tesla earnings,"$TSLA - I'm buying more. Let's see how this ages post earnings. (PURE DEGEN SPECULATION) What happened to the degens in this sub wtf? 
+
+Anyways take this take with a grain of salt as I'm only an investment banker that uses a mouse with excel and using my whole $10 bonus this year to do this. I'm a long-term investor (5+ year horizon) I've read most recent research reports and considering how autistic Elon is I think there will be a nice lil rally after earnings tonight. The stock is trading near 2023 lows... Even if it goes lower to $100 I'll just buy more. People keep trying to say whether the stock is fairly priced but there is no exact comparable to this company (bUt wDyMm iT's mO0rE tHaNn tHe Wh0Le cAr mArKeT fO0rD hAsS bEtTeR cRuIisE cO0nTro0O0o0l itS tHe sAmE tHiiNg...) Finance is all theories - AKA NOT FACTS (never was never will be a right or wrong answer) People that say its overvalued are either boomers or those who believe in last decade financial theories that MAY or MAY NOT hold with todays stock market reactions. Or maybe they are right...Have y'all forgotten the previous rally? do you think Tesla is in a better place TODAY vs. then? feel free to bash me but TO THE MOON (either today or eventually one day 100%)"
+TSLA_004,1cbes9w,wallstreetbets,2024-04-23 20:19:35,Tesla's earnings missed analysts' estimates,,4497,783,https://i.redd.it/dftxy0x9fawc1.jpeg,Tesla earnings,Tesla's earnings missed analysts' estimates
+TSLA_004,1cbetr9,wallstreetbets,2024-04-23 20:21:06,"Tesla Q1 2024 earnings results misses on all counts, stock rises after hours ","My calls I bought this morning are very happy rn.  Always inverse WSB, you don’t fuck against Elons cuck",1110,257,https://www.teslarati.com/tesla-q1-2024-earnings-results/amp/,Tesla earnings,"Tesla Q1 2024 earnings results misses on all counts, stock rises after hours  My calls I bought this morning are very happy rn.  Always inverse WSB, you don’t fuck against Elons cuck"
+TSLA_004,1cbf2jf,wallstreetbets,2024-04-23 20:30:48,Tesla Earnings Fall To Lowest Level Since 2021. Tesla Stock Surges Late.,,291,64,https://www.investors.com/news/tesla-earnings-fall-tesla-stock-surges/,Tesla earnings,Tesla Earnings Fall To Lowest Level Since 2021. Tesla Stock Surges Late.
+TSLA_004,1cbfajx,wallstreetbets,2024-04-23 20:39:47,The good Tesla feeling	,"I am feeling so good right now!  I put some options on Tesla because I KNEW they would miss by a mile (but then I thought, if I know this everybody else does too) so I closed out my put ooption and look the profit I already had this morning.
+Telsa did miss their earnings by a mile, BUT went UP!  I would have been wiped out!
+
+I'm sure some novice investor is out their pulling their hair out.  Thinking WHY WHY WHY.  Things are so bad at Telsa why did the stock go up!  It's because it was already priced in!  I fell ya.  I've been that guy plenty of times.",122,40,https://www.reddit.com/r/wallstreetbets/comments/1cbfajx/the_good_tesla_feeling/,Tesla earnings,"The good Tesla feeling	 I am feeling so good right now!  I put some options on Tesla because I KNEW they would miss by a mile (but then I thought, if I know this everybody else does too) so I closed out my put ooption and look the profit I already had this morning.
+Telsa did miss their earnings by a mile, BUT went UP!  I would have been wiped out!
+
+I'm sure some novice investor is out their pulling their hair out.  Thinking WHY WHY WHY.  Things are so bad at Telsa why did the stock go up!  It's because it was already priced in!  I fell ya.  I've been that guy plenty of times."
+TSLA_004,1cbfp2e,wallstreetbets,2024-04-23 20:55:59,Tesla and Meta earnings: 2,Tesla prediction is done and its turn for Meta now. How many of you agree with this picture?,7,2,https://i.redd.it/6mruagrrlawc1.jpeg,Tesla earnings,Tesla and Meta earnings: 2 Tesla prediction is done and its turn for Meta now. How many of you agree with this picture?
+TSLA_004,1cbhsgz,wallstreetbets,2024-04-23 22:19:29,Elon quoting Cathie Wood in the earnings call,"""I think Cathie Wood said it best recently, that Tesla is an AI  robotics company""
+
+Discuss amongst yahselves",6,7,https://www.reddit.com/r/wallstreetbets/comments/1cbhsgz/elon_quoting_cathie_wood_in_the_earnings_call/,Tesla earnings,"Elon quoting Cathie Wood in the earnings call ""I think Cathie Wood said it best recently, that Tesla is an AI  robotics company""
+
+Discuss amongst yahselves"
+TSLA_004,1cbkmyh,wallstreetbets,2024-04-24 00:25:55,"Tesla stock earnings down, not investors hope.","After TSLA’s Q1 announcement, though eps was down through the current quarter, expectations for next quarter will be positive. Revealing Optimus coming out this year-2025 will gain TSLA millions of extra revenue to lead their planning into their new Uber-Airbnb like app. Revenues for the current year of 2024 are bullish and likely to push record heights. Though TSLAS current revenue through Q1 did not meet expectations of 0.51, the future of the company has a steel foundation in the EV and AI future.",4,6,https://i.redd.it/y9muxfz7nbwc1.jpeg,Tesla earnings,"Tesla stock earnings down, not investors hope. After TSLA’s Q1 announcement, though eps was down through the current quarter, expectations for next quarter will be positive. Revealing Optimus coming out this year-2025 will gain TSLA millions of extra revenue to lead their planning into their new Uber-Airbnb like app. Revenues for the current year of 2024 are bullish and likely to push record heights. Though TSLAS current revenue through Q1 did not meet expectations of 0.51, the future of the company has a steel foundation in the EV and AI future."
+TSLA_004,1cblm6g,wallstreetbets,2024-04-24 01:13:06,You have to feel for Tesla bears at least a little on this one.,"You have to feel at least a little sorry for bears on this one. Misses earnings by a lot . Not like a couple million but a couple BILLION . 52c eps expected vs 45c eps reported. Its largest drop in demand since covid when supply was cut in half. Free cash flow  -2.5B vs -600m expectation. Tesla bottomed at $100 last year on much better earnings than this.  
+But yet stock absolutely moons because why? They’re making a shitty value car ? Maybe possibly by the end of the year ? 
+Earnings literally couldn’t have came in any better for bears but it does the complete opposite. What a wild market. ",1564,441,https://i.redd.it/3xp8og5nvbwc1.jpeg,Tesla earnings,"You have to feel for Tesla bears at least a little on this one. You have to feel at least a little sorry for bears on this one. Misses earnings by a lot . Not like a couple million but a couple BILLION . 52c eps expected vs 45c eps reported. Its largest drop in demand since covid when supply was cut in half. Free cash flow  -2.5B vs -600m expectation. Tesla bottomed at $100 last year on much better earnings than this.  
+But yet stock absolutely moons because why? They’re making a shitty value car ? Maybe possibly by the end of the year ? 
+Earnings literally couldn’t have came in any better for bears but it does the complete opposite. What a wild market."
+TSLA_004,1cbofti,wallstreetbets,2024-04-24 03:34:06,Elon is a genius,"Reuters publishes an article claiming that Tesla is scrapping the idea of a $25k car. Elon says that Reuters is lying, followed by Tesla announcing that they are firing a bunch of employees and slashing the prices of their cars yet again. Analysts, the media, and twitter warriors all voice their opinions that a core thesis of their investment in Tesla is a mass market $25k car, and without it, their investment doesn't make much sense. They understand the car business on a deep level and know that in order for a company to become very successful, they must be able to sell products for very cheap. Nike is successful by selling cheap shoes, Apple is successful by selling cheap phones, and Tesla will be successful by selling cheap $25k cars. Stock price goes down on the news. Elon goes on the earnings call and explains that actually, Tesla is firing employees and pausing construction on new factories in order to accelerate the development and production of a cheaper car. Stock price goes up on Elon's explanation, shareholders are happy, and Elon crosses his fingers that shareholders will now vote ""yes"" to give him $50 billion dollars. And everyone lived happily ever after.",0,29,https://www.reddit.com/r/wallstreetbets/comments/1cbofti/elon_is_a_genius/,Tesla earnings,"Elon is a genius Reuters publishes an article claiming that Tesla is scrapping the idea of a $25k car. Elon says that Reuters is lying, followed by Tesla announcing that they are firing a bunch of employees and slashing the prices of their cars yet again. Analysts, the media, and twitter warriors all voice their opinions that a core thesis of their investment in Tesla is a mass market $25k car, and without it, their investment doesn't make much sense. They understand the car business on a deep level and know that in order for a company to become very successful, they must be able to sell products for very cheap. Nike is successful by selling cheap shoes, Apple is successful by selling cheap phones, and Tesla will be successful by selling cheap $25k cars. Stock price goes down on the news. Elon goes on the earnings call and explains that actually, Tesla is firing employees and pausing construction on new factories in order to accelerate the development and production of a cheaper car. Stock price goes up on Elon's explanation, shareholders are happy, and Elon crosses his fingers that shareholders will now vote ""yes"" to give him $50 billion dollars. And everyone lived happily ever after."
+TSLA_004,1cbv108,wallstreetbets,2024-04-24 10:45:24,A 10 percent move for Tesla on a miss with earnings ? How?,"Look at the chart just to my eye there’s not a trade I’ll put on now if I’m not already in  because I’m more of a momentum kind of trader  I let the trend be my friend and I believe Tesla can trade in this wedge and if that’s the case I’ll wait to see with direct it will break. Tesla has been In a down trend for some time now so maybe the buyers will participate because of their belief of the stock price being at a price they consider cheap? My guess is as good as yours the big money that moves the market does what ever they want. We all will soon know Tesla miss on earnings and had a 10 percent jump after hours, what is next for Tesla ? Will u trade it ? If so which way? Or will you just leave it alone ? ",630,410,https://i.redd.it/o3qasdxqpewc1.jpeg,Tesla earnings,"A 10 percent move for Tesla on a miss with earnings ? How? Look at the chart just to my eye there’s not a trade I’ll put on now if I’m not already in  because I’m more of a momentum kind of trader  I let the trend be my friend and I believe Tesla can trade in this wedge and if that’s the case I’ll wait to see with direct it will break. Tesla has been In a down trend for some time now so maybe the buyers will participate because of their belief of the stock price being at a price they consider cheap? My guess is as good as yours the big money that moves the market does what ever they want. We all will soon know Tesla miss on earnings and had a 10 percent jump after hours, what is next for Tesla ? Will u trade it ? If so which way? Or will you just leave it alone ?"
+TSLA_004,1cbxti6,wallstreetbets,2024-04-24 13:11:20,"What Tesla bears do not see (humanoid robots, PMI)","I have been a Tesla bear for a long time and have not invested in them until very recently. I only bought \~30 shares (DCA from 160 to 140, with average price \~150) because I was waiting for it to get to $120, but I guess if everyone wants it at $120 it won’t go to that price. Anyways, a lot of people seem to be upset that Tesla did not nosedive after the well-expected horrible earnings but Tesla can be very good stock at current price for two reasons.
+
+1. I believe humanoid robots will be one of the most important technology of this decade and Tesla is at the forefront. Tesla is the only company (other than Hyundai probably) that has mass production experience and technology to make humanoid robots. Good engineers still prefer to work at Tesla than other manufacturing companies. For example, last time I checked around 2023, most of the PhD students from top robotics lab at UCLA went on to work at Tesla. The AI development for robots will probably be easier than robotaxi because there is much larger margin of error (not moving at 100mph, mostly controlled environment). If they announce something like “commercial robots at factories 202X and at homes 202(X+P) for $Y0,000,” the stock price can go $300s.
+2. Tesla is considered to be very interest rate sensitive. There was a lot of fear that US inflation just will not come down (some even suggesting that the Fed will raise rates). But PMI result that came out yesterday morning was much better for inflation than expected. Tesla stock can pop with rate cut.
+
+  
+I agree with bears (and have been Tesla bear) that much of the stock price already priced in Tesla’s dreams. However, even if none of their dreams come true, Tesla will probably be $120 around 2026 where as the upside is massive.
+
+P.S. With that said, I have following bearish points just to summarize my thoughts.
+
+1. EV is inferior product for consumer experience compared to ICE for most people unless autonomous driving or solid-state battery become available. People make analogy of ICE-to-EV to 2G-to-smartphone but I wonder if these people actually have ever been on road trips with EV.
+2. Robotaxi with vision-only might never happen. The AI issue of robotaxi is very different from generative AI as generative AI is almost expected to be wrong much of the times whereas robotaxi cannot be wrong ever. It is a tail-end, rare-event problem. People assume that Tesla will be the only one to solve robotaxi because they have more data than others, but I can make petabytes of data by copy-pasting some videos. What is important is the ability to reliably deal with long-tail problems, which might just require additional sensors. In that case, Tesla already sold FSD with promise of vision-only L4-5 technology. Are they going to recall them to add LIDARS? With that said, I am not expert in this field and have been wrong about capabilities of AI (didn’t expect a language model like ChatGPT happening so fast) so I could be wrong.
+3. Many people price in SpaceX and Neural link into Tesla. As far as I know, these are separate companies.",0,40,https://www.reddit.com/r/wallstreetbets/comments/1cbxti6/what_tesla_bears_do_not_see_humanoid_robots_pmi/,Tesla earnings,"What Tesla bears do not see (humanoid robots, PMI) I have been a Tesla bear for a long time and have not invested in them until very recently. I only bought \~30 shares (DCA from 160 to 140, with average price \~150) because I was waiting for it to get to $120, but I guess if everyone wants it at $120 it won’t go to that price. Anyways, a lot of people seem to be upset that Tesla did not nosedive after the well-expected horrible earnings but Tesla can be very good stock at current price for two reasons.
+
+1. I believe humanoid robots will be one of the most important technology of this decade and Tesla is at the forefront. Tesla is the only company (other than Hyundai probably) that has mass production experience and technology to make humanoid robots. Good engineers still prefer to work at Tesla than other manufacturing companies. For example, last time I checked around 2023, most of the PhD students from top robotics lab at UCLA went on to work at Tesla. The AI development for robots will probably be easier than robotaxi because there is much larger margin of error (not moving at 100mph, mostly controlled environment). If they announce something like “commercial robots at factories 202X and at homes 202(X+P) for $Y0,000,” the stock price can go $300s.
+2. Tesla is considered to be very interest rate sensitive. There was a lot of fear that US inflation just will not come down (some even suggesting that the Fed will raise rates). But PMI result that came out yesterday morning was much better for inflation than expected. Tesla stock can pop with rate cut.
+
+  
+I agree with bears (and have been Tesla bear) that much of the stock price already priced in Tesla’s dreams. However, even if none of their dreams come true, Tesla will probably be $120 around 2026 where as the upside is massive.
+
+P.S. With that said, I have following bearish points just to summarize my thoughts.
+
+1. EV is inferior product for consumer experience compared to ICE for most people unless autonomous driving or solid-state battery become available. People make analogy of ICE-to-EV to 2G-to-smartphone but I wonder if these people actually have ever been on road trips with EV.
+2. Robotaxi with vision-only might never happen. The AI issue of robotaxi is very different from generative AI as generative AI is almost expected to be wrong much of the times whereas robotaxi cannot be wrong ever. It is a tail-end, rare-event problem. People assume that Tesla will be the only one to solve robotaxi because they have more data than others, but I can make petabytes of data by copy-pasting some videos. What is important is the ability to reliably deal with long-tail problems, which might just require additional sensors. In that case, Tesla already sold FSD with promise of vision-only L4-5 technology. Are they going to recall them to add LIDARS? With that said, I am not expert in this field and have been wrong about capabilities of AI (didn’t expect a language model like ChatGPT happening so fast) so I could be wrong.
+3. Many people price in SpaceX and Neural link into Tesla. As far as I know, these are separate companies."
+TSLA_004,1cbzgyf,wallstreetbets,2024-04-24 14:22:10,Breaking down why TSLA is up 10% after a huge earnings miss,"A lot of people are perplexed why TSLA's market cap went up 50 billions while they post some of the worse numbers and trends in a long time. It's actually very simple, let me break it down for you regarded folks.
+
+Tesla's highest market cap was 1.24 trillion, worth more than every other major automaker combined. Let's say, for simplicity's sake, TSLA at it's peak had an Overvaluement Factor (OF) of 69. Clearly, that was too much, and the stock dwindled down to having a mere OF of 30. 
+
+Now, everybody expected the earnings to be dogshit, and the price kept dropping. However, what we got instead was horseshit, which has considerably more value than dogshit. Thus, people realized that this fresh steaming pile of horse dung at the current price is an insane bargain. So, the people did the most rational thing; they ate it all up. It's all quite simple really.
+
+TLDR: People thought they were buying dogshit at 145$ a bag, but turns out it was horseshit. Horseshit has more nutritional value than dogshit (maybe, idk), and thus it was a substantial deal of a lifetime which pumped up the price to 165$ a bag.",45,43,https://www.reddit.com/r/wallstreetbets/comments/1cbzgyf/breaking_down_why_tsla_is_up_10_after_a_huge/,Tesla earnings,"Breaking down why TSLA is up 10% after a huge earnings miss A lot of people are perplexed why TSLA's market cap went up 50 billions while they post some of the worse numbers and trends in a long time. It's actually very simple, let me break it down for you regarded folks.
+
+Tesla's highest market cap was 1.24 trillion, worth more than every other major automaker combined. Let's say, for simplicity's sake, TSLA at it's peak had an Overvaluement Factor (OF) of 69. Clearly, that was too much, and the stock dwindled down to having a mere OF of 30. 
+
+Now, everybody expected the earnings to be dogshit, and the price kept dropping. However, what we got instead was horseshit, which has considerably more value than dogshit. Thus, people realized that this fresh steaming pile of horse dung at the current price is an insane bargain. So, the people did the most rational thing; they ate it all up. It's all quite simple really.
+
+TLDR: People thought they were buying dogshit at 145$ a bag, but turns out it was horseshit. Horseshit has more nutritional value than dogshit (maybe, idk), and thus it was a substantial deal of a lifetime which pumped up the price to 165$ a bag."
+TSLA_004,1cc0e8n,wallstreetbets,2024-04-24 15:00:12,"After 7 years, Tesla’s head of Investor Relations announces his resignation after earnings call yesterday. 🤔🧐","Something fishy about this abrupt departure 
+",2906,374,https://i.redd.it/c83jfof7zfwc1.jpeg,Tesla earnings,"After 7 years, Tesla’s head of Investor Relations announces his resignation after earnings call yesterday. 🤔🧐 Something fishy about this abrupt departure"
+TSLA_004,1cc4edt,wallstreetbets,2024-04-24 17:37:38,Why Tesla Skyrocketed Regardless of Crap Earning , This is just speculation not actual deep DD. However we know that MM’s well move the market. Most of Retail was betting puts on  Tesla to have bad earnings. Which they did. But wait… Think about the amount of money the MM’s could make from all that liquidity in Puts . So why not just pump the stock and take that money. This 160 would last long and might see a dip back to 150-145 again however it would be in the next day or two. It was literally a IV squeeze. I was skeptical of this happening as most WSB post were yolo puts. And well MM don’t buy when retail buys they sell when retail sells getting the best bid and sell. Hope this made sense and good luck. Those puts might still be at least Breakeven on Thursday or Friday. ✌️,3,8,https://www.reddit.com/r/wallstreetbets/comments/1cc4edt/why_tesla_skyrocketed_regardless_of_crap_earning/,Tesla earnings,Why Tesla Skyrocketed Regardless of Crap Earning   This is just speculation not actual deep DD. However we know that MM’s well move the market. Most of Retail was betting puts on  Tesla to have bad earnings. Which they did. But wait… Think about the amount of money the MM’s could make from all that liquidity in Puts . So why not just pump the stock and take that money. This 160 would last long and might see a dip back to 150-145 again however it would be in the next day or two. It was literally a IV squeeze. I was skeptical of this happening as most WSB post were yolo puts. And well MM don’t buy when retail buys they sell when retail sells getting the best bid and sell. Hope this made sense and good luck. Those puts might still be at least Breakeven on Thursday or Friday. ✌️
+TSLA_004,1cc4pf6,wallstreetbets,2024-04-24 17:49:42,Ford earnings ,"Thoughts on it, could it be like Tesla, prices lowered on cars and there getting into ev. Maybe a shot on some calls ",1,5,https://www.reddit.com/r/wallstreetbets/comments/1cc4pf6/ford_earnings/,Tesla earnings,"Ford earnings  Thoughts on it, could it be like Tesla, prices lowered on cars and there getting into ev. Maybe a shot on some calls"
+TSLA_004,1ccavgl,wallstreetbets,2024-04-24 21:57:10,Newbie here,"I'm a complete newbie at this. I started in February with no idea where to start, I bought some subscriptions like Barron's, MW and WSJ, but honestly what helped me the most was this subreddit. I managed to be up to $9,000 in profits without investing more than $4,000. Even so, today I am not with profits higher than a few $100's. Excuse the rant, but some of my hits were thanks to Earning Calls where companies beat their earnings predictions, whether by a little or a lot. So I don't quite understand how Tesla can not meet its expectations and yet TSLA is on the rise, and META is, but its stock falls 16%. I'm trying to dedicate more time to this, could you guide me with a course or something like that where I can learn more to try to be successful in options? Thank you.",5,7,https://i.redd.it/ejmronjl1iwc1.jpeg,Tesla earnings,"Newbie here I'm a complete newbie at this. I started in February with no idea where to start, I bought some subscriptions like Barron's, MW and WSJ, but honestly what helped me the most was this subreddit. I managed to be up to $9,000 in profits without investing more than $4,000. Even so, today I am not with profits higher than a few $100's. Excuse the rant, but some of my hits were thanks to Earning Calls where companies beat their earnings predictions, whether by a little or a lot. So I don't quite understand how Tesla can not meet its expectations and yet TSLA is on the rise, and META is, but its stock falls 16%. I'm trying to dedicate more time to this, could you guide me with a course or something like that where I can learn more to try to be successful in options? Thank you."
+TSLA_004,1ccb1m7,wallstreetbets,2024-04-24 22:04:07,1st Month of Options Trading,"This is how my first month went with options started at $600 and here we are after the Tesla calls today. I am also holding 15 12.5 calls for Ford cause today is there earnings. 
+
+",9,7,https://i.redd.it/htbvda4u2iwc1.jpeg,Tesla earnings,1st Month of Options Trading This is how my first month went with options started at $600 and here we are after the Tesla calls today. I am also holding 15 12.5 calls for Ford cause today is there earnings.
+TSLA_004,1ccb7um,wallstreetbets,2024-04-24 22:11:23,elon musk won this earnings season,"tesla misses estimates but was priced down to hell, meta was priced for perfection and didn’t meet it
+
+elon musk won vs zucky zuck, thoughts ? did you print on $TSLA or $META or lose money ",31,10,https://i.redd.it/n1t04qt44iwc1.jpeg,Tesla earnings,"elon musk won this earnings season tesla misses estimates but was priced down to hell, meta was priced for perfection and didn’t meet it
+
+elon musk won vs zucky zuck, thoughts ? did you print on $TSLA or $META or lose money"
+TSLA_004,1ccbvop,wallstreetbets,2024-04-24 22:39:35,"Legit question, we are being absolutely molested. Tesla earnings and now meta earnings. Why arent we all playing straddles??","So, tesla missed earnings half a mile but muskrat mentioned ai, obv his investors are sub 85 iq and mere mentioning ai launched tesla 15%. Now zuck the cuck actually had decent fcking earnings and his stock dumped 90$. Why arent we all playing fcking straddles?
+Legit question. Ik they are kinda gay and you dont earn as much as just being right and buying calls and puts but you also dont get brutally violated every time. ",2,3,https://i.redd.it/u69qavy59iwc1.jpeg,Tesla earnings,"Legit question, we are being absolutely molested. Tesla earnings and now meta earnings. Why arent we all playing straddles?? So, tesla missed earnings half a mile but muskrat mentioned ai, obv his investors are sub 85 iq and mere mentioning ai launched tesla 15%. Now zuck the cuck actually had decent fcking earnings and his stock dumped 90$. Why arent we all playing fcking straddles?
+Legit question. Ik they are kinda gay and you dont earn as much as just being right and buying calls and puts but you also dont get brutally violated every time."
+TSLA_004,1catkaa,teslamotors,2024-04-23 02:36:09,'Expect some fireworks': What to look for in Tesla’s crucial earnings report on Tuesday,,17,6,https://www.forbes.com.au/news/investing/crucial-tesla-earning-report/,Tesla earnings,'Expect some fireworks': What to look for in Tesla’s crucial earnings report on Tuesday
+TSLA_004,1cb77hb,teslamotors,2024-04-23 15:17:01,Tesla: What opportunities will Q1 earnings provide for its shares?,,1,0,https://www.euronews.com/business/2024/04/23/tesla-results-could-a-boost-in-earnings-accelerate-share-price-growth,Tesla earnings,Tesla: What opportunities will Q1 earnings provide for its shares?
+TSLA_004,1cbfb1v,teslamotors,2024-04-23 20:40:20,Doubts about Tesla's performance reach fever pitch as electric vehicle giant reports earnings,,0,7,https://www.nbcnews.com/business/business-news/tesla-earnings-report-elon-musk-what-happens-next-sales-robotaxis-rcna148987,Tesla earnings,Doubts about Tesla's performance reach fever pitch as electric vehicle giant reports earnings
+TSLA_004,1cbhm21,teslamotors,2024-04-23 22:11:59,"Elon says Tesla is in talks with a ""major auto maker"" to license FSD",From the [Q1 2024 earnings call](https://www.youtube.com/watch?v=o81Rs-w3YMY),464,321,https://www.reddit.com/r/teslamotors/comments/1cbhm21/elon_says_tesla_is_in_talks_with_a_major_auto/,Tesla earnings,"Elon says Tesla is in talks with a ""major auto maker"" to license FSD From the [Q1 2024 earnings call](https://www.youtube.com/watch?v=o81Rs-w3YMY)"
+TSLA_004,1cc0zaq,teslamotors,2024-04-24 15:23:51,"Tesla’s earnings plunge, but the company promises cheaper car model",,1,1,https://mechanictesla.com/teslas-earnings-plunge-but-the-company-promises-cheaper-car-model/,Tesla earnings,"Tesla’s earnings plunge, but the company promises cheaper car model"
+TSLA_004,1cc3dzg,teslamotors,2024-04-24 16:58:57,What We Learned from Tesla's Q1 Earnings Call,,0,5,https://heatmap.news/electric-vehicles/tesla-q1-2024-earnings,Tesla earnings,What We Learned from Tesla's Q1 Earnings Call

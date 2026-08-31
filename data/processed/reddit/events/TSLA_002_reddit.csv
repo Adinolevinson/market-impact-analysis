@@ -1,0 +1,1177 @@
+event_id,post_id,subreddit,created_date,title,selftext,score,num_comments,url,search_query,text
+TSLA_002,12s8szl,teslainvestorsclub,2023-04-19 20:20:54,Tesla Q1 2023 Earnings Report,,102,301,https://tesla-cdn.thron.com/static/ZXSBN8_TSLA_Q1_2023_Update_ABMJPG.pdf?xseo=&response-content-disposition=inline%3Bfilename%3D%22e826b065-cc14-467c-8c9c-e1feb7189ba8.pdf%22,Tesla earnings,Tesla Q1 2023 Earnings Report
+TSLA_002,12saawp,teslainvestorsclub,2023-04-19 21:11:16,Tesla's Q1 earnings as a Sankey diagram: Revenue of $23B (+24% year-over-year),,169,53,https://i.redd.it/0b4iswklpwua1.png,Tesla earnings,Tesla's Q1 earnings as a Sankey diagram: Revenue of $23B (+24% year-over-year)
+TSLA_002,12tbvj6,teslainvestorsclub,2023-04-20 19:10:35,"FSD is a hot topic, I'd like to start a discussion on LIABILITY, which is I think the most important factor in determining wide FSD adoption/usage, but hasn't been discussed much.","FSD has been a hot topic for TSLA holders, especially after this earnings call. There's many factors that will determine its adoption rate: the tech itself, popular opinion, regulatory hurdles, etc which I won't focus on here.
+
+One thing that I haven't seen brought up is the **liability** side of things, which I view as the LARGEST hurdle to wide adoption. I'd like share how I am thinking about it, and welcome others' viewpoints regarding this.
+
+For Tesla to launch FSD without requiring a human in the driver's seat, then it **needs** to assume liability for all accidents where FSD is found at-fault.
+
+**So in my mind the key question isn't how much better than an average human FSD needs to be, but rather how good FSD needs to be for Tesla to assume TOTAL liability.**
+
+We can do some basic sensitivity analysis, using very basic, non-scientific, back-of-napkin math with lots of assumptions, we can try to get an idea of what that liability looks like in terms of dollars: (sorry if this doesn’t show well on mobile!)
+
+&#x200B;
+
+[https://imgur.com/a/5cTvBQH](https://imgur.com/a/5cTvBQH) << image format
+
+(for reference, total miles driven in the US is \~3 trillion miles / yr)
+
+**Case 1**
+
+% FSD miles driven without at-fault incident		99.99%
+
+FSD miles driven / yr				10,000,000 (tiny fraction of US total)
+
+\# of at-fault incidents / yr			1000	(top 2 numbers multiplied)
+
+% likelihood of injury or death / incident	10%	(includes minor/major injuries)
+
+\# of at-fault injury or death / yr		100
+
+avg. payout of each injury or death case	$1,000,000
+
+expected FSD liability payout / yr		$100,000,000	(100 \* $1M)
+
+**Summary** \- if FSD can drive 99.99% of miles without causing at-fault accidents, and drives a miniscule 10M miles/yr, Tesla can be expected to pay out **$100M / yr** to liability suits.
+
+&#x200B;
+
+**Case 2** \- high confidence level of 99.9999% and 30 billion FSD miles
+
+% FSD miles driven without at-fault incident		99.9999%
+
+FSD miles driven / yr				30,000,000,000 (1% of all US miles driven / yr)
+
+\# of at-fault incidents / yr			30000	(top 2 numbers multiplied)
+
+% likelihood of injury or death / incident	10%
+
+\# of at-fault injury or death / yr		3000
+
+avg. payout of each injury or death case	$1,000,000
+
+expected FSD liability payout / yr		$3,000,000,000
+
+**Summary** \- if FSD can drive 99.9999% of miles without causing at-fault accidents, and drives 1% of all miles in the US, Tesla can be expected to pay out **$3B / yr** to liability suits.
+
+&#x200B;
+
+I want to stress that these are all made up numbers, and changing 1 critical number can dramatically change the outcome. My main goal is to start a conversation around realistic expectations of when FSD can be reliable ENOUGH to not require a human **AND** for Tesla to assume full liability, which is required for robo-taxis. I know I left out Tesla Insurance altogether for the sake of simplicity, but either the payout goes thru Tesla Insurance or not, Tesla is still on the hook for liability (unless 3rd party insurance are willing to pay for FSD accidents).
+
+Took me a while to type all this out, please share your perspective!
+
+(To be clear I am bullish on TSLA long term, but neutral on the impact of FSD near term)",3,39,https://www.reddit.com/r/teslainvestorsclub/comments/12tbvj6/fsd_is_a_hot_topic_id_like_to_start_a_discussion/,Tesla earnings,"FSD is a hot topic, I'd like to start a discussion on LIABILITY, which is I think the most important factor in determining wide FSD adoption/usage, but hasn't been discussed much. FSD has been a hot topic for TSLA holders, especially after this earnings call. There's many factors that will determine its adoption rate: the tech itself, popular opinion, regulatory hurdles, etc which I won't focus on here.
+
+One thing that I haven't seen brought up is the **liability** side of things, which I view as the LARGEST hurdle to wide adoption. I'd like share how I am thinking about it, and welcome others' viewpoints regarding this.
+
+For Tesla to launch FSD without requiring a human in the driver's seat, then it **needs** to assume liability for all accidents where FSD is found at-fault.
+
+**So in my mind the key question isn't how much better than an average human FSD needs to be, but rather how good FSD needs to be for Tesla to assume TOTAL liability.**
+
+We can do some basic sensitivity analysis, using very basic, non-scientific, back-of-napkin math with lots of assumptions, we can try to get an idea of what that liability looks like in terms of dollars: (sorry if this doesn’t show well on mobile!)
+
+&#x200B;
+
+[https://imgur.com/a/5cTvBQH](https://imgur.com/a/5cTvBQH) << image format
+
+(for reference, total miles driven in the US is \~3 trillion miles / yr)
+
+**Case 1**
+
+% FSD miles driven without at-fault incident		99.99%
+
+FSD miles driven / yr				10,000,000 (tiny fraction of US total)
+
+\# of at-fault incidents / yr			1000	(top 2 numbers multiplied)
+
+% likelihood of injury or death / incident	10%	(includes minor/major injuries)
+
+\# of at-fault injury or death / yr		100
+
+avg. payout of each injury or death case	$1,000,000
+
+expected FSD liability payout / yr		$100,000,000	(100 \* $1M)
+
+**Summary** \- if FSD can drive 99.99% of miles without causing at-fault accidents, and drives a miniscule 10M miles/yr, Tesla can be expected to pay out **$100M / yr** to liability suits.
+
+&#x200B;
+
+**Case 2** \- high confidence level of 99.9999% and 30 billion FSD miles
+
+% FSD miles driven without at-fault incident		99.9999%
+
+FSD miles driven / yr				30,000,000,000 (1% of all US miles driven / yr)
+
+\# of at-fault incidents / yr			30000	(top 2 numbers multiplied)
+
+% likelihood of injury or death / incident	10%
+
+\# of at-fault injury or death / yr		3000
+
+avg. payout of each injury or death case	$1,000,000
+
+expected FSD liability payout / yr		$3,000,000,000
+
+**Summary** \- if FSD can drive 99.9999% of miles without causing at-fault accidents, and drives 1% of all miles in the US, Tesla can be expected to pay out **$3B / yr** to liability suits.
+
+&#x200B;
+
+I want to stress that these are all made up numbers, and changing 1 critical number can dramatically change the outcome. My main goal is to start a conversation around realistic expectations of when FSD can be reliable ENOUGH to not require a human **AND** for Tesla to assume full liability, which is required for robo-taxis. I know I left out Tesla Insurance altogether for the sake of simplicity, but either the payout goes thru Tesla Insurance or not, Tesla is still on the hook for liability (unless 3rd party insurance are willing to pay for FSD accidents).
+
+Took me a while to type all this out, please share your perspective!
+
+(To be clear I am bullish on TSLA long term, but neutral on the impact of FSD near term)"
+TSLA_002,12s8m77,stocks,2023-04-19 20:14:35,Tesla net income and earnings drop more than 20% from last year,"Tesla reported earnings after the bell. Here are the results.
+
+Earnings per share: 85 cents adj. vs 85 cents expected, according to the average analyst estimate compiled by Refinitiv
+
+Revenue: $23.33 billion vs $23.21 billion expected, according to Refinitiv estimates
+
+Net income came in at $2.51 billion, down 24% from last year, while GAAP earnings came in at $0.73, down 23% from the year-ago quarter.
+
+Automotive revenue, Tesla’s core segment, reached $19.96 billion in the quarter.
+
+Tesla’s first-quarter earnings call will be livestreamed via Twitter, a first for the electric vehicle maker. CEO Elon Musk sold billions of dollars worth of his Tesla holdings in 2022 to finance a $44 billion buyout of the social media company, where he is now also CEO.
+
+The company cut prices on its vehicles at the end of last year and into the first quarter of 2023, including additional cuts Tuesday night. At the same time, Tesla is charting ambitious plans for expansion and increased capital expenditures.
+
+Revenue in the quarter likely increased 24% from $18.76 billion a year earlier, according to Refinitiv estimates.
+
+Tesla currently sells four EV models, which are produced at two vehicle assembly plants in the U.S., one in Shanghai and another outside of Berlin.
+
+
+Shareholders who submitted questions ahead of the earnings call for management’s consideration were seeking updates on the company’s trapezoidal, sci-fi inspired Cybertruck, the company’s energy division, and the timing for a new model vehicle from Tesla.
+
+In early April, Tesla reported vehicle deliveries of 422,875 vehicles in the first quarter, the closest approximation of sales disclosed by the company. Production was slightly higher than deliveries for the first three months of 2023 at 440,808 vehicles.
+
+A month earlier, Musk announced plans to build a Tesla factory in Monterrey, Mexico, a day’s drive from a relatively new factory in Austin, Texas. And more recently, Tesla said it plans to set up a factory to make Megapacks, or large lithium ion battery-based energy storage systems, in Shanghai.
+
+According to a financial filing published in late January, Tesla expected to spend between $7 billion and $9 billion in 2024 and 2025, an increase in capital expenditures of about $1 billion in the next two years.
+
+Tesla shares have rebounded this year from a dismal 2022, when they lost about two-thirds of their value alongside a plunge in tech companies. The stock is up 48% in 2023.
+
+Source: https://www.cnbc.com/2023/04/19/tesla-tsla-earnings-q1-2023.html?__source=iosappshare%7Ccom.apple.UIKit.activity.CopyToPasteboard",3454,890,https://www.reddit.com/r/stocks/comments/12s8m77/tesla_net_income_and_earnings_drop_more_than_20/,Tesla earnings,"Tesla net income and earnings drop more than 20% from last year Tesla reported earnings after the bell. Here are the results.
+
+Earnings per share: 85 cents adj. vs 85 cents expected, according to the average analyst estimate compiled by Refinitiv
+
+Revenue: $23.33 billion vs $23.21 billion expected, according to Refinitiv estimates
+
+Net income came in at $2.51 billion, down 24% from last year, while GAAP earnings came in at $0.73, down 23% from the year-ago quarter.
+
+Automotive revenue, Tesla’s core segment, reached $19.96 billion in the quarter.
+
+Tesla’s first-quarter earnings call will be livestreamed via Twitter, a first for the electric vehicle maker. CEO Elon Musk sold billions of dollars worth of his Tesla holdings in 2022 to finance a $44 billion buyout of the social media company, where he is now also CEO.
+
+The company cut prices on its vehicles at the end of last year and into the first quarter of 2023, including additional cuts Tuesday night. At the same time, Tesla is charting ambitious plans for expansion and increased capital expenditures.
+
+Revenue in the quarter likely increased 24% from $18.76 billion a year earlier, according to Refinitiv estimates.
+
+Tesla currently sells four EV models, which are produced at two vehicle assembly plants in the U.S., one in Shanghai and another outside of Berlin.
+
+
+Shareholders who submitted questions ahead of the earnings call for management’s consideration were seeking updates on the company’s trapezoidal, sci-fi inspired Cybertruck, the company’s energy division, and the timing for a new model vehicle from Tesla.
+
+In early April, Tesla reported vehicle deliveries of 422,875 vehicles in the first quarter, the closest approximation of sales disclosed by the company. Production was slightly higher than deliveries for the first three months of 2023 at 440,808 vehicles.
+
+A month earlier, Musk announced plans to build a Tesla factory in Monterrey, Mexico, a day’s drive from a relatively new factory in Austin, Texas. And more recently, Tesla said it plans to set up a factory to make Megapacks, or large lithium ion battery-based energy storage systems, in Shanghai.
+
+According to a financial filing published in late January, Tesla expected to spend between $7 billion and $9 billion in 2024 and 2025, an increase in capital expenditures of about $1 billion in the next two years.
+
+Tesla shares have rebounded this year from a dismal 2022, when they lost about two-thirds of their value alongside a plunge in tech companies. The stock is up 48% in 2023.
+
+Source: https://www.cnbc.com/2023/04/19/tesla-tsla-earnings-q1-2023.html?__source=iosappshare%7Ccom.apple.UIKit.activity.CopyToPasteboard"
+TSLA_002,12svvo3,stocks,2023-04-20 11:46:46,(4/20) Thursday's Pre-Market Stock Movers & News,"#Good morning traders and investors of the r/stocks sub! Welcome to the new trading day and a fresh start! Here are your pre-market stock movers & news on this Thursday, April the 20th, 2023-
+
+*****
+
+# [Stock futures fall as investors parse corporate earnings: Live updates](https://www.cnbc.com/2023/04/19/stock-market-today-live-updates.html)
+
+*****
+> Stock futures dropped on Thursday morning as investors appraised the latest batch of corporate earnings.
+*****
+> Futures tied to the Dow Jones Industrial Average lost 157 points, or 0.46%. S&P 500 futures shed 0.74%, while Nasdaq-100 futures slipped 1.01%.
+*****
+> Investors parsed a bevy of reports released from companies after the bell Wednesday.
+*****
+> Tesla, a favorite of retail investors, lost 7% in the premarket after the electric vehicle maker’s net income and GAAP earnings both fell more than 20% from a year ago. IBM rose 2% after the company said margins were expanding.
+*****
+> Elsewhere, investors got another clue into the health of the consumer before the bell, with results from American Express. Shares of the payments dipped 1% as earnings per share fell short of estimates.
+*****
+> Just over a tenth of companies in the S&P 500 have reported earnings as of Wednesday evening, according to FactSet.
+*****
+> The S&P 500 finished Wednesday’s session slightly below its flatline as investors digested the latest batch of earnings, including Netflix and Morgan Stanley, which are both members of the broad index.
+*****
+> Though investor focus has largely moved to these quarterly results, the reporting companies alone have not driven the broader market, according to William Northey, senior investment director at U.S. Bank Wealth Management.
+*****
+> “Earnings reports have been mixed thus far, with individual stocks responding to specific company results relative to expectations rather than broad index directionality,” he said.
+*****
+> The Nasdaq Composite ended Wednesday slightly higher, while the Dow closed 0.2% lower, posting its first back-to-back declines in more than a month.
+*****
+> Beyond earnings, investors will keep an eye on morning data on jobless claims and existing home sales. Federal Reserve Governor Christopher Waller, Atlanta Fed President Raphael Bostic and Cleveland Fed President Loretta Mester are among central bank speakers slated to give remarks on the economy around the country in the afternoon and evening.
+*****
+> In remarks late Wednesday, New York Fed President John Williams said inflation is still too high and the central bank needs to hold policy tight.
+
+*****
+
+#STOCK FUTURES CURRENTLY:
+######(**[CLICK HERE FOR STOCK FUTURES CHARTS!](https://finviz.com/futures.ashx)**)
+
+*****
+
+#YESTERDAY'S MARKET MAP:
+######(**[CLICK HERE FOR YESTERDAY'S MARKET MAP!](https://i.imgur.com/OH0KL9c.png)**)
+
+*****
+
+#TODAY'S MARKET MAP:
+######(**[CLICK HERE FOR TODAY'S MARKET MAP!](https://finviz.com/map.ashx?t=sec_all)**)
+
+*****
+
+#YESTERDAY'S S&P SECTORS:
+######(**[CLICK HERE FOR YESTERDAY'S S&P SECTORS CHART!](https://i.imgur.com/tgVH44k.png)**)
+
+*****
+
+#TODAY'S S&P SECTORS:
+######(**[CLICK HERE FOR TODAY'S S&P SECTORS CHART!](https://finviz.com/groups.ashx)**)
+
+*****
+
+#TODAY'S ECONOMIC CALENDAR:
+######(**[CLICK HERE FOR TODAY'S ECONOMIC CALENDAR!](https://i.imgur.com/VCpUOqD.png)**)
+
+*****
+
+#THIS WEEK'S ECONOMIC CALENDAR:
+######(**[CLICK HERE FOR THIS WEEK'S ECONOMIC CALENDAR!](https://i.imgur.com/MiTldYm.png)**)
+
+*****
+
+#THIS WEEK'S UPCOMING IPO'S:
+######(**[CLICK HERE FOR THIS WEEK'S UPCOMING IPO'S!](https://i.imgur.com/W3zdrfg.png)**)
+
+*****
+
+#THIS WEEK'S EARNINGS CALENDAR:
+######(**[CLICK HERE FOR THIS WEEK'S EARNINGS CALENDAR!](https://i.imgur.com/LiywJJ1.png)**)
+
+*****
+
+#THIS MORNING'S PRE-MARKET EARNINGS CALENDAR:
+######(**[CLICK HERE FOR THIS MORNING'S EARNINGS CALENDAR!](https://i.imgur.com/3T8k0T1.png)**)
+
+*****
+
+#EARNINGS RELEASES BEFORE THE OPEN TODAY:
+######(**[CLICK HERE FOR THIS MORNING'S EARNINGS RELEASES!](https://i.imgur.com/l0eXEl4.png)**)
+
+*****
+
+#THIS AFTERNOON'S AFTER-HOURS EARNINGS CALENDAR:
+######(**[CLICK HERE FOR THIS AFTERNOON'S EARNINGS CALENDAR!](https://i.imgur.com/46J7f5g.png)**)
+
+*****
+
+#EARNINGS RELEASES AFTER THE CLOSE TODAY:
+######(**[CLICK HERE FOR THIS AFTERNOON'S EARNINGS RELEASES!](https://i.imgur.com/GbToy5t.png)**)
+
+*****
+
+#YESTERDAY'S ANALYST UPGRADES/DOWNGRADES:
+######(**[CLICK HERE FOR YESTERDAY'S ANALYST UPGRADES/DOWNGRADES!](https://i.imgur.com/KI1J0mR.png)**)
+
+*****
+
+#YESTERDAY'S INSIDER TRADING FILINGS:
+######(**[CLICK HERE FOR YESTERDAY'S INSIDER TRADING FILINGS!](https://i.imgur.com/PsyuQYp.png)**)
+
+*****
+
+#TODAY'S DIVIDEND CALENDAR:
+######(**[CLICK HERE FOR TODAY'S DIVIDEND CALENDAR LINK #1!](https://i.imgur.com/ZyfO2YX.png)**)
+######(**[CLICK HERE FOR TODAY'S DIVIDEND CALENDAR LINK #2!](https://i.imgur.com/7fzHjd0.png)**)
+######(**[CLICK HERE FOR TODAY'S DIVIDEND CALENDAR LINK #3!](https://i.imgur.com/s7TIfgb.png)**)
+######(**[CLICK HERE FOR TODAY'S DIVIDEND CALENDAR LINK #4!](https://i.imgur.com/pWFEygO.png)**)
+
+*****
+
+#THIS MORNING'S STOCK NEWS MOVERS:
+
+######(**source: [cnbc.com](https://www.cnbc.com/2023/04/20/stocks-making-the-biggest-premarket-moves-.html)**)
+
+*****
+
+> **Tesla** — The electric vehicle maker tanked about 7% after reporting net income and earnings that fell more than 20% from last year. CEO Elon Musk said an uncertain macroenvironment could impact people’s decisions to buy cars.
+
+> #**STOCK SYMBOL:** TSLA
+
+> * [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=TSLA&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/TSLA)**)
+
+*****
+
+> **IBM** — The tech stock rose more than 1% in premarket trading after the company reported an earnings beat. IBM posted adjusted earnings of $1.36 per share, compared to $1.26 per share as expected by analysts, according to Refinitiv. However, its revenue came in below expectations as parts of the company’s infrastructure business showed a slowdown.
+
+> #**STOCK SYMBOL:** IBM
+
+> * [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=IBM&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/IBM)**)
+
+*****
+
+> **American Express** — Shares dipped 1.3% after the payments company reported adjusted earnings per share of $2.40 for the first quarter, below StreetAccount’s estimates of $2.66. However, revenue topped expectations, coming in at $14.28 billion compared to the $13.98 billion expected.
+
+> #**STOCK SYMBOL:** AXP
+
+> * [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=AXP&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/AXP)**)
+
+*****
+
+> **F5** — The cloud-based software company’s shares were down about 7% after a mixed second fiscal quarter earnings report. F5 posted $2.53 adjusted earnings per share and $703.2 million in revenue. Analysts had anticipated earnings per share of $2.42 and $698.4 million in revenue, according to FactSet data. The company also announced it would be reducing its global headcount by 620 employees, or 9% of its workforce.
+
+> #**STOCK SYMBOL:** FFIV
+
+> * [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=FFIV&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/FFIV)**)
+
+*****
+
+> **Bath & Body Works** — Shares dipped 3.7% following a downgrade to neutral from overweight by Piper Sandler. The Wall Street firm said persisting margin pressures are limiting potential upside.
+
+> #**STOCK SYMBOL:** BBWI
+
+> * [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=BBWI&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/BBWI)**)
+
+*****
+
+> **Las Vegas Sands** — The casino operator added 5.5% after posting adjusted earnings per share of 38 cents for the first quarter, beating the 20 cents expected of analysts polled by Refinitiv. The company also topped revenue estimates.
+
+> #**STOCK SYMBOL:** LVS
+
+> * [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=LVS&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/LVS)**)
+
+*****
+
+> **AT&T** — The telecommunications giant fell 4.6% after reporting mixed earnings for the first quarter. Its revenue of $30.14 billion missed analysts’ estimates of $30.27 billion, per Refinitiv. However, adjusted earnings per share came in at 60 cents, slightly above the 59 cents expected.
+
+> #**STOCK SYMBOL:** T
+
+> * [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=T&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/T)**)
+
+*****
+
+> **Zions Bancorporation** — Shares tumbled 4.5% after the regional bank reported earnings per share of $1.33, missing analysts’ expectations of $1.53, according to Refinitiv. Zions also reported $679 million in net interest income, below estimates of $687.5 million, per StreetAccount.
+
+> #**STOCK SYMBOL:** ZION
+
+> * [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=ZION&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/ZION)**)
+
+*****
+
+> **D.R. Horton** — Shares popped nearly 5% in the premarket after the homebuilder reported an earnings and revenue beat for its second quarter. Earnings per share was $2.73, versus the $1.93 expected by analysts, per StreetAccount. Revenue came in at $8 billion, compared to the $6.45 billion expected.
+
+> #**STOCK SYMBOL:** DHI
+
+> * [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=DHI&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/DHI)**)
+
+*****
+
+> **Alaska Air** — Shares of the mid-sized airline fell more than 1% after Alaska reported wider-than-expected losses for the first quarter. The company lost an adjusted 62 cents per share on $2.20 billion of revenue. Analysts surveyed by Refinitiv expected a loss of 48 cents per share on $2.19 billion of revenue. Alaska’s net loss was flat year over year.
+
+> #**STOCK SYMBOL:** ALK
+
+> * [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=ALK&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/ALK)**)
+
+*****
+
+> **KeyCorp** — The financial services company’s shares declined about 3% after posting an earnings and revenue miss in the first quarter. The bank reported per-share earnings of 30 cents and revenue of $1.71 billion. Analysts polled by FactSet had estimated 44 cents earnings per share and $1.79 billion in revenue. KeyCorp said that its average deposits decreased by $2.3 billion from the prior quarter.
+
+> #**STOCK SYMBOL:** KEY
+
+> * [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=KEY&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/KEY)**)
+
+*****
+
+#**DISCUSS!**
+
+What's on everyone's radar for today's trading day ahead here at r/stocks?
+
+*****
+
+# **I hope you all have an excellent trading day ahead today on this Thursday, April 20th, 2023! :)**",18,1,https://www.reddit.com/r/stocks/comments/12svvo3/420_thursdays_premarket_stock_movers_news/,Tesla earnings,"(4/20) Thursday's Pre-Market Stock Movers & News #Good morning traders and investors of the r/stocks sub! Welcome to the new trading day and a fresh start! Here are your pre-market stock movers & news on this Thursday, April the 20th, 2023-
+
+*****
+
+# [Stock futures fall as investors parse corporate earnings: Live updates](https://www.cnbc.com/2023/04/19/stock-market-today-live-updates.html)
+
+*****
+> Stock futures dropped on Thursday morning as investors appraised the latest batch of corporate earnings.
+*****
+> Futures tied to the Dow Jones Industrial Average lost 157 points, or 0.46%. S&P 500 futures shed 0.74%, while Nasdaq-100 futures slipped 1.01%.
+*****
+> Investors parsed a bevy of reports released from companies after the bell Wednesday.
+*****
+> Tesla, a favorite of retail investors, lost 7% in the premarket after the electric vehicle maker’s net income and GAAP earnings both fell more than 20% from a year ago. IBM rose 2% after the company said margins were expanding.
+*****
+> Elsewhere, investors got another clue into the health of the consumer before the bell, with results from American Express. Shares of the payments dipped 1% as earnings per share fell short of estimates.
+*****
+> Just over a tenth of companies in the S&P 500 have reported earnings as of Wednesday evening, according to FactSet.
+*****
+> The S&P 500 finished Wednesday’s session slightly below its flatline as investors digested the latest batch of earnings, including Netflix and Morgan Stanley, which are both members of the broad index.
+*****
+> Though investor focus has largely moved to these quarterly results, the reporting companies alone have not driven the broader market, according to William Northey, senior investment director at U.S. Bank Wealth Management.
+*****
+> “Earnings reports have been mixed thus far, with individual stocks responding to specific company results relative to expectations rather than broad index directionality,” he said.
+*****
+> The Nasdaq Composite ended Wednesday slightly higher, while the Dow closed 0.2% lower, posting its first back-to-back declines in more than a month.
+*****
+> Beyond earnings, investors will keep an eye on morning data on jobless claims and existing home sales. Federal Reserve Governor Christopher Waller, Atlanta Fed President Raphael Bostic and Cleveland Fed President Loretta Mester are among central bank speakers slated to give remarks on the economy around the country in the afternoon and evening.
+*****
+> In remarks late Wednesday, New York Fed President John Williams said inflation is still too high and the central bank needs to hold policy tight.
+
+*****
+
+#STOCK FUTURES CURRENTLY:
+######(**[CLICK HERE FOR STOCK FUTURES CHARTS!](https://finviz.com/futures.ashx)**)
+
+*****
+
+#YESTERDAY'S MARKET MAP:
+######(**[CLICK HERE FOR YESTERDAY'S MARKET MAP!](https://i.imgur.com/OH0KL9c.png)**)
+
+*****
+
+#TODAY'S MARKET MAP:
+######(**[CLICK HERE FOR TODAY'S MARKET MAP!](https://finviz.com/map.ashx?t=sec_all)**)
+
+*****
+
+#YESTERDAY'S S&P SECTORS:
+######(**[CLICK HERE FOR YESTERDAY'S S&P SECTORS CHART!](https://i.imgur.com/tgVH44k.png)**)
+
+*****
+
+#TODAY'S S&P SECTORS:
+######(**[CLICK HERE FOR TODAY'S S&P SECTORS CHART!](https://finviz.com/groups.ashx)**)
+
+*****
+
+#TODAY'S ECONOMIC CALENDAR:
+######(**[CLICK HERE FOR TODAY'S ECONOMIC CALENDAR!](https://i.imgur.com/VCpUOqD.png)**)
+
+*****
+
+#THIS WEEK'S ECONOMIC CALENDAR:
+######(**[CLICK HERE FOR THIS WEEK'S ECONOMIC CALENDAR!](https://i.imgur.com/MiTldYm.png)**)
+
+*****
+
+#THIS WEEK'S UPCOMING IPO'S:
+######(**[CLICK HERE FOR THIS WEEK'S UPCOMING IPO'S!](https://i.imgur.com/W3zdrfg.png)**)
+
+*****
+
+#THIS WEEK'S EARNINGS CALENDAR:
+######(**[CLICK HERE FOR THIS WEEK'S EARNINGS CALENDAR!](https://i.imgur.com/LiywJJ1.png)**)
+
+*****
+
+#THIS MORNING'S PRE-MARKET EARNINGS CALENDAR:
+######(**[CLICK HERE FOR THIS MORNING'S EARNINGS CALENDAR!](https://i.imgur.com/3T8k0T1.png)**)
+
+*****
+
+#EARNINGS RELEASES BEFORE THE OPEN TODAY:
+######(**[CLICK HERE FOR THIS MORNING'S EARNINGS RELEASES!](https://i.imgur.com/l0eXEl4.png)**)
+
+*****
+
+#THIS AFTERNOON'S AFTER-HOURS EARNINGS CALENDAR:
+######(**[CLICK HERE FOR THIS AFTERNOON'S EARNINGS CALENDAR!](https://i.imgur.com/46J7f5g.png)**)
+
+*****
+
+#EARNINGS RELEASES AFTER THE CLOSE TODAY:
+######(**[CLICK HERE FOR THIS AFTERNOON'S EARNINGS RELEASES!](https://i.imgur.com/GbToy5t.png)**)
+
+*****
+
+#YESTERDAY'S ANALYST UPGRADES/DOWNGRADES:
+######(**[CLICK HERE FOR YESTERDAY'S ANALYST UPGRADES/DOWNGRADES!](https://i.imgur.com/KI1J0mR.png)**)
+
+*****
+
+#YESTERDAY'S INSIDER TRADING FILINGS:
+######(**[CLICK HERE FOR YESTERDAY'S INSIDER TRADING FILINGS!](https://i.imgur.com/PsyuQYp.png)**)
+
+*****
+
+#TODAY'S DIVIDEND CALENDAR:
+######(**[CLICK HERE FOR TODAY'S DIVIDEND CALENDAR LINK #1!](https://i.imgur.com/ZyfO2YX.png)**)
+######(**[CLICK HERE FOR TODAY'S DIVIDEND CALENDAR LINK #2!](https://i.imgur.com/7fzHjd0.png)**)
+######(**[CLICK HERE FOR TODAY'S DIVIDEND CALENDAR LINK #3!](https://i.imgur.com/s7TIfgb.png)**)
+######(**[CLICK HERE FOR TODAY'S DIVIDEND CALENDAR LINK #4!](https://i.imgur.com/pWFEygO.png)**)
+
+*****
+
+#THIS MORNING'S STOCK NEWS MOVERS:
+
+######(**source: [cnbc.com](https://www.cnbc.com/2023/04/20/stocks-making-the-biggest-premarket-moves-.html)**)
+
+*****
+
+> **Tesla** — The electric vehicle maker tanked about 7% after reporting net income and earnings that fell more than 20% from last year. CEO Elon Musk said an uncertain macroenvironment could impact people’s decisions to buy cars.
+
+> #**STOCK SYMBOL:** TSLA
+
+> * [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=TSLA&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/TSLA)**)
+
+*****
+
+> **IBM** — The tech stock rose more than 1% in premarket trading after the company reported an earnings beat. IBM posted adjusted earnings of $1.36 per share, compared to $1.26 per share as expected by analysts, according to Refinitiv. However, its revenue came in below expectations as parts of the company’s infrastructure business showed a slowdown.
+
+> #**STOCK SYMBOL:** IBM
+
+> * [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=IBM&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/IBM)**)
+
+*****
+
+> **American Express** — Shares dipped 1.3% after the payments company reported adjusted earnings per share of $2.40 for the first quarter, below StreetAccount’s estimates of $2.66. However, revenue topped expectations, coming in at $14.28 billion compared to the $13.98 billion expected.
+
+> #**STOCK SYMBOL:** AXP
+
+> * [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=AXP&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/AXP)**)
+
+*****
+
+> **F5** — The cloud-based software company’s shares were down about 7% after a mixed second fiscal quarter earnings report. F5 posted $2.53 adjusted earnings per share and $703.2 million in revenue. Analysts had anticipated earnings per share of $2.42 and $698.4 million in revenue, according to FactSet data. The company also announced it would be reducing its global headcount by 620 employees, or 9% of its workforce.
+
+> #**STOCK SYMBOL:** FFIV
+
+> * [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=FFIV&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/FFIV)**)
+
+*****
+
+> **Bath & Body Works** — Shares dipped 3.7% following a downgrade to neutral from overweight by Piper Sandler. The Wall Street firm said persisting margin pressures are limiting potential upside.
+
+> #**STOCK SYMBOL:** BBWI
+
+> * [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=BBWI&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/BBWI)**)
+
+*****
+
+> **Las Vegas Sands** — The casino operator added 5.5% after posting adjusted earnings per share of 38 cents for the first quarter, beating the 20 cents expected of analysts polled by Refinitiv. The company also topped revenue estimates.
+
+> #**STOCK SYMBOL:** LVS
+
+> * [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=LVS&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/LVS)**)
+
+*****
+
+> **AT&T** — The telecommunications giant fell 4.6% after reporting mixed earnings for the first quarter. Its revenue of $30.14 billion missed analysts’ estimates of $30.27 billion, per Refinitiv. However, adjusted earnings per share came in at 60 cents, slightly above the 59 cents expected.
+
+> #**STOCK SYMBOL:** T
+
+> * [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=T&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/T)**)
+
+*****
+
+> **Zions Bancorporation** — Shares tumbled 4.5% after the regional bank reported earnings per share of $1.33, missing analysts’ expectations of $1.53, according to Refinitiv. Zions also reported $679 million in net interest income, below estimates of $687.5 million, per StreetAccount.
+
+> #**STOCK SYMBOL:** ZION
+
+> * [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=ZION&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/ZION)**)
+
+*****
+
+> **D.R. Horton** — Shares popped nearly 5% in the premarket after the homebuilder reported an earnings and revenue beat for its second quarter. Earnings per share was $2.73, versus the $1.93 expected by analysts, per StreetAccount. Revenue came in at $8 billion, compared to the $6.45 billion expected.
+
+> #**STOCK SYMBOL:** DHI
+
+> * [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=DHI&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/DHI)**)
+
+*****
+
+> **Alaska Air** — Shares of the mid-sized airline fell more than 1% after Alaska reported wider-than-expected losses for the first quarter. The company lost an adjusted 62 cents per share on $2.20 billion of revenue. Analysts surveyed by Refinitiv expected a loss of 48 cents per share on $2.19 billion of revenue. Alaska’s net loss was flat year over year.
+
+> #**STOCK SYMBOL:** ALK
+
+> * [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=ALK&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/ALK)**)
+
+*****
+
+> **KeyCorp** — The financial services company’s shares declined about 3% after posting an earnings and revenue miss in the first quarter. The bank reported per-share earnings of 30 cents and revenue of $1.71 billion. Analysts polled by FactSet had estimated 44 cents earnings per share and $1.79 billion in revenue. KeyCorp said that its average deposits decreased by $2.3 billion from the prior quarter.
+
+> #**STOCK SYMBOL:** KEY
+
+> * [CLICK HERE FOR CHART!](http://elite.finviz.com/chart.ashx?t=KEY&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/KEY)**)
+
+*****
+
+#**DISCUSS!**
+
+What's on everyone's radar for today's trading day ahead here at r/stocks?
+
+*****
+
+# **I hope you all have an excellent trading day ahead today on this Thursday, April 20th, 2023! :)**"
+TSLA_002,12tdwxh,investing,2023-04-20 20:21:46,Lifecore: Opportunity or Bust?,"Been following Lifecore (ticker: LFCR) for the past few of days. I believe the stock is a compelling long but would appreciate some pushback.
+
+Lifecore is an oddity in the pharma industry. It has two main business branches in two very different sectors. One is the CDMO business that manufactures injectables for drug companies. Another one is their commodity Curation Foods business. Salad, avocado, olive oil, etc. This combination makes no sense at all but if you ever read Joel Greenblatt's fancy title books you'd be intrigued by possible shift in business mix. Perhaps a spin-off or other corporate action would unlock shareholder value...
+
+Well that's exactly what is happening right now. On March 16th, Lifecore made three important announcements.
+
+1. 2023 Q2 results with 11% revenue decline, going concern notice, and statements on breach of covenants.
+2. Expansion of contract with existing customer including 10m upfront payment in cash and up to 15m capex reimbursement.
+3. Statement on looking for strategic alternative.
+
+So what does this mean for the stock? First trading day after the announcement, the market reacted violently. The stock plunged 70%. High debt level combined with going concern notice and exploration of strategic alternative is almost never a happy marriage and it wasn't a great start. Moreover, in months leading to Q2 announcement, Lifecore issued a note telling investors that previously issued financial statements should no longer be relied upon due to errors found in its Curation Foods business. Doomed! Or so it seemed. Interestingly, the stock went up 80% on the following trading day and has since held its ground in $3-4 range despite reasonably high borrow fees for shorting this name. Perhaps there's more to the story.
+
+I decided to go over the business this past weekend and found a few more interesting items.
+
+1. The company has an activist investor on the board and has been selling off its Curation Foods business for the last few years. They sold their avocado segment this year and now olive oil sale completes the sale of Curation Foods segment. Prior to this sale, I believe this was the last remaining thorn in Lifecore path towards receiving forbearance from lenders as well as attracting the best possible bids. Lifecore is finally a pure CDMO play well positioned to capture bids from both financial and strategic buyers. These assets are highly valued and often trade at EV/EBITDA multiple of larger than 15 due to regulatory and technical reasons. Lifecore guided around 32.5 million before the meltdown and winning their largest contract to date would most likely push EBITDA run rate to \~40m.
+2. The revenue decline only happened for non-material reasons. Their customer pushed the schedule back by a quarter or two and hence the quarter numbers looked disappointing. But this means next quarter or the following one should have higher than normal numbers.
+3. The liquidity statement is most likely the result of covenant breach and they should have enough cash on hand to run the business. Why? They just sold their avocado business for 17.5m (goes into paying down debt) and got 38.75m in converts with $7 strike price. They have enough cash to run the business and fund their capex. My best guess is that miscalculating the timing of (2) probably had some impact on the covenants and they now need to negotiate the terms with lenders. Right now these debts are callable at any moment and that's probably why they needed to issue the liquidity statement. Technically, they don’t have enough cash right now to meet the theoretical obligations that could arise from accelerated debt payment. Does it make sense for creditors to call the debts? No. They are much better off letting the sale process go through and getting a kick back for granting forbearance.
+4. They hired Morgan Stanley for their strategic alternative process. If Morgan Stanley is the Morgan Stanley I know, they would not advise companies on a tiny 6 million dollar deal that may or may not go through. It's not the olive oil deal that needs Morgan Stanley. This is most likely the sale of the entire company. For what it's worth, when I interviewed for Morgan Stanley internship a while ago, the interviewer told me that they don't look at deals below 500m--pretty sure they do look at smaller deals as well but guessing it's the minority. I went to buyside straight out of college so don't have any first hand experience there but is more or less in line with conversations I had with friends in bulge bracket banks. Moreover, Morgan Stanley advised on a similar deal last year when Alcami traded hands. Lifecore has the right advisor.
+5. The interest level in CDMO asset is wild. They have been steadily growing and industry experts I've spoken to all agree that they are most likely getting dozens of bids right now. Given that board owns significant amount of shares and the company has set its sight on sale process, we have the right conditions for maximization of shareholder returns.
+6. The short interest increased going into the belated Q2 announcement on March 16th and since then FINRA data suggests that good amount of shorting has taken place. Historically, high short interest led to poor stock performance but occasionally you see stocks like Gamestop and Tesla that totally burns the short sellers. Given that I believe LFCR is a misunderstood situation and borrow fees are relatively high, the elevated short interest offers more reason to yield significant return should forbearance be granted and going concern notice removed.
+
+Why are some people short this name?
+
+Short thesis for this name is fairly straightforward. You have a company with business not matching the debt structure. The loans are current and they don’t have sufficient cash to meet all obligations. They just issued 38.75m in convertibles and even then they breached the covenants so the future looks bleak. Short!
+
+On the other hand, the value of CDMO asset and high borrow rate make such thesis highly risky for the shorts and favorable for those looking at this name from the long side. What is this worth? We can look at other CDMO transactions for some guidance. Somewhat recent rumors of Catalent buyout sent the expectation to almost 20x EBITDA. Pantheon and Cook Pharma were both acquired for around 17 times EBITDA. If you apply a more conservative 15x multiple and subtract net debt, you are looking at a $14-15 stock. Apply 20x and you have a $20 stock.
+
+What I see is a catalyst rich stock with next earnings right around the corner trading far below any reasonable transaction price (note: given that they released their Q2 only a couple of weeks ago Q3 could be delayed by few weeks). Should going concern be resolved by then, I believe people will begin speculating on potential buyout and shorts would be in deep trouble. Why would you be short should lenders agree to forbearance and acquirer could multiples of current price?
+
+Would appreciate any feedback you have. I’m long LFCR but if there’s anything I’m missing happy to know about it.",1,0,https://www.reddit.com/r/investing/comments/12tdwxh/lifecore_opportunity_or_bust/,Tesla earnings,"Lifecore: Opportunity or Bust? Been following Lifecore (ticker: LFCR) for the past few of days. I believe the stock is a compelling long but would appreciate some pushback.
+
+Lifecore is an oddity in the pharma industry. It has two main business branches in two very different sectors. One is the CDMO business that manufactures injectables for drug companies. Another one is their commodity Curation Foods business. Salad, avocado, olive oil, etc. This combination makes no sense at all but if you ever read Joel Greenblatt's fancy title books you'd be intrigued by possible shift in business mix. Perhaps a spin-off or other corporate action would unlock shareholder value...
+
+Well that's exactly what is happening right now. On March 16th, Lifecore made three important announcements.
+
+1. 2023 Q2 results with 11% revenue decline, going concern notice, and statements on breach of covenants.
+2. Expansion of contract with existing customer including 10m upfront payment in cash and up to 15m capex reimbursement.
+3. Statement on looking for strategic alternative.
+
+So what does this mean for the stock? First trading day after the announcement, the market reacted violently. The stock plunged 70%. High debt level combined with going concern notice and exploration of strategic alternative is almost never a happy marriage and it wasn't a great start. Moreover, in months leading to Q2 announcement, Lifecore issued a note telling investors that previously issued financial statements should no longer be relied upon due to errors found in its Curation Foods business. Doomed! Or so it seemed. Interestingly, the stock went up 80% on the following trading day and has since held its ground in $3-4 range despite reasonably high borrow fees for shorting this name. Perhaps there's more to the story.
+
+I decided to go over the business this past weekend and found a few more interesting items.
+
+1. The company has an activist investor on the board and has been selling off its Curation Foods business for the last few years. They sold their avocado segment this year and now olive oil sale completes the sale of Curation Foods segment. Prior to this sale, I believe this was the last remaining thorn in Lifecore path towards receiving forbearance from lenders as well as attracting the best possible bids. Lifecore is finally a pure CDMO play well positioned to capture bids from both financial and strategic buyers. These assets are highly valued and often trade at EV/EBITDA multiple of larger than 15 due to regulatory and technical reasons. Lifecore guided around 32.5 million before the meltdown and winning their largest contract to date would most likely push EBITDA run rate to \~40m.
+2. The revenue decline only happened for non-material reasons. Their customer pushed the schedule back by a quarter or two and hence the quarter numbers looked disappointing. But this means next quarter or the following one should have higher than normal numbers.
+3. The liquidity statement is most likely the result of covenant breach and they should have enough cash on hand to run the business. Why? They just sold their avocado business for 17.5m (goes into paying down debt) and got 38.75m in converts with $7 strike price. They have enough cash to run the business and fund their capex. My best guess is that miscalculating the timing of (2) probably had some impact on the covenants and they now need to negotiate the terms with lenders. Right now these debts are callable at any moment and that's probably why they needed to issue the liquidity statement. Technically, they don’t have enough cash right now to meet the theoretical obligations that could arise from accelerated debt payment. Does it make sense for creditors to call the debts? No. They are much better off letting the sale process go through and getting a kick back for granting forbearance.
+4. They hired Morgan Stanley for their strategic alternative process. If Morgan Stanley is the Morgan Stanley I know, they would not advise companies on a tiny 6 million dollar deal that may or may not go through. It's not the olive oil deal that needs Morgan Stanley. This is most likely the sale of the entire company. For what it's worth, when I interviewed for Morgan Stanley internship a while ago, the interviewer told me that they don't look at deals below 500m--pretty sure they do look at smaller deals as well but guessing it's the minority. I went to buyside straight out of college so don't have any first hand experience there but is more or less in line with conversations I had with friends in bulge bracket banks. Moreover, Morgan Stanley advised on a similar deal last year when Alcami traded hands. Lifecore has the right advisor.
+5. The interest level in CDMO asset is wild. They have been steadily growing and industry experts I've spoken to all agree that they are most likely getting dozens of bids right now. Given that board owns significant amount of shares and the company has set its sight on sale process, we have the right conditions for maximization of shareholder returns.
+6. The short interest increased going into the belated Q2 announcement on March 16th and since then FINRA data suggests that good amount of shorting has taken place. Historically, high short interest led to poor stock performance but occasionally you see stocks like Gamestop and Tesla that totally burns the short sellers. Given that I believe LFCR is a misunderstood situation and borrow fees are relatively high, the elevated short interest offers more reason to yield significant return should forbearance be granted and going concern notice removed.
+
+Why are some people short this name?
+
+Short thesis for this name is fairly straightforward. You have a company with business not matching the debt structure. The loans are current and they don’t have sufficient cash to meet all obligations. They just issued 38.75m in convertibles and even then they breached the covenants so the future looks bleak. Short!
+
+On the other hand, the value of CDMO asset and high borrow rate make such thesis highly risky for the shorts and favorable for those looking at this name from the long side. What is this worth? We can look at other CDMO transactions for some guidance. Somewhat recent rumors of Catalent buyout sent the expectation to almost 20x EBITDA. Pantheon and Cook Pharma were both acquired for around 17 times EBITDA. If you apply a more conservative 15x multiple and subtract net debt, you are looking at a $14-15 stock. Apply 20x and you have a $20 stock.
+
+What I see is a catalyst rich stock with next earnings right around the corner trading far below any reasonable transaction price (note: given that they released their Q2 only a couple of weeks ago Q3 could be delayed by few weeks). Should going concern be resolved by then, I believe people will begin speculating on potential buyout and shorts would be in deep trouble. Why would you be short should lenders agree to forbearance and acquirer could multiples of current price?
+
+Would appreciate any feedback you have. I’m long LFCR but if there’s anything I’m missing happy to know about it."
+TSLA_002,12rq3pf,wallstreetbets,2023-04-19 11:31:18,"Tesla cuts prices for Model 3, Model Y on eve of Q1 earnings",,467,205,https://techcrunch.com/2023/04/18/tesla-cuts-prices-for-model-3-model-y-on-eve-of-q1-earnings/,Tesla earnings,"Tesla cuts prices for Model 3, Model Y on eve of Q1 earnings"
+TSLA_002,12s2zqb,wallstreetbets,2023-04-19 17:05:28,What to do for Tesla's Earnings Tonight,"Tesla (TSLA) is about to release Q1 2023 financial results today after the markets close. As usual, a conference call and Q&A with Tesla’s management are scheduled after the results. These tend to move the stock big time, so the stakes are high for investors and degens like us. Options will definitely be fun to play with.
+
+In this post, we’ll take a look at what both the street and retail investors are expecting for the quarterly results.
+
+**Tesla Q1 2023 deliveries**
+
+As usual, Tesla already disclosed its Q1 vehicle delivery and production numbers, which drive the vast majority of the company’s revenue. Earlier this month, Tesla confirmed that [it delivered a new record of over 422,000 electric vehicles during the first quarter of the year.](https://electrek.co/2023/04/02/tesla-tsla-confirms-q1-2023-record-deliveries-beats-expectations/) Tesla also confirmed having produced 440,000 vehicles during the quarter – also a new record. Delivery and production numbers are always slightly adjusted during earning results.
+
+**Tesla Q1 2023 revenue**
+
+For revenue, analysts generally have a pretty good idea of what to expect, thanks to the delivery numbers. The Wall Street consensus for this quarter is $23.617 billion, and [Estimize](https://www.estimize.com/sectors), the financial estimate crowdsourcing website, predicts a higher revenue of $24.048 billion.
+
+Despite the new record number of deliveries, these estimates would represent a quarter-to-quarter decrease in revenue due to Tesla’s implementing large price cuts during the first quarter. Lower prices are probably a smart strategy considering higher interest rates, the potential for economic deceleration in 2023, more competition, and the new rules for tax credits under the [Inflation Reduction Act](https://www.mckinsey.com/industries/public-and-social-sector/our-insights/the-inflation-reduction-act-heres-whats-in-it). Nonetheless, it would be a massive year-over-year increase from $18 billion in revenue in Q1 2022.
+
+Here are the predictions for Tesla’s revenue over the past two years, where Estimize predictions are in blue, Wall Street consensus is in gray, and actual results are in green: https://i.imgur.com/t7l4Nyj.jpg
+
+**Tesla Q1 2023 earnings**
+
+Tesla always attempts to be marginally profitable every quarter as it invests most of its money into growth, and it has been successful in doing so over the last two years now. For Q1 2023, the Wall Street consensus is a gain of $0.85 per share, while Estimize’s prediction is higher with a profit of $0.94 per share.
+
+The estimates have a wide range this quarter because of the price cuts Tesla implemented during the quarter. Analysts and investors are looking to see how badly it is going to affect Tesla’s margins and, ultimately, its profits. Unsurprisingly, Tesla achieving the Wall Street consensus would be a big drop in earnings quarter-to-quarter, and the automaker would be flat on earnings year-over-year.
+
+Here are the earnings per share over the last two years, where Estimize predictions are in blue, Wall Street consensus is in gray, and actual results are in green: https://i.imgur.com/rlj48di.png
+
+**Other expectations for the TSLA shareholder’s letter and analyst call**
+
+The obvious thing is the gross margin. Investors are going to be looking for that number first. They want to know by how much it dropped and how much room there is since Tesla continued to drop prices after the end of the quarter. If Tesla can stay in the mid to high teens, I think investors will be happy, but if it dips lower than that, they might have a problem. Investors will also be looking at insights from management about the pricing strategy, which seems to be changing fast.
+
+Tesla shareholders will also be looking on an update on [Cybertruck production](https://www.theverge.com/2023/1/25/23571806/tesla-cybertruck-volume-production-delay-2024-q4-2022) as the start of production gets closer, but knowing Tesla management, I wouldn’t expect much more than it being on track for a start of production this summer and volume production next year. Cybertruck should not have a material impact on Tesla’s revenue in 2023.
+
+I assume that amid margins going down, Tesla investors are going to want to have an update on [Tesla’s self-driving program](https://www.tesla.com/en_CA/autopilot), which has helped margins in the past, but the program has been stalling for a while now.
+ Shareholders will also be particularly interested in Tesla Energy this quarter and its potential future impact on Tesla’s financials. It has been a growing business for Tesla and with a [ramp-up in Megapack production](https://pv-magazine-usa.com/2023/03/13/teslas-investor-day-ramping-up-the-megapack-business/), it should be bigger in Q1, but I wouldn’t expect a massive jump in deployment until the second half of the year. We will see what Tesla has to say about that.
+
+**Trading Tesla Stock: Technical Analysis**
+
+Trading Tesla stock is not for the faint-hearted. Shares have [produced sizable annualized volatility of 64%](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=2&startYear=1985&firstMonth=1&endYear=2023&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=10000&annualOperation=0&annualAdjustment=0&inflationAdjusted=true&annualPercentage=0.0&frequency=4&rebalanceType=1&absoluteDeviation=5.0&relativeDeviation=25.0&leverageType=0&leverageRatio=0.0&debtAmount=0&debtInterest=0.0&maintenanceMargin=25.0&leveragedBenchmark=false&reinvestDividends=true&showYield=false&showFactors=false&factorModel=3&portfolioNames=false&portfolioName1=Portfolio+1&portfolioName2=Portfolio+2&portfolioName3=Portfolio+3&symbol1=TSLA&allocation1_1=100&symbol2=SPY&allocation2_2=100) since inception. In plain English: as much as investing in the S&P 500 is risky, investing in TSLA has historically been nearly five times riskier!
+
+Of course, the possibility of even more intense price moves, either to the upside or downside, gets magnified around earnings day. To help figure things out, Wall Street Memes recently published a strategy for [trading Tesla stock](https://www.thestreet.com/memestocks/other-memes/tesla-stock-the-charts-send-a-clear-message).
+
+To recap, TSLA has been struggling to break free of the 200-day moving average to the upside ([see here](https://i.imgur.com/S3SqpCf.png)). The good news is that selling pressure should ease each time that the stock gets denied further gains at the moving average, as the pool of sellers at that level shrinks.
+
+If or when Tesla stock overcomes the hurdle, there is the possibility that a $300 price target set by the next key resistance level would open up a huge opportunity for bulls. Getting there from current levels implies a gain potential of over 60%. Such a move may sound like wishful thinking, but keep in mind that TSLA is all about high-risk and high reward. Earnings day is important because it could present the key catalyst that confirms the viability of the bullish trade – or rejects it at once.
+
+**So what to do for earnings?**
+
+For all the reasons above, I think it would be reasonable to get a strangle on Tesla. For the noobies, a straddle is an options strategy where we buy both a call option and a put option on the same underlying stock with the same strike price and expiration date. This strategy is typically used if we believe the stock price will experience a significant price movement but is unsure of the direction. Grabbing the 4/21 190c and 170p doesn't seem like a bad idea. The stock will certainly move.",12,33,https://www.reddit.com/r/wallstreetbets/comments/12s2zqb/what_to_do_for_teslas_earnings_tonight/,Tesla earnings,"What to do for Tesla's Earnings Tonight Tesla (TSLA) is about to release Q1 2023 financial results today after the markets close. As usual, a conference call and Q&A with Tesla’s management are scheduled after the results. These tend to move the stock big time, so the stakes are high for investors and degens like us. Options will definitely be fun to play with.
+
+In this post, we’ll take a look at what both the street and retail investors are expecting for the quarterly results.
+
+**Tesla Q1 2023 deliveries**
+
+As usual, Tesla already disclosed its Q1 vehicle delivery and production numbers, which drive the vast majority of the company’s revenue. Earlier this month, Tesla confirmed that [it delivered a new record of over 422,000 electric vehicles during the first quarter of the year.](https://electrek.co/2023/04/02/tesla-tsla-confirms-q1-2023-record-deliveries-beats-expectations/) Tesla also confirmed having produced 440,000 vehicles during the quarter – also a new record. Delivery and production numbers are always slightly adjusted during earning results.
+
+**Tesla Q1 2023 revenue**
+
+For revenue, analysts generally have a pretty good idea of what to expect, thanks to the delivery numbers. The Wall Street consensus for this quarter is $23.617 billion, and [Estimize](https://www.estimize.com/sectors), the financial estimate crowdsourcing website, predicts a higher revenue of $24.048 billion.
+
+Despite the new record number of deliveries, these estimates would represent a quarter-to-quarter decrease in revenue due to Tesla’s implementing large price cuts during the first quarter. Lower prices are probably a smart strategy considering higher interest rates, the potential for economic deceleration in 2023, more competition, and the new rules for tax credits under the [Inflation Reduction Act](https://www.mckinsey.com/industries/public-and-social-sector/our-insights/the-inflation-reduction-act-heres-whats-in-it). Nonetheless, it would be a massive year-over-year increase from $18 billion in revenue in Q1 2022.
+
+Here are the predictions for Tesla’s revenue over the past two years, where Estimize predictions are in blue, Wall Street consensus is in gray, and actual results are in green: https://i.imgur.com/t7l4Nyj.jpg
+
+**Tesla Q1 2023 earnings**
+
+Tesla always attempts to be marginally profitable every quarter as it invests most of its money into growth, and it has been successful in doing so over the last two years now. For Q1 2023, the Wall Street consensus is a gain of $0.85 per share, while Estimize’s prediction is higher with a profit of $0.94 per share.
+
+The estimates have a wide range this quarter because of the price cuts Tesla implemented during the quarter. Analysts and investors are looking to see how badly it is going to affect Tesla’s margins and, ultimately, its profits. Unsurprisingly, Tesla achieving the Wall Street consensus would be a big drop in earnings quarter-to-quarter, and the automaker would be flat on earnings year-over-year.
+
+Here are the earnings per share over the last two years, where Estimize predictions are in blue, Wall Street consensus is in gray, and actual results are in green: https://i.imgur.com/rlj48di.png
+
+**Other expectations for the TSLA shareholder’s letter and analyst call**
+
+The obvious thing is the gross margin. Investors are going to be looking for that number first. They want to know by how much it dropped and how much room there is since Tesla continued to drop prices after the end of the quarter. If Tesla can stay in the mid to high teens, I think investors will be happy, but if it dips lower than that, they might have a problem. Investors will also be looking at insights from management about the pricing strategy, which seems to be changing fast.
+
+Tesla shareholders will also be looking on an update on [Cybertruck production](https://www.theverge.com/2023/1/25/23571806/tesla-cybertruck-volume-production-delay-2024-q4-2022) as the start of production gets closer, but knowing Tesla management, I wouldn’t expect much more than it being on track for a start of production this summer and volume production next year. Cybertruck should not have a material impact on Tesla’s revenue in 2023.
+
+I assume that amid margins going down, Tesla investors are going to want to have an update on [Tesla’s self-driving program](https://www.tesla.com/en_CA/autopilot), which has helped margins in the past, but the program has been stalling for a while now.
+ Shareholders will also be particularly interested in Tesla Energy this quarter and its potential future impact on Tesla’s financials. It has been a growing business for Tesla and with a [ramp-up in Megapack production](https://pv-magazine-usa.com/2023/03/13/teslas-investor-day-ramping-up-the-megapack-business/), it should be bigger in Q1, but I wouldn’t expect a massive jump in deployment until the second half of the year. We will see what Tesla has to say about that.
+
+**Trading Tesla Stock: Technical Analysis**
+
+Trading Tesla stock is not for the faint-hearted. Shares have [produced sizable annualized volatility of 64%](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=2&startYear=1985&firstMonth=1&endYear=2023&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=10000&annualOperation=0&annualAdjustment=0&inflationAdjusted=true&annualPercentage=0.0&frequency=4&rebalanceType=1&absoluteDeviation=5.0&relativeDeviation=25.0&leverageType=0&leverageRatio=0.0&debtAmount=0&debtInterest=0.0&maintenanceMargin=25.0&leveragedBenchmark=false&reinvestDividends=true&showYield=false&showFactors=false&factorModel=3&portfolioNames=false&portfolioName1=Portfolio+1&portfolioName2=Portfolio+2&portfolioName3=Portfolio+3&symbol1=TSLA&allocation1_1=100&symbol2=SPY&allocation2_2=100) since inception. In plain English: as much as investing in the S&P 500 is risky, investing in TSLA has historically been nearly five times riskier!
+
+Of course, the possibility of even more intense price moves, either to the upside or downside, gets magnified around earnings day. To help figure things out, Wall Street Memes recently published a strategy for [trading Tesla stock](https://www.thestreet.com/memestocks/other-memes/tesla-stock-the-charts-send-a-clear-message).
+
+To recap, TSLA has been struggling to break free of the 200-day moving average to the upside ([see here](https://i.imgur.com/S3SqpCf.png)). The good news is that selling pressure should ease each time that the stock gets denied further gains at the moving average, as the pool of sellers at that level shrinks.
+
+If or when Tesla stock overcomes the hurdle, there is the possibility that a $300 price target set by the next key resistance level would open up a huge opportunity for bulls. Getting there from current levels implies a gain potential of over 60%. Such a move may sound like wishful thinking, but keep in mind that TSLA is all about high-risk and high reward. Earnings day is important because it could present the key catalyst that confirms the viability of the bullish trade – or rejects it at once.
+
+**So what to do for earnings?**
+
+For all the reasons above, I think it would be reasonable to get a strangle on Tesla. For the noobies, a straddle is an options strategy where we buy both a call option and a put option on the same underlying stock with the same strike price and expiration date. This strategy is typically used if we believe the stock price will experience a significant price movement but is unsure of the direction. Grabbing the 4/21 190c and 170p doesn't seem like a bad idea. The stock will certainly move."
+TSLA_002,12s9361,wallstreetbets,2023-04-19 20:30:33,4-19-23 SPY/ ES Futures and VIX Daily Market Analysis (Bonus- Tesla Earnings),"  
+
+Well one would have assumed after a major support line was broken and we had a -0.5%+ open… that we would see some bearish continuation… but instead just like the last almost month now it was one again a buy the dip type of day… we did end up with a decent bearish reversal EOD though. 
+
+**TESLA EARNINGS**
+
+&#x200B;
+
+https://preview.redd.it/9m1x9mdciwua1.png?width=975&format=png&auto=webp&s=a52f8f047237826a8831be79c289212377a69ea9
+
+Initial reaction here is barely down 1%... however, everyone knows the conference call is what matters…
+
+**SPY DAILY SUPPLY AND DEMAND**
+
+&#x200B;
+
+https://preview.redd.it/je6he0tciwua1.png?width=975&format=png&auto=webp&s=8449b9d257827a718381b0761f843b1cc0ef2570
+
+Well I had mentioned yesterday that there was a major imbalance in the markets and that I found it odd to establish a new supply which should be a resistance below current price… well today we just did a very bullish thing and we turned that 414.1 Supply into a new demand (support). Now this also becomes an issue here… 
+
+Why? Well we established a new Demand… which should be a support however, that demand was established above current price action and actually is exactly where we found resistance EOD today. 
+
+So this is where things get choppy and hard to really find direction and make sense of it.. we should push to the next supply which is 415.36 and 417.03… however, we could drop to previous supplies below at 411.04 and 409.73. 
+
+We are for sure in chop right now. 
+
+**SPY DAILY PRICE ACTION**
+
+&#x200B;
+
+https://preview.redd.it/hl7s4kbdiwua1.png?width=975&format=png&auto=webp&s=709d9d0a33dfb7df25549525c603bc60baf26de5
+
+Now we break through the rising wedge that has been support for over a month now. That should in and of itself be a very bearish omen for the markets… However, we once again bounced hard off the daily 8ema. The trend has officially broken… but we continue to hold the daily 8ema… Lots of chop and no continuation. 
+
+SPY Daily Levels  
+ Supply- 409.7 -> 411 -> 415.4 -> 417  
+ Demand- 414.2 -> 409.2  
+ Support- 412.1 -> 409.1  
+ Resistance- 414.1 -> 415.6 -> 416.8
+
+**FUTURES DAILY SUPPLY AND DEMAND**
+
+&#x200B;
+
+https://preview.redd.it/0hzoresdiwua1.png?width=850&format=png&auto=webp&s=ce80c498f76cf3c5ab96856dbdb4f87ffaa5855f
+
+This is where it is very helpful to watch futures and SPY at the same time… Futures shows a slightly different picture then SPY… what im seeing here is that yes we DID bounce hard off the daily 8ema but what we got stopped in our tracks at 4178 supply… IF we were to get a huge green day tomorrow we could potentially turn 4178 into a new demand (support) which would be extremely bullish. However, if this 4178 resistance holds right now then we start talking about a push back to 4116 demand. 
+
+One other thing that happened on futures is that we did take out 4160 and 4154 supplies today. However on SPY we did not take out any previous supplies. 
+
+**FUTURES DAILY PRICE ACTION**
+
+&#x200B;
+
+https://preview.redd.it/f6n3hk6eiwua1.png?width=850&format=png&auto=webp&s=6bb34b7fe68163148672f026dc27f54a014df986
+
+We also broke the rising wedge and put our 4th daily doji in a row in… there does appear to be a 4198 rejection and possible carrot top forming here… 
+
+With the daily 8ema still holding as support that pretty much is the last support to watch before we start the next leg down… this decent miss on Tesla COULD start the next leg down. 
+
+Futures Daily Levels  
+ Supply- 4178 -> 4198  
+ Demand- 4116   
+ Support- 4154 -> 4139  
+ Resistance- 4178 -> 4198
+
+**VIX**
+
+&#x200B;
+
+https://preview.redd.it/ujze52oeiwua1.png?width=975&format=png&auto=webp&s=8bcb823212fd69466b0cde46798d17bc01a6410f
+
+The VIX once again put in a new 52 week low… and not only that this current level the VIX just hit is as low as the VIX was the last time SPY was at an ATH… 
+
+On paper and realistically and logically (haha) the VIX daily broke its massive falling wedge and SPY/ Futures broke its rising wedge… those two doing that together SHOULD signal a sell off on Spy is imminent… but the market has proved us to be irrational. 
+
+I still overall remain bearish and still hold my 93dte 405P which are down about 16%. 
+
+**DAILY TRADING LOG**
+
+&#x200B;
+
+https://preview.redd.it/z5n47mbfiwua1.png?width=911&format=png&auto=webp&s=135cfbafbe84bc6a4a555de1a1f8b370c97c3a36
+
+A pretty decent day of scalping and trading today… I got chopped up pretty good mid day when we were fighting aggressively at 413.5 for so long. Days like today become increasingly frustrating to trade and we once again held a less than $3 range all day. 
+
+I have had a lot of people ask why I went back to SPX… 
+
+I predominantly for anyone who has been following me for a long time traded SPX 0dte all of 2022… I killed it on scalp game… however once 0dte evertday SPY and SPX hit the markets honestly 0dte just weren’t it anymore…
+
+I know others have had the same issue but there was this detachment of SPX premiums (mostly 0dte) and actual SPY/ SPX movement… meaning often times I would enter and have a good entry and SPY WOULD move down (if I bought a put) however, my put would actually lose value… there were also other times where it seemed like we got a huge move in premiums when SPY wouldn’t even move… 
+
+I got away from 0dte and when I did that I went back to SPY (mostly cause SPX was too expensive due to the VIX being so high AND spread on further out SPX are not as favorable). Well recently I have worked my way back down to 2 dte and now im back at 1dte… this means I was trading on average 10-15 contracts of SPY every trade and burning a lot of commission every day… I am temporarily using SPX now because 1. It saves on commission (only 2 contracts vs 10-15)… 2. Its 60/40 tax benefits and 3. SPX has a way of moving that if you learn it can be very favorable to option buyers. 
+
+In all reality trading SPY or SPX is one and in the same… smaller accounts (those buying less than 10 contracts at a time) really would benefit from SPY and I honestly think SPY options move better and easier than SPX does… but anyone trading 10+ contracts should seriously look at SPX… just be mindful of the spreads if trading further than 0-1DTE.",45,33,https://www.reddit.com/r/wallstreetbets/comments/12s9361/41923_spy_es_futures_and_vix_daily_market/,Tesla earnings,"4-19-23 SPY/ ES Futures and VIX Daily Market Analysis (Bonus- Tesla Earnings)   
+
+Well one would have assumed after a major support line was broken and we had a -0.5%+ open… that we would see some bearish continuation… but instead just like the last almost month now it was one again a buy the dip type of day… we did end up with a decent bearish reversal EOD though. 
+
+**TESLA EARNINGS**
+
+&#x200B;
+
+https://preview.redd.it/9m1x9mdciwua1.png?width=975&format=png&auto=webp&s=a52f8f047237826a8831be79c289212377a69ea9
+
+Initial reaction here is barely down 1%... however, everyone knows the conference call is what matters…
+
+**SPY DAILY SUPPLY AND DEMAND**
+
+&#x200B;
+
+https://preview.redd.it/je6he0tciwua1.png?width=975&format=png&auto=webp&s=8449b9d257827a718381b0761f843b1cc0ef2570
+
+Well I had mentioned yesterday that there was a major imbalance in the markets and that I found it odd to establish a new supply which should be a resistance below current price… well today we just did a very bullish thing and we turned that 414.1 Supply into a new demand (support). Now this also becomes an issue here… 
+
+Why? Well we established a new Demand… which should be a support however, that demand was established above current price action and actually is exactly where we found resistance EOD today. 
+
+So this is where things get choppy and hard to really find direction and make sense of it.. we should push to the next supply which is 415.36 and 417.03… however, we could drop to previous supplies below at 411.04 and 409.73. 
+
+We are for sure in chop right now. 
+
+**SPY DAILY PRICE ACTION**
+
+&#x200B;
+
+https://preview.redd.it/hl7s4kbdiwua1.png?width=975&format=png&auto=webp&s=709d9d0a33dfb7df25549525c603bc60baf26de5
+
+Now we break through the rising wedge that has been support for over a month now. That should in and of itself be a very bearish omen for the markets… However, we once again bounced hard off the daily 8ema. The trend has officially broken… but we continue to hold the daily 8ema… Lots of chop and no continuation. 
+
+SPY Daily Levels  
+ Supply- 409.7 -> 411 -> 415.4 -> 417  
+ Demand- 414.2 -> 409.2  
+ Support- 412.1 -> 409.1  
+ Resistance- 414.1 -> 415.6 -> 416.8
+
+**FUTURES DAILY SUPPLY AND DEMAND**
+
+&#x200B;
+
+https://preview.redd.it/0hzoresdiwua1.png?width=850&format=png&auto=webp&s=ce80c498f76cf3c5ab96856dbdb4f87ffaa5855f
+
+This is where it is very helpful to watch futures and SPY at the same time… Futures shows a slightly different picture then SPY… what im seeing here is that yes we DID bounce hard off the daily 8ema but what we got stopped in our tracks at 4178 supply… IF we were to get a huge green day tomorrow we could potentially turn 4178 into a new demand (support) which would be extremely bullish. However, if this 4178 resistance holds right now then we start talking about a push back to 4116 demand. 
+
+One other thing that happened on futures is that we did take out 4160 and 4154 supplies today. However on SPY we did not take out any previous supplies. 
+
+**FUTURES DAILY PRICE ACTION**
+
+&#x200B;
+
+https://preview.redd.it/f6n3hk6eiwua1.png?width=850&format=png&auto=webp&s=6bb34b7fe68163148672f026dc27f54a014df986
+
+We also broke the rising wedge and put our 4th daily doji in a row in… there does appear to be a 4198 rejection and possible carrot top forming here… 
+
+With the daily 8ema still holding as support that pretty much is the last support to watch before we start the next leg down… this decent miss on Tesla COULD start the next leg down. 
+
+Futures Daily Levels  
+ Supply- 4178 -> 4198  
+ Demand- 4116   
+ Support- 4154 -> 4139  
+ Resistance- 4178 -> 4198
+
+**VIX**
+
+&#x200B;
+
+https://preview.redd.it/ujze52oeiwua1.png?width=975&format=png&auto=webp&s=8bcb823212fd69466b0cde46798d17bc01a6410f
+
+The VIX once again put in a new 52 week low… and not only that this current level the VIX just hit is as low as the VIX was the last time SPY was at an ATH… 
+
+On paper and realistically and logically (haha) the VIX daily broke its massive falling wedge and SPY/ Futures broke its rising wedge… those two doing that together SHOULD signal a sell off on Spy is imminent… but the market has proved us to be irrational. 
+
+I still overall remain bearish and still hold my 93dte 405P which are down about 16%. 
+
+**DAILY TRADING LOG**
+
+&#x200B;
+
+https://preview.redd.it/z5n47mbfiwua1.png?width=911&format=png&auto=webp&s=135cfbafbe84bc6a4a555de1a1f8b370c97c3a36
+
+A pretty decent day of scalping and trading today… I got chopped up pretty good mid day when we were fighting aggressively at 413.5 for so long. Days like today become increasingly frustrating to trade and we once again held a less than $3 range all day. 
+
+I have had a lot of people ask why I went back to SPX… 
+
+I predominantly for anyone who has been following me for a long time traded SPX 0dte all of 2022… I killed it on scalp game… however once 0dte evertday SPY and SPX hit the markets honestly 0dte just weren’t it anymore…
+
+I know others have had the same issue but there was this detachment of SPX premiums (mostly 0dte) and actual SPY/ SPX movement… meaning often times I would enter and have a good entry and SPY WOULD move down (if I bought a put) however, my put would actually lose value… there were also other times where it seemed like we got a huge move in premiums when SPY wouldn’t even move… 
+
+I got away from 0dte and when I did that I went back to SPY (mostly cause SPX was too expensive due to the VIX being so high AND spread on further out SPX are not as favorable). Well recently I have worked my way back down to 2 dte and now im back at 1dte… this means I was trading on average 10-15 contracts of SPY every trade and burning a lot of commission every day… I am temporarily using SPX now because 1. It saves on commission (only 2 contracts vs 10-15)… 2. Its 60/40 tax benefits and 3. SPX has a way of moving that if you learn it can be very favorable to option buyers. 
+
+In all reality trading SPY or SPX is one and in the same… smaller accounts (those buying less than 10 contracts at a time) really would benefit from SPY and I honestly think SPY options move better and easier than SPX does… but anyone trading 10+ contracts should seriously look at SPX… just be mindful of the spreads if trading further than 0-1DTE."
+TSLA_002,12sivno,wallstreetbets,2023-04-20 02:28:13,❗️📈💸TESLA Drops on the after MARKET💸📈❗️EARNINGS,,0,2,https://www.reddit.com/r/wallstreetbets/comments/12sivno/tesla_drops_on_the_after_marketearnings/,Tesla earnings,❗️📈💸TESLA Drops on the after MARKET💸📈❗️EARNINGS
+TSLA_002,12soxfo,wallstreetbets,2023-04-20 06:40:05,r/wallstreetbets on Reddit: Tesla's margin collasp: why I plan on shorting Tesla before Q1 earnings (not Q4),,1,2,https://www.reddit.com/r/wallstreetbets/comments/10iwv6e/teslas_margin_collasp_why_i_plan_on_shorting/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=1&utm_term=1,Tesla earnings,r/wallstreetbets on Reddit: Tesla's margin collasp: why I plan on shorting Tesla before Q1 earnings (not Q4)
+TSLA_002,12svh8b,wallstreetbets,2023-04-20 11:31:18,Tesla net income and earnings drop more than 20% from last year - EPS: 85 cents adj. vs 85 cents est. ; Rev: $23.33 vs $23.21 est.,,374,130,https://www.cnbc.com/2023/04/19/tesla-tsla-earnings-q1-2023.html,Tesla earnings,Tesla net income and earnings drop more than 20% from last year - EPS: 85 cents adj. vs 85 cents est. ; Rev: $23.33 vs $23.21 est.
+TSLA_002,12sxcax,wallstreetbets,2023-04-20 12:38:59,"Tesla has $22.5 billion of cash, cash equivalents, and investments","How were Tesla's earnings this March quarter?
+
+**Key Tesla financial parameters that I am watching:** 
+
+&#x200B;
+
+[Key Tesla Financials](https://preview.redd.it/prl0cs5v91va1.png?width=576&format=png&auto=webp&s=be90a6da3233fc8f98a94a34eef8ed5aa380f2fd)
+
+**Key Tesla Biz parameters that I am watching:** 
+
+&#x200B;
+
+[Key Tesla Biz Update](https://preview.redd.it/vrjsjcgha1va1.png?width=582&format=png&auto=webp&s=fb1316e44c3cc3e43e84b5d550452d18015ab6c1)
+
+Elon's Tesla's operating margin (11.4%) is very high relative to the Auto industry's operating margin in the US (8%). 
+
+Tesla is down 8% in pre-open. How are you guys tracking it? QoQ seems bad!",53,25,https://www.reddit.com/r/wallstreetbets/comments/12sxcax/tesla_has_225_billion_of_cash_cash_equivalents/,Tesla earnings,"Tesla has $22.5 billion of cash, cash equivalents, and investments How were Tesla's earnings this March quarter?
+
+**Key Tesla financial parameters that I am watching:** 
+
+&#x200B;
+
+[Key Tesla Financials](https://preview.redd.it/prl0cs5v91va1.png?width=576&format=png&auto=webp&s=be90a6da3233fc8f98a94a34eef8ed5aa380f2fd)
+
+**Key Tesla Biz parameters that I am watching:** 
+
+&#x200B;
+
+[Key Tesla Biz Update](https://preview.redd.it/vrjsjcgha1va1.png?width=582&format=png&auto=webp&s=fb1316e44c3cc3e43e84b5d550452d18015ab6c1)
+
+Elon's Tesla's operating margin (11.4%) is very high relative to the Auto industry's operating margin in the US (8%). 
+
+Tesla is down 8% in pre-open. How are you guys tracking it? QoQ seems bad!"
+TSLA_002,12t1q3f,wallstreetbets,2023-04-20 14:48:08,Big TSLA oof,"so i fucking hate papa elon and was gettin cocky and thought 3 weeks ago hey maybe tesla will go up to like 200 again (bought these around 195 after it hit like 206) and I can double my stack real quick on these earnings calls if it pumps... so i just started blastin. took my nest egg from 75k to 60k real quick, had a chance to exit only 3k down, though nah I got another week and well... fuck. its just money but now I gotta go make more behind the Wendy's dumpster with my boi cramer.",1047,257,https://i.redd.it/8hcd6w0sf3va1.jpg,Tesla earnings,"Big TSLA oof so i fucking hate papa elon and was gettin cocky and thought 3 weeks ago hey maybe tesla will go up to like 200 again (bought these around 195 after it hit like 206) and I can double my stack real quick on these earnings calls if it pumps... so i just started blastin. took my nest egg from 75k to 60k real quick, had a chance to exit only 3k down, though nah I got another week and well... fuck. its just money but now I gotta go make more behind the Wendy's dumpster with my boi cramer."
+TSLA_002,12tbrek,wallstreetbets,2023-04-20 19:06:44,"TESLA is on SALE! Do you buy the stock? Buy the car? Or neither? 10-20% off your choice, 14 million members should tell us","Trying to pick the brains of a large community. Even if many of us are regards and degens. The cars are off as much as 20% off since January 1st. The stock is over 20% off the recent highs. Would you buy either? Neither? Both?
+
+Personally, I am interested in the Model S plaid under 100K. It used to be 125K and now 105k. It is getting interesting. I have a 2,000 deposit on a BMW i7 that isnt supposed to be here until August. Lets see
+
+The stock is off, but may come off more.
+
+TSLA recent report shows a 24% sales growth and a 20% earnings decline. The overall profit margin of 11.4% is only a couple of percentage points higher than GM F TM. Is barely higher than RACE. The PE ratio is over 60. 
+
+So is the stock cheap enough to buy? The car cheap enough to buy?
+
+If 14 million members wont buy either! The stock is headed lower!",0,49,https://www.reddit.com/r/wallstreetbets/comments/12tbrek/tesla_is_on_sale_do_you_buy_the_stock_buy_the_car/,Tesla earnings,"TESLA is on SALE! Do you buy the stock? Buy the car? Or neither? 10-20% off your choice, 14 million members should tell us Trying to pick the brains of a large community. Even if many of us are regards and degens. The cars are off as much as 20% off since January 1st. The stock is over 20% off the recent highs. Would you buy either? Neither? Both?
+
+Personally, I am interested in the Model S plaid under 100K. It used to be 125K and now 105k. It is getting interesting. I have a 2,000 deposit on a BMW i7 that isnt supposed to be here until August. Lets see
+
+The stock is off, but may come off more.
+
+TSLA recent report shows a 24% sales growth and a 20% earnings decline. The overall profit margin of 11.4% is only a couple of percentage points higher than GM F TM. Is barely higher than RACE. The PE ratio is over 60. 
+
+So is the stock cheap enough to buy? The car cheap enough to buy?
+
+If 14 million members wont buy either! The stock is headed lower!"
+TSLA_002,12tdkcd,wallstreetbets,2023-04-20 20:09:05,EarningsGPT: This Week Earnings Releases and Reactions Summary by ChatGPT,"This is the results of a script that complies news articles discussing stocks with earnings this week. I scrapped articles analysing the last earnings report, and **asked ChatGPT to summarise key new information and how market reacted to the new release.**
+
+Here are the results for this week biggest earnings.
+
+&#x200B;
+
+# LMT: Lockheed Martin Corp 
+
+Lockheed Martin's Q1 results exceeded analysts' expectations, leading to a record high stock surge. Revenue rose by less than 1% to over $15 billion, but the company expects revenue to decline this year due to supply chain constraints. Lockheed saw a decline of 2% in its aeronautics revenue, primarily due to a backlog of F-35 fighter jets. However, the company gained a boost in contracts related to the war in Ukraine, expected to generate $1.5 billion in sales this year and up to $6 billion by 2027. The Chinese government has banned senior executives from Lockheed and Raytheon from entering, working, or residing in China, along with imports and exports related to China.
+
+Lockheed Martin's stock rose by almost 2.5% on the day, and it is up by more than 3% year-to-date, showing that Wall Street is taking notice of the company. Investors are concerned about the China issue and the potential for decoupling from Chinese suppliers, leading to dependency on other sources. The next presidential election may focus on this issue, as both sides of the political spectrum agree that the US needs to decrease its dependence on China. Many industries, including technology, chips, and production, are dependent on China, and this issue is likely to resurface repeatedly in the near future.
+
+&#x200B;
+
+# GS: Goldman Sachs Group Inc 
+
+Goldman Sachs (GS) reported a drop in quarterly profit year-over-year, leading to a 2% decrease in share price on April 18, 2023. While they beat earnings expectations, the company missed on top-line revenue. Despite this, the drop was not significant compared to previous months in bank stocks. In the earnings call, CEO David Solomon discussed the new deposit channel provided by the bank's recent partnership with Apple to offer savings accounts to holders of the Apple Card. The move into the deposit space is seen as an attempt to keep up with the trend of online high-yield savings accounts offering upward of 4%.
+
+The bank saw a drop of 17% to $3.93 billion in fixed income trading revenue and posted a loss of $470 million on the partial sale of its $4 billion Marcus loans portfolio. Retail banking, which has a smaller role in Goldman, saw deposits down by about 3.1% quarter-over-quarter and year-over-year. The bank's CEO, David Solomon, said that the events of the first quarter demonstrated the resilience of Goldman Sachs and the largest financial institutions in the country. 
+
+&#x200B;
+
+# NFLX: Netflix Inc 
+
+Netflix Inc. (NFLX) reported its Q1 2023 earnings with mixed results, posting 1.75 million new subscribers, well below the expected 2.3 million. The company also announced an updated timeline for its password sharing crackdown, with the United States expected to receive the update in Q2. Despite the missed subscriber numbers and the stock decline, Netflix still added at least 1 million new subscribers in the Asia-Pacific region for the past five quarters. The company also said farewell to its mail-order DVD business that has been operating for 25 years.
+
+The market reaction to the earnings release was negative, and the company's shares fell nearly 3% on Wednesday. The weaker-than-expected subscriber growth and the delay in the password-sharing crackdown contributed to the decline in stock price. Investors are skeptical about the possible benefits of password sharing crackdown and are waiting to see how the restriction will play out. They also want to see more traction and more established markets, where monetisation initiatives like advertising can drive growth. Analysts believe that it's still very early innings in building out the ad tech stack and that the paid-sharing product cycle is more skewed towards Q3 or Q4.
+
+&#x200B;
+
+# TSLA: Tesla Inc 
+
+Tesla (TSLA) reported weaker-than-expected Q1 earnings, which weighed on other electric vehicle (EV) stocks, including GM and Rivian. The company had previously cut prices at the beginning of the year, which led to a shrinking profitability in Q1. However, Tesla CEO, Elon Musk, said the company will likely launch full self-drive technology this year and generate significant profits, which could offset some of the margin pressure it’s facing due to aggressive price cuts. Despite the weaker Q1 earnings, Tesla’s EVs are still completely sold out at the moment, which has helped alleviate some of the pricing pressures felt by Ford since rival Tesla started cutting prices this year. 
+
+&#x200B;
+
+# T: AT&T Inc 
+
+AT&T Inc reported a slowdown in growth in postpaid phone subscribers for Q1 2023, but the number still beat estimates. Free cash flow fell short of expectations but was reaffirmed by the company's CFO. The business is still growing, and the overall industry is also seeing growth. AT&T's wireless service revenue growth for the quarter is over 5%, and the business grew profits by 8%.
+
+The market reacted negatively to the news, and AT&T shares fell after the earnings release. Although the growth in subscribers still beat estimates, the slowdown is a cause for concern. Free cash flow also fell short of expectations, but the company's CFO reaffirmed the outlook for free cash flow, stating that it would progressively get better as the year went on. The health of the consumer is relatively stable, and the delinquency patterns remain consistent with those seen in the second half of 2022. The business is relatively resilient, but the lower-income cohorts are more challenged.
+
+&#x200B;
+
+# PM: Philip Morris International Inc 
+
+Philip Morris International Inc reported adjusted earnings per share of $1.38, exceeding analysts' consensus of $1.34 per share for the first quarter of 2023. However, the company's revenues fell short of expectations. While Philip Morris is facing ongoing headwinds, its long-term smoke-free goals remain on track. Favorable pricing variance has been an upside for the company, although earnings declined year over year..
+
+The markets reacted negatively to the news, with Philip Morris International falling in Thursday trading. The decline followed the announcement that the company's revenue missed expectations. 
+
+&#x200B;
+
+# TSM: Taiwan Semiconductor Manufacturing Co Ltd 
+
+Taiwan Semiconductor Manufacturing Co Ltd (TSMC), the world’s largest contract chipmaker and a major Apple supplier, announced a revenue slowdown in Q2 due to the weak global economy and high energy prices weighing on demand. The company’s CFO, Wendell Huang, stated that TSMC is expecting further inventory adjustments to continue impacting its business in Q2 2023, and the company forecasts a Q2 revenue of between $15.2 billion and $16 billion, down from $18.16 billion a year earlier. The chipmaker’s Q1 earnings rose and beat expectations, but it was the smallest quarterly earnings growth in almost four years. Despite the revenue forecast, TSMC reaffirmed its target for capital spending this year, and its shares rose about 4% after earlier being down.
+
+TSMC’s Q2 revenue forecast highlights the inventory glut consumers are facing, while a weakening global economy clouds the demand outlook. However, the fact that TSMC reaffirmed its target for capital spending this year despite the revenue forecast provides some optimism. TSMC is an important supplier to Apple and a bellwether for the rest of the chip industry. Despite the worse-than-expected Q2 revenue forecast, the company’s shares rose around 4%, indicating that investors have already factored in the expected slowdown.",21,12,https://www.reddit.com/r/wallstreetbets/comments/12tdkcd/earningsgpt_this_week_earnings_releases_and/,Tesla earnings,"EarningsGPT: This Week Earnings Releases and Reactions Summary by ChatGPT This is the results of a script that complies news articles discussing stocks with earnings this week. I scrapped articles analysing the last earnings report, and **asked ChatGPT to summarise key new information and how market reacted to the new release.**
+
+Here are the results for this week biggest earnings.
+
+&#x200B;
+
+# LMT: Lockheed Martin Corp 
+
+Lockheed Martin's Q1 results exceeded analysts' expectations, leading to a record high stock surge. Revenue rose by less than 1% to over $15 billion, but the company expects revenue to decline this year due to supply chain constraints. Lockheed saw a decline of 2% in its aeronautics revenue, primarily due to a backlog of F-35 fighter jets. However, the company gained a boost in contracts related to the war in Ukraine, expected to generate $1.5 billion in sales this year and up to $6 billion by 2027. The Chinese government has banned senior executives from Lockheed and Raytheon from entering, working, or residing in China, along with imports and exports related to China.
+
+Lockheed Martin's stock rose by almost 2.5% on the day, and it is up by more than 3% year-to-date, showing that Wall Street is taking notice of the company. Investors are concerned about the China issue and the potential for decoupling from Chinese suppliers, leading to dependency on other sources. The next presidential election may focus on this issue, as both sides of the political spectrum agree that the US needs to decrease its dependence on China. Many industries, including technology, chips, and production, are dependent on China, and this issue is likely to resurface repeatedly in the near future.
+
+&#x200B;
+
+# GS: Goldman Sachs Group Inc 
+
+Goldman Sachs (GS) reported a drop in quarterly profit year-over-year, leading to a 2% decrease in share price on April 18, 2023. While they beat earnings expectations, the company missed on top-line revenue. Despite this, the drop was not significant compared to previous months in bank stocks. In the earnings call, CEO David Solomon discussed the new deposit channel provided by the bank's recent partnership with Apple to offer savings accounts to holders of the Apple Card. The move into the deposit space is seen as an attempt to keep up with the trend of online high-yield savings accounts offering upward of 4%.
+
+The bank saw a drop of 17% to $3.93 billion in fixed income trading revenue and posted a loss of $470 million on the partial sale of its $4 billion Marcus loans portfolio. Retail banking, which has a smaller role in Goldman, saw deposits down by about 3.1% quarter-over-quarter and year-over-year. The bank's CEO, David Solomon, said that the events of the first quarter demonstrated the resilience of Goldman Sachs and the largest financial institutions in the country. 
+
+&#x200B;
+
+# NFLX: Netflix Inc 
+
+Netflix Inc. (NFLX) reported its Q1 2023 earnings with mixed results, posting 1.75 million new subscribers, well below the expected 2.3 million. The company also announced an updated timeline for its password sharing crackdown, with the United States expected to receive the update in Q2. Despite the missed subscriber numbers and the stock decline, Netflix still added at least 1 million new subscribers in the Asia-Pacific region for the past five quarters. The company also said farewell to its mail-order DVD business that has been operating for 25 years.
+
+The market reaction to the earnings release was negative, and the company's shares fell nearly 3% on Wednesday. The weaker-than-expected subscriber growth and the delay in the password-sharing crackdown contributed to the decline in stock price. Investors are skeptical about the possible benefits of password sharing crackdown and are waiting to see how the restriction will play out. They also want to see more traction and more established markets, where monetisation initiatives like advertising can drive growth. Analysts believe that it's still very early innings in building out the ad tech stack and that the paid-sharing product cycle is more skewed towards Q3 or Q4.
+
+&#x200B;
+
+# TSLA: Tesla Inc 
+
+Tesla (TSLA) reported weaker-than-expected Q1 earnings, which weighed on other electric vehicle (EV) stocks, including GM and Rivian. The company had previously cut prices at the beginning of the year, which led to a shrinking profitability in Q1. However, Tesla CEO, Elon Musk, said the company will likely launch full self-drive technology this year and generate significant profits, which could offset some of the margin pressure it’s facing due to aggressive price cuts. Despite the weaker Q1 earnings, Tesla’s EVs are still completely sold out at the moment, which has helped alleviate some of the pricing pressures felt by Ford since rival Tesla started cutting prices this year. 
+
+&#x200B;
+
+# T: AT&T Inc 
+
+AT&T Inc reported a slowdown in growth in postpaid phone subscribers for Q1 2023, but the number still beat estimates. Free cash flow fell short of expectations but was reaffirmed by the company's CFO. The business is still growing, and the overall industry is also seeing growth. AT&T's wireless service revenue growth for the quarter is over 5%, and the business grew profits by 8%.
+
+The market reacted negatively to the news, and AT&T shares fell after the earnings release. Although the growth in subscribers still beat estimates, the slowdown is a cause for concern. Free cash flow also fell short of expectations, but the company's CFO reaffirmed the outlook for free cash flow, stating that it would progressively get better as the year went on. The health of the consumer is relatively stable, and the delinquency patterns remain consistent with those seen in the second half of 2022. The business is relatively resilient, but the lower-income cohorts are more challenged.
+
+&#x200B;
+
+# PM: Philip Morris International Inc 
+
+Philip Morris International Inc reported adjusted earnings per share of $1.38, exceeding analysts' consensus of $1.34 per share for the first quarter of 2023. However, the company's revenues fell short of expectations. While Philip Morris is facing ongoing headwinds, its long-term smoke-free goals remain on track. Favorable pricing variance has been an upside for the company, although earnings declined year over year..
+
+The markets reacted negatively to the news, with Philip Morris International falling in Thursday trading. The decline followed the announcement that the company's revenue missed expectations. 
+
+&#x200B;
+
+# TSM: Taiwan Semiconductor Manufacturing Co Ltd 
+
+Taiwan Semiconductor Manufacturing Co Ltd (TSMC), the world’s largest contract chipmaker and a major Apple supplier, announced a revenue slowdown in Q2 due to the weak global economy and high energy prices weighing on demand. The company’s CFO, Wendell Huang, stated that TSMC is expecting further inventory adjustments to continue impacting its business in Q2 2023, and the company forecasts a Q2 revenue of between $15.2 billion and $16 billion, down from $18.16 billion a year earlier. The chipmaker’s Q1 earnings rose and beat expectations, but it was the smallest quarterly earnings growth in almost four years. Despite the revenue forecast, TSMC reaffirmed its target for capital spending this year, and its shares rose about 4% after earlier being down.
+
+TSMC’s Q2 revenue forecast highlights the inventory glut consumers are facing, while a weakening global economy clouds the demand outlook. However, the fact that TSMC reaffirmed its target for capital spending this year despite the revenue forecast provides some optimism. TSMC is an important supplier to Apple and a bellwether for the rest of the chip industry. Despite the worse-than-expected Q2 revenue forecast, the company’s shares rose around 4%, indicating that investors have already factored in the expected slowdown."
+TSLA_002,12tht6e,wallstreetbets,2023-04-20 22:44:36,Why is Nvda red?,"So sick of the obvious market manipulation, this is severely undervalued stock and there’s no good reason for it to be red smh, TSM earnings were great, Nvda earnings were awesome, this should be at least 350 right now wtf?
+
+Bears screaming about the pe ratio but bears need to learn about fundamentals and they’ll understand why this is the play of the century, this is like Tesla when it was trading at 40 dollars, am I missing something?",0,39,https://www.reddit.com/r/wallstreetbets/comments/12tht6e/why_is_nvda_red/,Tesla earnings,"Why is Nvda red? So sick of the obvious market manipulation, this is severely undervalued stock and there’s no good reason for it to be red smh, TSM earnings were great, Nvda earnings were awesome, this should be at least 350 right now wtf?
+
+Bears screaming about the pe ratio but bears need to learn about fundamentals and they’ll understand why this is the play of the century, this is like Tesla when it was trading at 40 dollars, am I missing something?"
+TSLA_002,12r9wjz,teslamotors,2023-04-19 00:13:42,"Elon Musk’s brother Kimbal dumps $17 million worth of Tesla shares. 17 days before ""Teslas Earnings""",,1,1,https://i.redd.it/xs7fbwtuyrua1.jpg,Tesla earnings,"Elon Musk’s brother Kimbal dumps $17 million worth of Tesla shares. 17 days before ""Teslas Earnings"""

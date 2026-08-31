@@ -34,3 +34,5 @@ A data science project investigating how company events influence stock price mo
 7. Created a table with each event and its returns as 1 row, which simplifies the data and allows for future machine learning
 8. Added a measure to see the stock change 5 days up till the announcement
 9. Initial machine learning , learnt data not good enough
+10. Created a pipeline to create a reddit search query for each event to be able to find posts regarding the event
+11. Used Arctic Shift's text search but found it extremely inconsistent (with 422 errors) but now changing it to pull all posts from the subreddits within the event window and then filter out the posts myself

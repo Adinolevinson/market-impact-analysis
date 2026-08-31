@@ -1,0 +1,171 @@
+event_id,post_id,subreddit,created_date,title,selftext,score,num_comments,url,search_query,text
+TSLA_007,z9pde3,teslainvestorsclub,2022-12-01 14:33:49,"Tesla Set to Deliver Semi Truck to PepsiCo, Expanding Beyond Passenger Vehicles",,80,14,https://www.wsj.com/articles/tesla-set-to-deliver-semi-truck-to-pepsico-expanding-beyond-passenger-vehicles-11669899360,Tesla Semi,"Tesla Set to Deliver Semi Truck to PepsiCo, Expanding Beyond Passenger Vehicles"
+TSLA_007,z9rfql,teslainvestorsclub,2022-12-01 15:57:40,Tesla semi event livestream,,1,0,https://www.reddit.com/r/teslainvestorsclub/comments/z9rfql/tesla_semi_event_livestream/,Tesla Semi,Tesla semi event livestream
+TSLA_007,za87e9,teslainvestorsclub,2022-12-02 02:18:27,Tesla Semi doubts,,1,0,,Tesla Semi,Tesla Semi doubts
+TSLA_007,za8cuk,teslainvestorsclub,2022-12-02 02:24:17,"Tesla Semi's full 500-mile, single-charge drive shared in timelapse video",,96,28,https://www.teslarati.com/tesla-semi-full-500-mile-single-charge-test-timelapse/,Tesla Semi,"Tesla Semi's full 500-mile, single-charge drive shared in timelapse video"
+TSLA_007,za8mvh,teslainvestorsclub,2022-12-02 02:35:08,Tesla Semi delivery event notes. TL;DW:,"* The Tesla Gigafactory in Sparks produces more cells than any other factory in North America. 
+* Diesel Semis are only 1% of US vehicles but they produce 20% of vehicle emissions and 36% of US vehicle particulate emissions. 
+* Tesla is planning to produce a dedicated Robotaxi vehicle. 
+* Semi battery pack uses 1000V architecture. The Cybertruck battery may also be 1000V. 
+* Tesla drive units have done 50.9B miles, Tesla infotainment systems are in 3.2M vehicles, Tesla heat pumps have operated for 1.5B hours, Tesla power inverters(in vehicles and superchargers) have converted 1.4TW of power.
+* Tesla has been and will continue to use Tesla Semis for their own cargo transport in order to find flaws and quickly implement improvements.
+*  Tesla is using a tri-motor configuration using Plaid Model S motors. On the rear axel there will be a permanently connected motor which operates at an optimal gear ratio. That single motor is enough to continuously drive the Semi with a full load at highway speed over flat ground. The other 2 motors are clutched, remain disengaged most of the time but will instantly spin up and seamlessly engage the clutch automatically when more power is required. 
+* The Semi's max load limit is 82,000 lbs. Due to federal transportation rules it is able to operate at that higher weight limit because it is electric.
+* The Semi can drive down steep interstate grades fully loaded with regenerative braking recapturing all of the energy needed to slow the truck so mechanical brakes are never needed in regular operation when descending hills.
+* Tesla did a 500 mile test run fully loaded with 82,000 lbs from Fremont to San Diego. The Truck started at 97% state of charge and ended with 4%. This is a rather hilly interstate route that crosses the grapevine. [Tesla posted a video of the entire 8 hour drive including a short mandatory restroom break.](https://www.youtube.com/watch?v=GtgaYEh-qSk) 
+* Less than 2kWh per mile energy consumption with a full size semi trailer.
+* Semi has 2 model 3 screens, wireless charging, usb ports. 
+* Semi air suspension can kneel in order to easily connect to trailers without needing to jack the trailer up. 
+* Tesla Supercharger V4 can provide 1+MW using high voltage wire bundled that are directly immersed in coolant. 
+* They did not show the charging port they may be using NACS, the charge cable cross section did not show a PE wire which would be needed for MCS. 
+* Megapack will be installed with V4 Superchargers to reduce power demands on the grid.
+* Cybertruck will be able to charge at V4 Superchargers. 
+
+https://www.youtube.com/watch?v=LtOqU2o81iI",264,167,https://www.reddit.com/r/teslainvestorsclub/comments/za8mvh/tesla_semi_delivery_event_notes_tldw/,Tesla Semi,"Tesla Semi delivery event notes. TL;DW: * The Tesla Gigafactory in Sparks produces more cells than any other factory in North America. 
+* Diesel Semis are only 1% of US vehicles but they produce 20% of vehicle emissions and 36% of US vehicle particulate emissions. 
+* Tesla is planning to produce a dedicated Robotaxi vehicle. 
+* Semi battery pack uses 1000V architecture. The Cybertruck battery may also be 1000V. 
+* Tesla drive units have done 50.9B miles, Tesla infotainment systems are in 3.2M vehicles, Tesla heat pumps have operated for 1.5B hours, Tesla power inverters(in vehicles and superchargers) have converted 1.4TW of power.
+* Tesla has been and will continue to use Tesla Semis for their own cargo transport in order to find flaws and quickly implement improvements.
+*  Tesla is using a tri-motor configuration using Plaid Model S motors. On the rear axel there will be a permanently connected motor which operates at an optimal gear ratio. That single motor is enough to continuously drive the Semi with a full load at highway speed over flat ground. The other 2 motors are clutched, remain disengaged most of the time but will instantly spin up and seamlessly engage the clutch automatically when more power is required. 
+* The Semi's max load limit is 82,000 lbs. Due to federal transportation rules it is able to operate at that higher weight limit because it is electric.
+* The Semi can drive down steep interstate grades fully loaded with regenerative braking recapturing all of the energy needed to slow the truck so mechanical brakes are never needed in regular operation when descending hills.
+* Tesla did a 500 mile test run fully loaded with 82,000 lbs from Fremont to San Diego. The Truck started at 97% state of charge and ended with 4%. This is a rather hilly interstate route that crosses the grapevine. [Tesla posted a video of the entire 8 hour drive including a short mandatory restroom break.](https://www.youtube.com/watch?v=GtgaYEh-qSk) 
+* Less than 2kWh per mile energy consumption with a full size semi trailer.
+* Semi has 2 model 3 screens, wireless charging, usb ports. 
+* Semi air suspension can kneel in order to easily connect to trailers without needing to jack the trailer up. 
+* Tesla Supercharger V4 can provide 1+MW using high voltage wire bundled that are directly immersed in coolant. 
+* They did not show the charging port they may be using NACS, the charge cable cross section did not show a PE wire which would be needed for MCS. 
+* Megapack will be installed with V4 Superchargers to reduce power demands on the grid.
+* Cybertruck will be able to charge at V4 Superchargers. 
+
+https://www.youtube.com/watch?v=LtOqU2o81iI"
+TSLA_007,zafpe9,teslainvestorsclub,2022-12-02 08:09:20,Tesla finally delivers its first production Semi | Europe Public,,1,0,https://europepublic.com/tesla-finally-delivers-its-first-production-semi/,Tesla Semi,Tesla finally delivers its first production Semi | Europe Public
+TSLA_007,zaophr,teslainvestorsclub,2022-12-02 15:12:37,"Tesla Semi at 1.7kWh/mi, Elon Tweets",,1,0,https://mobile.twitter.com/elonmusk/status/1598631136980131843,Tesla Semi,"Tesla Semi at 1.7kWh/mi, Elon Tweets"
+TSLA_007,zaoqog,teslainvestorsclub,2022-12-02 15:14:03,Tesla Puts Semi Makers on Notice | Loup,,123,76,https://loupfunds.com/tesla-puts-semi-makers-on-notice/,Tesla Semi,Tesla Puts Semi Makers on Notice | Loup
+TSLA_007,zap29a,teslainvestorsclub,2022-12-02 15:27:57,"Tesla Semi at 1.7kWh/mi, Elon Tweets",,1,1,https://twitter.com/elonmusk/status/1598631136980131843,Tesla Semi,"Tesla Semi at 1.7kWh/mi, Elon Tweets"
+TSLA_007,zato9j,teslainvestorsclub,2022-12-02 18:35:00,"Tesla Semi driving 500 miles, fully loaded, on a single charge",,154,49,https://youtu.be/GtgaYEh-qSk,Tesla Semi,"Tesla Semi driving 500 miles, fully loaded, on a single charge"
+TSLA_007,zayuc1,teslainvestorsclub,2022-12-02 21:47:48,Tesla delivers electric semis to PepsiCo at Nevada factory,,1,0,https://apnews.com/article/elon-musk-technology-texas-california-nevada-f8fa08fd7af84e17319fc848e1027781,Tesla Semi,Tesla delivers electric semis to PepsiCo at Nevada factory
+TSLA_007,z9xm3d,stocks,2022-12-01 19:47:11,"What stocks will flourish during U.S. ""Reshoring"" trend?","Here are my thoughts please feel free to contradict/supplement me since I'm by no means any kind of expert or even moderately knowledgeable in this subject.
+
+I think reshoring is going to be a strong trend given that:
+
+* It would be a popular rally cry from both political parties. It would be very popular cause especially in manufacturing states like Ohio, Pennsylvania, Texas, etc -- some of which are possibly swing states.
+
+* The more unrest we see out of China and Russia, the more this concept will gain support.
+
+* Some big companies will want to shore up their supply chain (e.g. maybe like car companies with semiconductors). They will lobby hard for this.
+
+* Labor unions should also love this as more manufacturing = more jobs and more union members.
+
+Some effects might be:
+
+* Inflation. Reestablishing manufacturing is going to require initial investment in building factories
+
+* Our labor is more expensive than China's. The labor market is already tight on the supply side right now, if we were to create millions of well paying labor jobs this might create scarcity of labor (will this trigger wage-price spiral)?
+
+* Retaliatory trade wars. Our legislations encouraging re-shoring might be interpreted as anti free trade which may trigger China to launch their own protectionist rules, causing a cycle of hostility (although arguably this was going to happen anyway).
+
+* Revival of a living-wage labor class, or middle class.
+
+So what kind of companies will benefit from this? 
+
+* Companies that help other companies build factories, infrastructure, etc (Like Catepillar).
+
+* Companies that create automation -- like Tesla robots? (I'm sure there's dozens of better companies just serving as eg.)
+
+* Companies that help improve logistics -- like software robot companies, Nvidia, etc.
+
+* Companies that serve a middle class that was shrinking, but maybe will start growing again. Like Target maybe?
+
+* Companies that will build homes around these new factory towns. 
+
+SO what kind of companies will get hurt from this? I'm actually not sure.
+
+Would love your thoughts on any of this, **but especially what companies will benefit/hurt the most and why**?",55,69,https://www.reddit.com/r/stocks/comments/z9xm3d/what_stocks_will_flourish_during_us_reshoring/,Tesla Semi,"What stocks will flourish during U.S. ""Reshoring"" trend? Here are my thoughts please feel free to contradict/supplement me since I'm by no means any kind of expert or even moderately knowledgeable in this subject.
+
+I think reshoring is going to be a strong trend given that:
+
+* It would be a popular rally cry from both political parties. It would be very popular cause especially in manufacturing states like Ohio, Pennsylvania, Texas, etc -- some of which are possibly swing states.
+
+* The more unrest we see out of China and Russia, the more this concept will gain support.
+
+* Some big companies will want to shore up their supply chain (e.g. maybe like car companies with semiconductors). They will lobby hard for this.
+
+* Labor unions should also love this as more manufacturing = more jobs and more union members.
+
+Some effects might be:
+
+* Inflation. Reestablishing manufacturing is going to require initial investment in building factories
+
+* Our labor is more expensive than China's. The labor market is already tight on the supply side right now, if we were to create millions of well paying labor jobs this might create scarcity of labor (will this trigger wage-price spiral)?
+
+* Retaliatory trade wars. Our legislations encouraging re-shoring might be interpreted as anti free trade which may trigger China to launch their own protectionist rules, causing a cycle of hostility (although arguably this was going to happen anyway).
+
+* Revival of a living-wage labor class, or middle class.
+
+So what kind of companies will benefit from this? 
+
+* Companies that help other companies build factories, infrastructure, etc (Like Catepillar).
+
+* Companies that create automation -- like Tesla robots? (I'm sure there's dozens of better companies just serving as eg.)
+
+* Companies that help improve logistics -- like software robot companies, Nvidia, etc.
+
+* Companies that serve a middle class that was shrinking, but maybe will start growing again. Like Target maybe?
+
+* Companies that will build homes around these new factory towns. 
+
+SO what kind of companies will get hurt from this? I'm actually not sure.
+
+Would love your thoughts on any of this, **but especially what companies will benefit/hurt the most and why**?"
+TSLA_007,za7m95,stocks,2022-12-02 01:55:30,Tesla Semi doubts,,1,0,,Tesla Semi,Tesla Semi doubts
+TSLA_007,za7o0i,stocks,2022-12-02 01:57:26,Tesla Semi doubts,"Tesla Semi *delivery* event has happened, the first delivery actually happened yesterday to Pepsi. 
+
+500 mile range at 82,000 lbs real world test. Right off the factory line, onto the road. There was no aero package added and no weight change, and the truck only stopped once so the driver could use the bathroom. 
+
+During this real world test, brakes were actually cold at the mandatory brake check on route. Which is in place so drivers that normally would have extremely hot brakes don’t end up experiencing brake failures due to high temperatures. This is because the regenerative brake system on the Tesla semi works extremely well, to the point where the brakes are almost not needed. Think of it kind of like an engine brake on a diesel truck, but instead of just slowing down the truck it now also charges the battery. 
+
+Price was not discussed, weight was not discussed. 
+
+It’s clear that this will operate extremely well on shorter routes with its current range, but will not be as useful on larger trips. The argument can be made that laws don’t allow drivers to drive continuously without breaks, but the Semi is still a little short even with these breaks accounted for. I imagine as battery density gets better this will change. Along with the fact that these electric semi (on paper) will be *far* cheaper to operate, possibly offsetting downtime (charging time) costs. 
+
+Over the average lifetime of a Semi, Tesla semi can save $600k to a million+ just in fuel. (Depending on charging rates) That doesn’t account for possible (and highly likely) maintenance cost savings. 
+
+TLDR: Tesla Semi is a beast and obvious choice for anything under the ~500 mile routes, as routes get longer more consideration will be needed. 
+
+Also to all the doubters, Tesla may be late, wrong, or seem completely insane sometimes but I think it’s fair to say that they do deliver.",638,778,https://www.reddit.com/r/stocks/comments/za7o0i/tesla_semi_doubts/,Tesla Semi,"Tesla Semi doubts Tesla Semi *delivery* event has happened, the first delivery actually happened yesterday to Pepsi. 
+
+500 mile range at 82,000 lbs real world test. Right off the factory line, onto the road. There was no aero package added and no weight change, and the truck only stopped once so the driver could use the bathroom. 
+
+During this real world test, brakes were actually cold at the mandatory brake check on route. Which is in place so drivers that normally would have extremely hot brakes don’t end up experiencing brake failures due to high temperatures. This is because the regenerative brake system on the Tesla semi works extremely well, to the point where the brakes are almost not needed. Think of it kind of like an engine brake on a diesel truck, but instead of just slowing down the truck it now also charges the battery. 
+
+Price was not discussed, weight was not discussed. 
+
+It’s clear that this will operate extremely well on shorter routes with its current range, but will not be as useful on larger trips. The argument can be made that laws don’t allow drivers to drive continuously without breaks, but the Semi is still a little short even with these breaks accounted for. I imagine as battery density gets better this will change. Along with the fact that these electric semi (on paper) will be *far* cheaper to operate, possibly offsetting downtime (charging time) costs. 
+
+Over the average lifetime of a Semi, Tesla semi can save $600k to a million+ just in fuel. (Depending on charging rates) That doesn’t account for possible (and highly likely) maintenance cost savings. 
+
+TLDR: Tesla Semi is a beast and obvious choice for anything under the ~500 mile routes, as routes get longer more consideration will be needed. 
+
+Also to all the doubters, Tesla may be late, wrong, or seem completely insane sometimes but I think it’s fair to say that they do deliver."
+TSLA_007,z9r54e,wallstreetbets,2022-12-01 15:45:53,"Tesla is delivering its first ever all-electric, battery-powered semi-truck to Pepsi today. Do you think this is already priced in?",,1,1,,Tesla Semi,"Tesla is delivering its first ever all-electric, battery-powered semi-truck to Pepsi today. Do you think this is already priced in?"
+TSLA_007,z9t8du,wallstreetbets,2022-12-01 17:09:18,"Tesla is delivering its first ever all-electric, battery-powered semi-truck to Pepsi today. Do you think this is already priced in?",,7346,1145,https://i.redd.it/dvlko1fpjb3a1.jpg,Tesla Semi,"Tesla is delivering its first ever all-electric, battery-powered semi-truck to Pepsi today. Do you think this is already priced in?"
+TSLA_007,z9vck6,wallstreetbets,2022-12-01 18:25:40,Tesla Semi features? Countdown to Tesla Semi! Elon Musk announced the range?,,1,0,https://www.hepsihayat.com/2022/11/tesla-semi-ozellikleri-tesla-semi-icin.html?m=1,Tesla Semi,Tesla Semi features? Countdown to Tesla Semi! Elon Musk announced the range?
+TSLA_007,za7ets,wallstreetbets,2022-12-02 01:47:25,Tesla Semi Event,,2,1,https://twitter.com/elonmusk/status/1598482808020029441?s=46&t=lFJq21GmAxL9hwczJf-KaA,Tesla Semi,Tesla Semi Event
+TSLA_007,za8d96,wallstreetbets,2022-12-02 02:24:46,"Payload, why Tesla Semi event was vaporware",,0,20,,Tesla Semi,"Payload, why Tesla Semi event was vaporware"
+TSLA_007,zacm8p,wallstreetbets,2022-12-02 05:24:02,"Tesla Semi driving 500 miles, fully loaded, on a single charge",,18485,2937,https://v.redd.it/gi9ry4tr6f3a1,Tesla Semi,"Tesla Semi driving 500 miles, fully loaded, on a single charge"
+TSLA_007,zafpqp,wallstreetbets,2022-12-02 08:09:54,Tesla finally delivers its first production Semi | Europe Public,,2,1,https://europepublic.com/tesla-finally-delivers-its-first-production-semi/,Tesla Semi,Tesla finally delivers its first production Semi | Europe Public
+TSLA_007,z98bu3,teslamotors,2022-12-01 00:18:06,"Help me answer this, is 500 mile range in #teslasemi enough? truckers???",,0,37,https://youtu.be/lpMNdhfT2UU,Tesla Semi,"Help me answer this, is 500 mile range in #teslasemi enough? truckers???"
+TSLA_007,z9tgx5,teslamotors,2022-12-01 17:18:37,Tesla Semi Delivery Event Livestream,,237,174,https://youtu.be/LtOqU2o81iI,Tesla Semi,Tesla Semi Delivery Event Livestream
+TSLA_007,z9xbx9,teslamotors,2022-12-01 19:36:50,Tesla Semi live stream will be on Twitter as well,,62,15,https://twitter.com/tesla/status/1598396816000942080,Tesla Semi,Tesla Semi live stream will be on Twitter as well
+TSLA_007,za5ytd,teslamotors,2022-12-02 00:51:22,Tesla Semi Delivery Event Livestream,,75,107,https://twitter.com/Tesla/status/1598478682527436800?s=20&t=qW7wSWNbxAZmA9vseYiNtQ,Tesla Semi,Tesla Semi Delivery Event Livestream
+TSLA_007,za6q7z,teslamotors,2022-12-02 01:20:30,Tesla Robo Taxi!? I saw this in the semi presentation.,,1476,427,https://i.redd.it/5oj4r52ezd3a1.png,Tesla Semi,Tesla Robo Taxi!? I saw this in the semi presentation.
+TSLA_007,za7ecq,teslamotors,2022-12-02 01:46:54,Did Anyone Else Watch the Tesla Semi Event?,,1,0,https://i.redd.it/soga5yn34e3a1.png,Tesla Semi,Did Anyone Else Watch the Tesla Semi Event?
+TSLA_007,za7o2v,teslamotors,2022-12-02 01:57:30,"Tesla Semi driving 500 miles, fully loaded, on a single charge",,1,0,https://www.youtube.com/watch?v=GtgaYEh-qSk,Tesla Semi,"Tesla Semi driving 500 miles, fully loaded, on a single charge"
+TSLA_007,za7p7g,teslamotors,2022-12-02 01:58:45,Slides from Tesla Semi Event,,697,199,https://www.reddit.com/gallery/za7p7g,Tesla Semi,Slides from Tesla Semi Event
+TSLA_007,za88tx,teslamotors,2022-12-02 02:20:00,"Tesla Semi driving 500 miles, fully loaded, on a single charge",,513,295,https://twitter.com/elonmusk/status/1598501091720630272?s=46&t=C33JQX06H5TmJV4mKta9ag,Tesla Semi,"Tesla Semi driving 500 miles, fully loaded, on a single charge"
+TSLA_007,zadlce,teslamotors,2022-12-02 06:13:20,How does the Tesla Semi overtake its competitors?,,332,191,https://v.redd.it/4a9ohp1hff3a1,Tesla Semi,How does the Tesla Semi overtake its competitors?
+TSLA_007,zafohu,teslamotors,2022-12-02 08:07:47,Tesla finally delivers its first production Semi | Europe Public,,68,15,https://europepublic.com/tesla-finally-delivers-its-first-production-semi/,Tesla Semi,Tesla finally delivers its first production Semi | Europe Public
+TSLA_007,zagoqz,teslamotors,2022-12-02 09:06:09,Tesla Semi View Is Not Real,,1,1,https://www.reddit.com/gallery/zagoqz,Tesla Semi,Tesla Semi View Is Not Real
+TSLA_007,zathse,teslamotors,2022-12-02 18:28:01,"As the Tesla semi releases, let us remember Adam Something being wrong about the semi on pretty much everything",,0,25,,Tesla Semi,"As the Tesla semi releases, let us remember Adam Something being wrong about the semi on pretty much everything"

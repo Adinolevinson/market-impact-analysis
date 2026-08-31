@@ -1,0 +1,1676 @@
+event_id,post_id,subreddit,created_date,title,selftext,score,num_comments,url,search_query,text
+TSLA_013,xrti6i,teslainvestorsclub,2022-09-30 05:45:10,AI day 2 is gonna be our first real look at this game changer. @tesla just tweeted:,,1,0,https://twitter.com/tesla/status/1575714845114085377?s=46&t=ZRGSaqmBXwqse4NbZL_8hQ,Tesla AI Day,AI day 2 is gonna be our first real look at this game changer. @tesla just tweeted:
+TSLA_013,xru1jg,teslainvestorsclub,2022-09-30 06:18:10,Wedbush Previews Tesla AI Day; Reiterates Outperform,,28,1,https://www.investing.com/news/stock-market-news/wedbush-previews-tesla-ai-day-reiterates-outperform-432SI-2902151,Tesla AI Day,Wedbush Previews Tesla AI Day; Reiterates Outperform
+TSLA_013,xrz7po,teslainvestorsclub,2022-09-30 11:45:58,Tesla AI Day 2022,,48,25,https://youtu.be/ODSJsviD_SU,Tesla AI Day,Tesla AI Day 2022
+TSLA_013,xs98j0,teslainvestorsclub,2022-09-30 18:50:38,Tesla Bot: What We've Heard So Far,"**April 26, 2021. Elon drop a hint and the grand vision on Q1 2021 Earnings Call:**
+
+Although right now people think of Tesla as a car company or as an energy company, I think long term, people will think of Tesla as much as an AI robotics company. 
+
+**Aug 19, 2021. Elon on AI Day:**
+
+* With the FSD computer, Dojo and all the neural nets, recognizing the world, understanding how to navigate through the world, it kind of makes sense to put that on to a humanoid form. We're also quite good at sensors and batteries and actuators. 
+* We think we’ll probably have a prototype sometime next year that basically looks like this. 
+
+https://preview.redd.it/vov95z8cg1r91.png?width=1054&format=png&auto=webp&s=915006512a2980f8c4ae27b6869e42729ea6e661
+
+* I think, will be quite profound, because if you say it like what is the economy? It is, at the foundation, it is labor. 
+
+**Ian Glow on AI Day:**
+
+It actually makes the autopilot simulator really useful for places outside of autopilot. So, we want to expand eventually to being a universal simulation platform. But I think before that, we’re going to be spinning up a lot of Optimus (project code-name for Tesla Bot) support. 
+
+**Jan 26, 2022. Elon on Q4 2021 earnings call:**
+
+So in terms of priority of products, I think the -- I think actually the most important product development we're doing this year is actually the Optimus humanoid robot. This, I think, has the potential to be more significant than the vehicle business over time.
+
+If you think about the economy, it is -- the foundation of the economy is labor. Capital equipment is distilled labor. So what happens if you don't actually have a labor shortage? I'm not sure what an economy even means at that point. That's what Optimus is about, so very important.
+
+**April 13, 2022. Elon's blog in China Cyberspace magazine:**
+
+Tesla Bots are initially positioned to replace people in repetitive, boring, and dangerous tasks. But the vision is for them to serve millions of households, such as cooking, mowing lawns, and caring for the elderly.
+
+Achieving this goal requires that robots evolve to be smart enough and for us to have the ability to mass produce robots.
+
+We plan to launch the first prototype of a humanoid robot this year and focus on improving the intelligence of that robot and solving the problem of large-scale production. Thereafter, humanoid robots' usefulness will increase yearly as production scales up and costs fall. In the future, a home robot may be cheaper than a car. Perhaps in less than a decade, people will be able to buy a robot for their parents as a birthday gift.
+
+**In the Job Description for a Tesla Bot engineer:**
+
+https://preview.redd.it/kcf5wj8jj1r91.jpg?width=1382&format=pjpg&auto=webp&s=e128bde7dd880ab5c60931709d8da091063c6e0d
+
+[**21 Job Openings for the Tesla Bot as of today**](https://www.tesla.com/careers/search/?query=Tesla%20bot&site=US)
+
+[**Teaser video of Bot's hands today**](https://twitter.com/Tesla/status/1575714845114085377)",40,18,https://www.reddit.com/r/teslainvestorsclub/comments/xs98j0/tesla_bot_what_weve_heard_so_far/,Tesla AI Day,"Tesla Bot: What We've Heard So Far **April 26, 2021. Elon drop a hint and the grand vision on Q1 2021 Earnings Call:**
+
+Although right now people think of Tesla as a car company or as an energy company, I think long term, people will think of Tesla as much as an AI robotics company. 
+
+**Aug 19, 2021. Elon on AI Day:**
+
+* With the FSD computer, Dojo and all the neural nets, recognizing the world, understanding how to navigate through the world, it kind of makes sense to put that on to a humanoid form. We're also quite good at sensors and batteries and actuators. 
+* We think we’ll probably have a prototype sometime next year that basically looks like this. 
+
+https://preview.redd.it/vov95z8cg1r91.png?width=1054&format=png&auto=webp&s=915006512a2980f8c4ae27b6869e42729ea6e661
+
+* I think, will be quite profound, because if you say it like what is the economy? It is, at the foundation, it is labor. 
+
+**Ian Glow on AI Day:**
+
+It actually makes the autopilot simulator really useful for places outside of autopilot. So, we want to expand eventually to being a universal simulation platform. But I think before that, we’re going to be spinning up a lot of Optimus (project code-name for Tesla Bot) support. 
+
+**Jan 26, 2022. Elon on Q4 2021 earnings call:**
+
+So in terms of priority of products, I think the -- I think actually the most important product development we're doing this year is actually the Optimus humanoid robot. This, I think, has the potential to be more significant than the vehicle business over time.
+
+If you think about the economy, it is -- the foundation of the economy is labor. Capital equipment is distilled labor. So what happens if you don't actually have a labor shortage? I'm not sure what an economy even means at that point. That's what Optimus is about, so very important.
+
+**April 13, 2022. Elon's blog in China Cyberspace magazine:**
+
+Tesla Bots are initially positioned to replace people in repetitive, boring, and dangerous tasks. But the vision is for them to serve millions of households, such as cooking, mowing lawns, and caring for the elderly.
+
+Achieving this goal requires that robots evolve to be smart enough and for us to have the ability to mass produce robots.
+
+We plan to launch the first prototype of a humanoid robot this year and focus on improving the intelligence of that robot and solving the problem of large-scale production. Thereafter, humanoid robots' usefulness will increase yearly as production scales up and costs fall. In the future, a home robot may be cheaper than a car. Perhaps in less than a decade, people will be able to buy a robot for their parents as a birthday gift.
+
+**In the Job Description for a Tesla Bot engineer:**
+
+https://preview.redd.it/kcf5wj8jj1r91.jpg?width=1382&format=pjpg&auto=webp&s=e128bde7dd880ab5c60931709d8da091063c6e0d
+
+[**21 Job Openings for the Tesla Bot as of today**](https://www.tesla.com/careers/search/?query=Tesla%20bot&site=US)
+
+[**Teaser video of Bot's hands today**](https://twitter.com/Tesla/status/1575714845114085377)"
+TSLA_013,xsh7qb,teslainvestorsclub,2022-10-01 00:28:59,All aboard the hype train! Tesla AI Day pre event photos,,31,5,https://imgur.com/gallery/T0Uw3IA,Tesla AI Day,All aboard the hype train! Tesla AI Day pre event photos
+TSLA_013,xsk304,teslainvestorsclub,2022-10-01 02:49:22,"Elon Musk - The point of AI Day is to show the immense depth & breadth of Tesla in AI, compute hardware & robotics",,91,23,https://twitter.com/elonmusk/status/1576038326364053504?s=46&t=rzi5TtwUdVoJibQAn8F7eQ,Tesla AI Day,"Elon Musk - The point of AI Day is to show the immense depth & breadth of Tesla in AI, compute hardware & robotics"
+TSLA_013,xskruk,teslainvestorsclub,2022-10-01 03:24:00,Tesla AI Day Celebration. Come chill and discuss with Cyberpunk Lofi made by AI.,,4,1,https://www.youtube.com/watch?v=fVdmEohU3VI,Tesla AI Day,Tesla AI Day Celebration. Come chill and discuss with Cyberpunk Lofi made by AI.
+TSLA_013,xsp0ir,teslainvestorsclub,2022-10-01 07:25:14,Tesla AI Day in 23 Minutes (Supercut) (2022),,90,22,https://www.youtube.com/watch?v=suv8ex8xlZA,Tesla AI Day,Tesla AI Day in 23 Minutes (Supercut) (2022)
+TSLA_013,xsuksn,teslainvestorsclub,2022-10-01 12:53:51,Tesla AI Day (2022) (Supercut),,1,0,https://youtu.be/MzKVpVRBF5s,Tesla AI Day,Tesla AI Day (2022) (Supercut)
+TSLA_013,xtk9dh,teslainvestorsclub,2022-10-02 09:20:22,"Tesla Shanghai factory stays operational during national day holiday, 3x pay 1-3 Oct",,124,14,https://twitter.com/kelvinyang7/status/1576498665153122304?s=46&t=9FTJwUfP-m7uhMeHC3kpZw,Tesla AI Day,"Tesla Shanghai factory stays operational during national day holiday, 3x pay 1-3 Oct"
+TSLA_013,xtlhh0,teslainvestorsclub,2022-10-02 10:31:41,George Hotz | Just Chatting | Tesla AI Day 2022 ** REACTION ** | Science & Technology commabody.com,,22,37,https://youtu.be/lSXwIzww6Us,Tesla AI Day,George Hotz | Just Chatting | Tesla AI Day 2022 ** REACTION ** | Science & Technology commabody.com
+TSLA_013,xtqqha,teslainvestorsclub,2022-10-02 14:52:41,Tesla DOJO Update explained. Tesla AI Day 2022,,13,0,https://youtu.be/oRUcvu-liFM,Tesla AI Day,Tesla DOJO Update explained. Tesla AI Day 2022
+TSLA_013,xuh90a,teslainvestorsclub,2022-10-03 11:49:49,Tesla (TSLA) PT Raised to $348 (from $333) at Truist Securities; AI Days 'Overwhelms' Q3 Delivery Shortfall,,160,22,https://www.streetinsider.com/dr/news.php?id=20653095&gfv=1,Tesla AI Day,Tesla (TSLA) PT Raised to $348 (from $333) at Truist Securities; AI Days 'Overwhelms' Q3 Delivery Shortfall
+TSLA_013,xt9irc,stocks,2022-10-01 23:33:04,What are your stock picks when the market eventually turns around?,"When the market turns around is anyone's guess. If I had to speculate I say we have a slight bounce in the coming weeks. I say this because it is common knowledge that October-January are the best months in the stock market if you look at history. Likewise, after the midterms in the second year of a president's term we tend to do well in the stock market. The reasoning behind this is because the stock market likes to have certainty on what policies will be approved or denied in the future. Will I be buying during this false bounce? Yes, I will be buying up a little into TQQQ to swing trade over the course of a few days here and there, selling once I make a 12% gain in under 4 days. 
+
+Now for the meat and potatoes. What will you be buying up when the news eventually comes out that we are no longer having severe inflation problems? The perfect scenario would be Jerome Powell announces ""we are no longer going to remain hawkish, inflation is now under control ..."" and the rest will be history. Here is a breakdown of my portfolio picks when that day comes, which remember could be in a few months or in 2024, hell it could even be in 2026 for all I know. Right now my portfolio is about 95% cash. I will breakdown and explain each of these holdings: 
+
+25% of portfolio will be in VOO - VOO is the lazy, set it and forget it ETF. It is not only great for long term growth, it also pays a nice dividend yield of 1.77%. 
+
+20% of portfolio will be in SCHD - this is another good ETF that is good for growth and has an excellent 3.73%. 
+
+10% of portfolio will be in GOOG - It's google, need I say more? 
+
+10% of portfolio will be in TSLA - It's Tesla. They are the future. 
+
+8% of portfolio will be in METV - This is a Metaverse ETF. 
+
+8% of portfolio will be in SOFI - The future of banking. Millenials and Gen Z love this company. 
+
+7% of portfolio will be in TQQQ at the start of the rally, and will be swung trade every few days to make a profit. 
+
+2% of portfolio will be in CCL - I see Carnival Corporation doing well long term. In fact I almost want to buy and hold some after this recent sell off a few days ago. 
+
+10% of portfolio will be in cash to do swing trading.",86,153,https://www.reddit.com/r/stocks/comments/xt9irc/what_are_your_stock_picks_when_the_market/,Tesla AI Day,"What are your stock picks when the market eventually turns around? When the market turns around is anyone's guess. If I had to speculate I say we have a slight bounce in the coming weeks. I say this because it is common knowledge that October-January are the best months in the stock market if you look at history. Likewise, after the midterms in the second year of a president's term we tend to do well in the stock market. The reasoning behind this is because the stock market likes to have certainty on what policies will be approved or denied in the future. Will I be buying during this false bounce? Yes, I will be buying up a little into TQQQ to swing trade over the course of a few days here and there, selling once I make a 12% gain in under 4 days. 
+
+Now for the meat and potatoes. What will you be buying up when the news eventually comes out that we are no longer having severe inflation problems? The perfect scenario would be Jerome Powell announces ""we are no longer going to remain hawkish, inflation is now under control ..."" and the rest will be history. Here is a breakdown of my portfolio picks when that day comes, which remember could be in a few months or in 2024, hell it could even be in 2026 for all I know. Right now my portfolio is about 95% cash. I will breakdown and explain each of these holdings: 
+
+25% of portfolio will be in VOO - VOO is the lazy, set it and forget it ETF. It is not only great for long term growth, it also pays a nice dividend yield of 1.77%. 
+
+20% of portfolio will be in SCHD - this is another good ETF that is good for growth and has an excellent 3.73%. 
+
+10% of portfolio will be in GOOG - It's google, need I say more? 
+
+10% of portfolio will be in TSLA - It's Tesla. They are the future. 
+
+8% of portfolio will be in METV - This is a Metaverse ETF. 
+
+8% of portfolio will be in SOFI - The future of banking. Millenials and Gen Z love this company. 
+
+7% of portfolio will be in TQQQ at the start of the rally, and will be swung trade every few days to make a profit. 
+
+2% of portfolio will be in CCL - I see Carnival Corporation doing well long term. In fact I almost want to buy and hold some after this recent sell off a few days ago. 
+
+10% of portfolio will be in cash to do swing trading."
+TSLA_013,xtybbq,stocks,2022-10-02 20:02:59,How will automakers compete to hire driving automation/AI developers when Tesla has a yearly AI day that generates so much hype?,"I heard from a lot of people TSLA is overvalued, a big component is other manufacturers are ""catching up."" I'm worried that this is not going to work because if I was a developer getting out of college right now, why would I want to work for lets say...Ford?
+
+Apparently TSLA had an AI day and the entire presentation was just a recruitment effort, they had technical talk about the humanoid robot they are building for manufacturing, the humanoid robot was scene doing factory work jobs and they say that they're trying to produce them for only 20k. FSD and how it they're saying 160,000 customers are testing the beta, when they only had 2000 last year with a ton of pull request from the fleet of cars. They even showed they had a super computer called DOJO that processes these simulations.
+
+Which makes me think TSLA is heavily investing in automation and AI makes them way different from traditional manufacturers? What do you think?",0,23,https://www.reddit.com/r/stocks/comments/xtybbq/how_will_automakers_compete_to_hire_driving/,Tesla AI Day,"How will automakers compete to hire driving automation/AI developers when Tesla has a yearly AI day that generates so much hype? I heard from a lot of people TSLA is overvalued, a big component is other manufacturers are ""catching up."" I'm worried that this is not going to work because if I was a developer getting out of college right now, why would I want to work for lets say...Ford?
+
+Apparently TSLA had an AI day and the entire presentation was just a recruitment effort, they had technical talk about the humanoid robot they are building for manufacturing, the humanoid robot was scene doing factory work jobs and they say that they're trying to produce them for only 20k. FSD and how it they're saying 160,000 customers are testing the beta, when they only had 2000 last year with a ton of pull request from the fleet of cars. They even showed they had a super computer called DOJO that processes these simulations.
+
+Which makes me think TSLA is heavily investing in automation and AI makes them way different from traditional manufacturers? What do you think?"
+TSLA_013,xui1o9,stocks,2022-10-03 12:25:56,(10/3) Monday's Pre-Market Movers & News,"# Good Monday morning traders and investors of the r/stocks sub! Welcome to the new trading week, month and quarter and a fresh start! Here are your pre-market stock movers & news on this Monday, October 3rd, 2022-
+
+*****
+
+# [Dow futures rise as Wall Street tries to recover from tough September](https://www.cnbc.com/2022/10/02/stock-market-futures-open-to-close-news.html)
+*****
+> Dow Jones Industrial Average futures ticked higher Monday as Wall Street tried to start the new month, and quarter, on a solid note.
+*****
+> Dow futures traded 164 points higher, or 0.5%. S&P 500 futures rose 0.3%, and Nasdaq 100 futures were flat.
+*****
+> Those moves came as the yield on the 10-year U.S. Treasury note fell further, after finishing the previous week 18 basis points down from its mid-week high.
+*****
+> “It’s pretty simple at this point, 10-year Treasury yield goes up, and equities likely remain under pressure,” Raymond James’ Tavis McCourt said. “It comes down, and equities rally.”
+*****
+> Wall Street is coming off a tough month, with the Dow and S&P 500 notching their biggest monthly losses since March 2020. The Dow on Friday also closed below below 29,000 for the first time since November 2020.
+*****
+> The Dow shed 8.8% in September, while the S&P 500 and Nasdaq Composite lost 9.3% and 10.5%, respectively.
+*****
+> For the quarter, the Dow fell 6.66% to notch a three-quarter losing streak for the first time since the third quarter of 2015. Both the S&P and Nasdaq Composite fell 5.28% and 4.11%, respectively, to finish their third consecutive negative quarter for the first time since 2009.
+*****
+> As the new quarter kicks off, all S&P 500 sectors sit at least 10% off their 52-week highs. Nine sectors finished the quarter in negative territory.
+*****
+> In the fourth quarter, elevated inflation and a Federal Reserve intent on bringing surging prices to a halt regardless of what it means for the economy will likely continue to weigh on markets, said Truist’s Keith Lerner. Oversold conditions, however, also make the market vulnerable to a sharp short-term bounce on good news, he added.
+*****
+> “I think we could be set up for some type of reprieve but the underlying trend at this point is still a downward trend and choppy waters to continue,” Lerner said.
+*****
+> On the economic front, Markit PMI and ISM manufacturing data are slated for release on Monday along with construction spending.
+
+*****
+
+#STOCK FUTURES CURRENTLY:
+######(**[CLICK HERE FOR STOCK FUTURES CHARTS!](https://finviz.com/futures.ashx)**)
+
+*****
+
+#LAST WEEK'S MARKET MAP:
+######(**[CLICK HERE FOR LAST WEEK'S MARKET MAP!](https://i.imgur.com/hrN3uU3.png)**)
+
+*****
+
+#TODAY'S MARKET MAP:
+######(**[CLICK HERE FOR TODAY'S MARKET MAP!](https://finviz.com/map.ashx)**)
+
+*****
+
+#LAST WEEK'S S&P SECTORS:
+######(**[CLICK HERE FOR LAST WEEK'S S&P SECTORS CHART!](https://i.imgur.com/lAeAshx.png)**)
+
+*****
+
+#TODAY'S S&P SECTORS:
+######(**[CLICK HERE FOR TODAY'S S&P SECTORS CHART!](https://finviz.com/groups.ashx)**)
+
+*****
+
+#TODAY'S ECONOMIC CALENDAR:
+######(**[CLICK HERE FOR TODAY'S ECONOMIC CALENDAR!](https://i.imgur.com/Y2WGoGW.png)**)
+
+*****
+
+#THIS WEEK'S ECONOMIC CALENDAR:
+######(**[CLICK HERE FOR THIS WEEK'S ECONOMIC CALENDAR!](https://i.imgur.com/pSn4G7q.png)**)
+
+*****
+
+#THIS WEEK'S UPCOMING IPO'S:
+######(**[CLICK HERE FOR THIS WEEK'S UPCOMING IPO'S!](https://i.imgur.com/1sbtkmY.png)**)
+
+*****
+
+#THIS WEEK'S EARNINGS CALENDAR:
+######(**[CLICK HERE FOR THIS WEEK'S EARNINGS CALENDAR!](https://i.imgur.com/qB5h7yS.png)**)
+
+*****
+
+#THIS MORNING'S PRE-MARKET EARNINGS CALENDAR:
+(**NONE.**)
+######(**[CLICK HERE FOR THIS MORNING'S EARNINGS CALENDAR!]()**)
+
+*****
+
+#EARNINGS RELEASES BEFORE THE OPEN TODAY:
+######(**[CLICK HERE FOR THIS MORNING'S EARNINGS RELEASES LINK!]()**)
+(NONE.)
+
+*****
+
+#EARNINGS RELEASES AFTER THE CLOSE TODAY:
+######(**[CLICK HERE FOR THIS AFTERNOON'S EARNINGS RELEASES!]()**)
+(NONE.)
+
+*****
+
+#FRIDAY'S ANALYST UPGRADES/DOWNGRADES:
+######(**[CLICK HERE FOR FRIDAY'S ANALYST UPGRADES/DOWNGRADES LINK #1!](https://i.imgur.com/rwUaAb2.png)**)
+######(**[CLICK HERE FOR FRIDAY'S ANALYST UPGRADES/DOWNGRADES LINK #2!](https://i.imgur.com/r6Nwcwf.png)**)
+######(**[CLICK HERE FOR FRIDAY'S ANALYST UPGRADES/DOWNGRADES LINK #3!](https://i.imgur.com/iz7tDuM.png)**)
+
+
+*****
+
+#FRIDAY'S INSIDER TRADING FILINGS:
+######(**[CLICK HERE FOR FRIDAY'S INSIDER TRADING FILINGS!](https://i.imgur.com/bv2O0fS.png)**)
+
+*****
+
+#TODAY'S DIVIDEND CALENDAR:
+######(**[CLICK HERE FOR TODAY'S DIVIDEND CALENDAR LINK #1!](https://i.imgur.com/ZMBrS8E.png)**)
+######(**[CLICK HERE FOR TODAY'S DIVIDEND CALENDAR LINK #2!](https://i.imgur.com/IsawbWT.png)**)
+
+*****
+
+#THIS MORNING'S STOCK NEWS MOVERS:
+
+######(**source: [cnbc.com](https://www.cnbc.com/2022/10/03/stocks-making-the-biggest-moves-in-the-premarket-credit-suisse-tesla-myovant-sciences-and-more.html)**)
+
+*****
+
+> **Credit Suisse (CS)** – Credit Suisse slid 6.1% in premarket trading after the bank sought to calm the fears of investors and clients about its financial health over the weekend in a series of phone calls.
+
+> #**STOCK SYMBOLS:** CS
+
+> * [CLICK HERE FOR CHART!](http://charts.finviz.com/chart.ashx?t=CS&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/CS)**)
+
+*****
+
+> **Tesla (TSLA)** – Tesla dropped 5.7% in the premarket after announcing deliveries of over 343,000 vehicles during the third quarter. That number was a record high for Tesla and up 42% from a year ago, but below forecasts.
+
+> #**STOCK SYMBOLS:** TSLA
+
+> * [CLICK HERE FOR CHART!](http://charts.finviz.com/chart.ashx?t=TSLA&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/TSLA)**)
+
+*****
+
+> **ViaSat (VSAT)** – ViaSat rallied 5.9% in premarket trading after the Wall Street Journal reported that the satellite company was close to a deal to sell a military communications unit to defense contractor L3Harris Technologies (LHX) for nearly $2 billion.
+
+> #**STOCK SYMBOLS:** VSAT
+
+> * [CLICK HERE FOR CHART!](http://charts.finviz.com/chart.ashx?t=VSAT&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/VSAT)**)
+
+*****
+
+> **Myovant Sciences (MYOV)** – Myovant surged 31.3% in the premarket after the biopharmaceutical company rejected a bid by its largest shareholder, Sumitovant Biopharma, to buy the shares it doesn’t already own for $22.75 per share. Myovant said the offer significantly undervalues the company.
+
+> #**STOCK SYMBOLS:** MYOV
+
+> * [CLICK HERE FOR CHART!](http://charts.finviz.com/chart.ashx?t=MYOV&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/MYOV)**)
+
+*****
+
+> **Robinhood Markets (HOOD)** – Robinhood announced it was closing five additional offices, on top of closures announced in August as part of a restructuring. The newly announced closures for the trading platform operator will result in charges of about $45 million. Robinhood fell 1% in the premarket.
+
+> #**STOCK SYMBOLS:** HOOD
+
+> * [CLICK HERE FOR CHART!](http://charts.finviz.com/chart.ashx?t=HOOD&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/HOOD)**)
+
+*****
+
+> **Vodafone (VOD)** – The telecom company’s shares jumped 3.2% in premarket action after Vodafone confirmed a Sky News report that merger talks between Vodafone and UK rival Three UK have accelerated.
+
+> #**STOCK SYMBOLS:** VOD
+
+> * [CLICK HERE FOR CHART!](http://charts.finviz.com/chart.ashx?t=VOD&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/VOD)**)
+
+*****
+
+> **Stanley Black & Decker (SWK)** – The tool maker has eliminated about 1,000 finance-related jobs, according to The Wall Street Journal. Stanley Black & Decker is seeking to cut about $200 million in expenses as it deals with higher costs and slowing demand.
+
+> #**STOCK SYMBOLS:** SWK
+
+> * [CLICK HERE FOR CHART!](http://charts.finviz.com/chart.ashx?t=SWK&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/SWK)**)
+
+*****
+
+> **Freshpet (FRPT)** – Freshpet rose 2.3% in premarket trading after Barron’s reported that the pet food company hired bankers to explore a possible sale.
+
+> #**STOCK SYMBOLS:** FRPT
+
+> * [CLICK HERE FOR CHART!](http://charts.finviz.com/chart.ashx?t=FRPT&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/FRPT)**)
+
+*****
+
+> **Box (BOX)** – Box jumped 3.7% in the premarket after Morgan Stanley upgraded the cloud computing company’s stock to “overweight” from “equal-weight,” pointing to strong execution and a favorable competitive landscape.
+
+> #**STOCK SYMBOLS:** BOX
+
+> * [CLICK HERE FOR CHART!](http://charts.finviz.com/chart.ashx?t=BOX&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/BOX)**)
+
+*****
+
+#**FULL DISCLOSURE:**
+
+> /u/bigbear0083 has no positions in any stocks mentioned. Reddit, moderators, and the author do not advise making investment decisions based on discussion in these posts. Analysis is not subject to validation and users take action at their own risk.
+
+*****
+
+#**DISCUSS!**
+
+What's on everyone's radar for today's trading day ahead here at r/stocks?
+
+*****
+
+# **I hope you all have an excellent trading day ahead today on this Monday, October 3rd, 2022! :)**",13,0,https://www.reddit.com/r/stocks/comments/xui1o9/103_mondays_premarket_movers_news/,Tesla AI Day,"(10/3) Monday's Pre-Market Movers & News # Good Monday morning traders and investors of the r/stocks sub! Welcome to the new trading week, month and quarter and a fresh start! Here are your pre-market stock movers & news on this Monday, October 3rd, 2022-
+
+*****
+
+# [Dow futures rise as Wall Street tries to recover from tough September](https://www.cnbc.com/2022/10/02/stock-market-futures-open-to-close-news.html)
+*****
+> Dow Jones Industrial Average futures ticked higher Monday as Wall Street tried to start the new month, and quarter, on a solid note.
+*****
+> Dow futures traded 164 points higher, or 0.5%. S&P 500 futures rose 0.3%, and Nasdaq 100 futures were flat.
+*****
+> Those moves came as the yield on the 10-year U.S. Treasury note fell further, after finishing the previous week 18 basis points down from its mid-week high.
+*****
+> “It’s pretty simple at this point, 10-year Treasury yield goes up, and equities likely remain under pressure,” Raymond James’ Tavis McCourt said. “It comes down, and equities rally.”
+*****
+> Wall Street is coming off a tough month, with the Dow and S&P 500 notching their biggest monthly losses since March 2020. The Dow on Friday also closed below below 29,000 for the first time since November 2020.
+*****
+> The Dow shed 8.8% in September, while the S&P 500 and Nasdaq Composite lost 9.3% and 10.5%, respectively.
+*****
+> For the quarter, the Dow fell 6.66% to notch a three-quarter losing streak for the first time since the third quarter of 2015. Both the S&P and Nasdaq Composite fell 5.28% and 4.11%, respectively, to finish their third consecutive negative quarter for the first time since 2009.
+*****
+> As the new quarter kicks off, all S&P 500 sectors sit at least 10% off their 52-week highs. Nine sectors finished the quarter in negative territory.
+*****
+> In the fourth quarter, elevated inflation and a Federal Reserve intent on bringing surging prices to a halt regardless of what it means for the economy will likely continue to weigh on markets, said Truist’s Keith Lerner. Oversold conditions, however, also make the market vulnerable to a sharp short-term bounce on good news, he added.
+*****
+> “I think we could be set up for some type of reprieve but the underlying trend at this point is still a downward trend and choppy waters to continue,” Lerner said.
+*****
+> On the economic front, Markit PMI and ISM manufacturing data are slated for release on Monday along with construction spending.
+
+*****
+
+#STOCK FUTURES CURRENTLY:
+######(**[CLICK HERE FOR STOCK FUTURES CHARTS!](https://finviz.com/futures.ashx)**)
+
+*****
+
+#LAST WEEK'S MARKET MAP:
+######(**[CLICK HERE FOR LAST WEEK'S MARKET MAP!](https://i.imgur.com/hrN3uU3.png)**)
+
+*****
+
+#TODAY'S MARKET MAP:
+######(**[CLICK HERE FOR TODAY'S MARKET MAP!](https://finviz.com/map.ashx)**)
+
+*****
+
+#LAST WEEK'S S&P SECTORS:
+######(**[CLICK HERE FOR LAST WEEK'S S&P SECTORS CHART!](https://i.imgur.com/lAeAshx.png)**)
+
+*****
+
+#TODAY'S S&P SECTORS:
+######(**[CLICK HERE FOR TODAY'S S&P SECTORS CHART!](https://finviz.com/groups.ashx)**)
+
+*****
+
+#TODAY'S ECONOMIC CALENDAR:
+######(**[CLICK HERE FOR TODAY'S ECONOMIC CALENDAR!](https://i.imgur.com/Y2WGoGW.png)**)
+
+*****
+
+#THIS WEEK'S ECONOMIC CALENDAR:
+######(**[CLICK HERE FOR THIS WEEK'S ECONOMIC CALENDAR!](https://i.imgur.com/pSn4G7q.png)**)
+
+*****
+
+#THIS WEEK'S UPCOMING IPO'S:
+######(**[CLICK HERE FOR THIS WEEK'S UPCOMING IPO'S!](https://i.imgur.com/1sbtkmY.png)**)
+
+*****
+
+#THIS WEEK'S EARNINGS CALENDAR:
+######(**[CLICK HERE FOR THIS WEEK'S EARNINGS CALENDAR!](https://i.imgur.com/qB5h7yS.png)**)
+
+*****
+
+#THIS MORNING'S PRE-MARKET EARNINGS CALENDAR:
+(**NONE.**)
+######(**[CLICK HERE FOR THIS MORNING'S EARNINGS CALENDAR!]()**)
+
+*****
+
+#EARNINGS RELEASES BEFORE THE OPEN TODAY:
+######(**[CLICK HERE FOR THIS MORNING'S EARNINGS RELEASES LINK!]()**)
+(NONE.)
+
+*****
+
+#EARNINGS RELEASES AFTER THE CLOSE TODAY:
+######(**[CLICK HERE FOR THIS AFTERNOON'S EARNINGS RELEASES!]()**)
+(NONE.)
+
+*****
+
+#FRIDAY'S ANALYST UPGRADES/DOWNGRADES:
+######(**[CLICK HERE FOR FRIDAY'S ANALYST UPGRADES/DOWNGRADES LINK #1!](https://i.imgur.com/rwUaAb2.png)**)
+######(**[CLICK HERE FOR FRIDAY'S ANALYST UPGRADES/DOWNGRADES LINK #2!](https://i.imgur.com/r6Nwcwf.png)**)
+######(**[CLICK HERE FOR FRIDAY'S ANALYST UPGRADES/DOWNGRADES LINK #3!](https://i.imgur.com/iz7tDuM.png)**)
+
+
+*****
+
+#FRIDAY'S INSIDER TRADING FILINGS:
+######(**[CLICK HERE FOR FRIDAY'S INSIDER TRADING FILINGS!](https://i.imgur.com/bv2O0fS.png)**)
+
+*****
+
+#TODAY'S DIVIDEND CALENDAR:
+######(**[CLICK HERE FOR TODAY'S DIVIDEND CALENDAR LINK #1!](https://i.imgur.com/ZMBrS8E.png)**)
+######(**[CLICK HERE FOR TODAY'S DIVIDEND CALENDAR LINK #2!](https://i.imgur.com/IsawbWT.png)**)
+
+*****
+
+#THIS MORNING'S STOCK NEWS MOVERS:
+
+######(**source: [cnbc.com](https://www.cnbc.com/2022/10/03/stocks-making-the-biggest-moves-in-the-premarket-credit-suisse-tesla-myovant-sciences-and-more.html)**)
+
+*****
+
+> **Credit Suisse (CS)** – Credit Suisse slid 6.1% in premarket trading after the bank sought to calm the fears of investors and clients about its financial health over the weekend in a series of phone calls.
+
+> #**STOCK SYMBOLS:** CS
+
+> * [CLICK HERE FOR CHART!](http://charts.finviz.com/chart.ashx?t=CS&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/CS)**)
+
+*****
+
+> **Tesla (TSLA)** – Tesla dropped 5.7% in the premarket after announcing deliveries of over 343,000 vehicles during the third quarter. That number was a record high for Tesla and up 42% from a year ago, but below forecasts.
+
+> #**STOCK SYMBOLS:** TSLA
+
+> * [CLICK HERE FOR CHART!](http://charts.finviz.com/chart.ashx?t=TSLA&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/TSLA)**)
+
+*****
+
+> **ViaSat (VSAT)** – ViaSat rallied 5.9% in premarket trading after the Wall Street Journal reported that the satellite company was close to a deal to sell a military communications unit to defense contractor L3Harris Technologies (LHX) for nearly $2 billion.
+
+> #**STOCK SYMBOLS:** VSAT
+
+> * [CLICK HERE FOR CHART!](http://charts.finviz.com/chart.ashx?t=VSAT&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/VSAT)**)
+
+*****
+
+> **Myovant Sciences (MYOV)** – Myovant surged 31.3% in the premarket after the biopharmaceutical company rejected a bid by its largest shareholder, Sumitovant Biopharma, to buy the shares it doesn’t already own for $22.75 per share. Myovant said the offer significantly undervalues the company.
+
+> #**STOCK SYMBOLS:** MYOV
+
+> * [CLICK HERE FOR CHART!](http://charts.finviz.com/chart.ashx?t=MYOV&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/MYOV)**)
+
+*****
+
+> **Robinhood Markets (HOOD)** – Robinhood announced it was closing five additional offices, on top of closures announced in August as part of a restructuring. The newly announced closures for the trading platform operator will result in charges of about $45 million. Robinhood fell 1% in the premarket.
+
+> #**STOCK SYMBOLS:** HOOD
+
+> * [CLICK HERE FOR CHART!](http://charts.finviz.com/chart.ashx?t=HOOD&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/HOOD)**)
+
+*****
+
+> **Vodafone (VOD)** – The telecom company’s shares jumped 3.2% in premarket action after Vodafone confirmed a Sky News report that merger talks between Vodafone and UK rival Three UK have accelerated.
+
+> #**STOCK SYMBOLS:** VOD
+
+> * [CLICK HERE FOR CHART!](http://charts.finviz.com/chart.ashx?t=VOD&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/VOD)**)
+
+*****
+
+> **Stanley Black & Decker (SWK)** – The tool maker has eliminated about 1,000 finance-related jobs, according to The Wall Street Journal. Stanley Black & Decker is seeking to cut about $200 million in expenses as it deals with higher costs and slowing demand.
+
+> #**STOCK SYMBOLS:** SWK
+
+> * [CLICK HERE FOR CHART!](http://charts.finviz.com/chart.ashx?t=SWK&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/SWK)**)
+
+*****
+
+> **Freshpet (FRPT)** – Freshpet rose 2.3% in premarket trading after Barron’s reported that the pet food company hired bankers to explore a possible sale.
+
+> #**STOCK SYMBOLS:** FRPT
+
+> * [CLICK HERE FOR CHART!](http://charts.finviz.com/chart.ashx?t=FRPT&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/FRPT)**)
+
+*****
+
+> **Box (BOX)** – Box jumped 3.7% in the premarket after Morgan Stanley upgraded the cloud computing company’s stock to “overweight” from “equal-weight,” pointing to strong execution and a favorable competitive landscape.
+
+> #**STOCK SYMBOLS:** BOX
+
+> * [CLICK HERE FOR CHART!](http://charts.finviz.com/chart.ashx?t=BOX&ty=c&ta=st_c,sch_200p,sma_50,sma_200,sma_20,sma_100,bb_20_2,rsi_b_14,macd_b_12_26_9,stofu_b_14_3_3&p=d&s=l)
+
+> ######(**[CLICK HERE FOR LIVE STOCK QUOTE!](http://data.cnbc.com/quotes/BOX)**)
+
+*****
+
+#**FULL DISCLOSURE:**
+
+> /u/bigbear0083 has no positions in any stocks mentioned. Reddit, moderators, and the author do not advise making investment decisions based on discussion in these posts. Analysis is not subject to validation and users take action at their own risk.
+
+*****
+
+#**DISCUSS!**
+
+What's on everyone's radar for today's trading day ahead here at r/stocks?
+
+*****
+
+# **I hope you all have an excellent trading day ahead today on this Monday, October 3rd, 2022! :)**"
+TSLA_013,xromms,wallstreetbets,2022-09-30 01:25:45,Game Of Trends: A Feast For Bears - Apple and Tesla,"[Looking for Cheaper](https://preview.redd.it/dpjiu3nnewq91.png?width=930&format=png&auto=webp&s=739668f9c1c47ff55d08ae7491f3bef30e310c9b)
+
+Hey everyone,
+
+I wrote a post not too long ago talking about how we shouldn't fight the fed. In the comments I describe the short positions that had been building against $TSLA and $AAPL. I think a lot of you now understand why Wallstreet was gearing up for war on retail's two favorite stocks.
+
+Now I am going to tell you what their goal probably is and to summarize what the economic trends we're seeing in the consumer based on earnings reports.
+
+Buckle up, you probably want to both hear and not hear what I have to say.
+
+# Inflation -- People Are Making Decisions, ""Do I buy luxury brand or do I buy store brand?""
+
+So, inflation. The Big I-Word. It's been a disaster for the market. A genie that should never have been let out of the bottle, but it is and we're not done with it yet (clearly). There are a lot of signs emerging that it's affecting the consumer. While it's not affecting the net spend from consumers--yet--it is affecting their choices.
+
+Take $WMT. WMT saw a pretty good upswing in it's earnings last report with quite a good beat, but why is this? Aren't things horrible for retail stores? Well, if you think so, you'd be right. But one person's loss is another person's gain. When you're entering tough times and things are expensive you do what you have to do, you buy cheaper. You go for store brand products. Instead of shopping at your local high end Bashes grocery store or Super Target, you hit up Wal Mart, Costco, places that have their entire model built on stretching a consumer/shopper's dollar to the max.
+
+This was our first big key to what's going on. Let's talk about the next.
+
+# The Bullwhip Effect
+
+&#x200B;
+
+[What the Books say is happening. This is how you get a glut of inventory](https://preview.redd.it/2evme75dewq91.png?width=670&format=png&auto=webp&s=f08fa1a17a7c191d0bf059cff198850d6fb56243)
+
+Bullwhip Effect -- AKA Covid ""BUY IT ALL! WE'RE STUCK AT HOME!""
+
+We're seeing a huge bullwhip effect in the market. Places are being flooded with inventory. Yes, this is old news, but it is also current news. $TGT's last quarter was the perfect example for how this god awful situation plays out. Companies ordered a ridiculous amount during the pandemic because all of us sat at home on our phones ordering everything we ever wanted in our lives. Because stocks were so low, places started to double, triple up on their orders in order to try and meet a new high demand that they were forecasting.
+
+Well, it didn't last forever. Plus... this didn't help...
+
+&#x200B;
+
+[Yeah... that's your stuff out there.](https://preview.redd.it/p50gpamfewq91.png?width=2500&format=png&auto=webp&s=b835ca06f519998080f9c16d8315ad5ef5c843ae)
+
+Ship Congestion. That's your stuff out there. Sitting for months.
+
+This stuff sat on boats for freaking months. You might say, 'Hey, Tay\_tay86, I know all this crap. Why are you telling me old news?"" Because guess what, it's here now. That stuff has been unloaded and sent to the stores.
+
+But guess what? It's freaking late. Like really late.
+
+So what does a company like $TGT do? Well, in their case they list on clearance. It costs money to have this crap around. Plus if it sits too long, it has to be completely written off. You know, red tag 80-90% clearance aka please get it out of my store. That gave $TGT a fat \~45% cut in EPS because they have to eat all of their costs associated with producing and then shipping that item at stupid high prices to your fat ass. If it takes too long, they get shellacked.
+
+# Here comes out next challenger... Nike. $NKE
+
+&#x200B;
+
+[Here we go again...](https://preview.redd.it/uzj64zvgewq91.jpg?width=1280&format=pjpg&auto=webp&s=177d873f7aa902a06d9ad318ac66bbac91030e0a)
+
+Our old friend. Mr Highly Engineered Shoes Guyz
+
+$NKE reported after the bell today. All eyes were definitely on them. They've been talking about this one all over the place so going in, it's a hot topic. Well, it's a pretty bad story.
+
+There's a lot of similarities here. I highly encourage you to listen to their entire call.
+
+Their margin's are compressed AF. 22% drop in profits is a pretty dire warning to unprofitable companies or ones that are barely profitable.
+
+1. Any time a CEO/CFO is throwing out catch phrases after every BAD result is a sure fire sign that they are trying to distract you from the car wreck that is their report. I Counted at least 4-5 times of 'We're still the super cool choice for shoes' (Paraphrasing, clearly)
+2. They suddenly have too much inventory. Sounds familiar? It should. That's why they are clearing out of the stock afterhours. They are forecasting a repeat of what $TGT just had. $NKE may have squeaked by at 0.93 EPS today, but the next one could be a real gut punch as they try to clear these shoes. Even worse than $TGT, they sell season specific items. This means some of this crap is probably summer oriented when we're going into fall and winter. Yeah, not a good situation. It could potentially be WORSE than what $TGT just experienced. Combine that with the drop in profits and Fx challenges, you've got a real problem.
+3. China revenue dropped. I feel like that one didn't get the highlight it deserves. The CEO kept trying to amp up that China is hungry for sports themed stuff that they sell, but yet their revenue there dropped 13%. Didn't they roll out a lot of direct to consumer options? Well apparently they aren't biting. This is a very eerie warning.
+
+Why?
+
+Well, let's start to summarize. Hopefully you're still reading.
+
+&#x200B;
+
+[The Cracking Of Apple](https://preview.redd.it/uppjfyxhewq91.jpg?width=1024&format=pjpg&auto=webp&s=b327e0f44c102a34631d00e2fd295a0f94fd33aa)
+
+# The Cracking of $AAPL
+
+We've had MULTIPLE warnings about China's demand for our multinational in the past few weeks. Let's list them out:
+
+1. FedEx reported economic weakness in China. If anyone knows how things are going, it's the folks who are delivering stuff that businesses are selling.
+2. Nike is reporting weaker revenue from China (where their stuff is basically made)
+3. Apple is supposedly pulling back a prior manufacturing target by 5-10% due to a lack of demand in places like, you guessed it, China
+
+Now apple's debatable because there's some reports that the Max is doing fine. However, I think that's probably a bullish dream. Their mainstream model is only doing as well as the first.
+
+What's at fault? Honestly, probably the chips and overall market. Nothing inside the phone is dramatically different. It's a big nothing burger and there's not a lot of incentive to upgrade. If you do want to, you might as well shell out for the Max to actually get something.
+
+I believe this is going to result in **a net loss of sales because not everyone will choose to buy expensive when the mainstream model is subpar.** **The upgrade is... minor.**
+
+This is not a homerun for Apple. Wallstreet probably feels very confident about this behind closed doors, but not in public. That's why they've been building short positions against Apple.
+
+&#x200B;
+
+[Closing Time](https://preview.redd.it/tje90u9kewq91.png?width=930&format=png&auto=webp&s=cbb27790f23e8301f7f07db945c1d28d76405ef5)
+
+# Closing out
+
+Alright, so let's close this baby out. I know a lot won't read this, but hey, hope you do. If you had read my last one you would have made a killing betting against $AAPL this week.
+
+So what's the trend we're seeing?
+
+1. **There's too much stuff.**
+2. **Luxuries are not the draw they once were. Things need to be noticeably different to get the $.**
+3. **Because of inflation people (middle class) are choosing to shop at cheaper locations**
+4. **Affordability is top of mind (See CarMax which I am not covering here)**
+
+So this is it. This is all great for the battle against inflation, but it's bad news bears for your stocks. You're looking at potentially shaky EPS results as we head into this earnings season and the next. These are not single quarter problems. Inventories can take a long time to physically move through the system.
+
+Which brings me to what this means:
+
+We're probably going lower in the market.
+
+Wall street is coming for retail. They know from all of the data and the clear charts that retail has piled into $AAPL and $TSLA as safety. They are building short positions against it because they have better info than we do. Rumors are already leaking that $TSLA could be approaching weak deliveries for a lot of the same reasons.
+
+You've got Price and Earnings to every P/E ratio. Price has come down a lot, but now we're going to look at E heading south. There's two ways to skin a company.
+
+Let's talk about $TSLA for a second.
+
+&#x200B;
+
+[Tesla Is A Cult](https://preview.redd.it/t0zal9gpewq91.jpg?width=1600&format=pjpg&auto=webp&s=6922c2439180b2800ab212b5f72dfd1257c23637)
+
+# The Cult Of Tesla
+
+# Disclaimer
+
+1. Look, I don't hide my feelings. I greatly dislike Tesla and their CEO Elon Musk. I don't trust him. I think he manipulates the market and uses it to empty his fans pockets
+2. I think the cars are cheaply made with a lot of flaws.
+3. I don't like cultish love for a human being
+
+Elon has made a mistake. That mistake? Making promises he doesn't keep. There's 1 major promise that Elon should have kept: **Making An Affordable EV.**
+
+I am not going to take you through the logic. It's up above. Read this and you'll understand why I am pointing a finger here. These cars are **EXPENSIVE** and they don't offer you a big new thing than the one you already have does. FSD COSTS EXTRA. These are **luxuries**. What do we know about luxuries? People are choosing to buy cheaper. Carmax DIRECTLY said that affordability is on people's mind for car shopping now. **Especially as interest rates soar making car financing WAY more expensive than it was a year ago.**
+
+I believe this is going to bite Elon Musk right in his lying manipulative ass. His way out, pulling a huge rabbit out of the hat. This could happen soon, or it could happen next year, but it's coming for him.
+
+**Keep in mind he's already tilted his hand calling Austin and Berlin's gigafactories cash burning machines.**
+
+Just to add, Elon Musk isn't your friend. He doesn't care about you or your memes at all. He's been the richest man on the planet. He Does Not Care About You. He Doesn't Even Live In The Same 'World' As You.
+
+# Final Words
+
+Wall street is coming for Apple. Wall Street is coming for Tesla. They know you're holding it. They are two, massive, giant piggy banks sitting in a market where the bears have eaten everything else alive. Every bear is starting to turn their heads and they are looking directly at a juicy, fat, pair of piggy banks.
+
+When it's all done, the market is probably around 3100-3300 unless things get disorderly. I expect these two to lead us lower, because lets be honest, not much else can. These two have 'been holding the market up higher.
+
+Further disclaimer: I have positions against AAPL and Tesla. I've been rolling them for a while. I won't share my exits, but here's proof that I am in what I say I am. I started these with 3k. Going strong so far.
+
+Good luck out there. This is not an endorsement for you to copy me. I trade very actively and move very fluidly. Contact a professional if you want real financial advice. I am an amateur and this is my own take on the market. I am not responsible for whatever you choose to do. Be Safe.
+
+&#x200B;
+
+https://preview.redd.it/q0vivs8sewq91.png?width=1440&format=png&auto=webp&s=eb37a10dc058c8ac747a854528aa47c6acd1f2aa
+
+https://preview.redd.it/yr6m6u8sewq91.png?width=1440&format=png&auto=webp&s=4bea9a13fe7fd814cdca1c5f1c1a4f0406c6a9c4
+
+Follow Up Question:
+
+Why 100$ strike? Apple typically loses 40-50% peak to trough in major declines involving crisis. Typical bear cycles are \~33%. Someone asked for charts. Here's 4 from the past bull market.
+
+u/AdPsychological5374 requested to see
+
+&#x200B;
+
+[44&#37; Decline 2013](https://preview.redd.it/wqtzfm3zjxq91.png?width=1440&format=png&auto=webp&s=86c3d84a3eb2fbd6ab69aef194addcffa65b7630)
+
+[Complicated path, Total decline \~33&#37;](https://preview.redd.it/bsbnir3zjxq91.png?width=1440&format=png&auto=webp&s=d89b28c3a3b49b6cd9e328d50281330dad5e99fe)
+
+[SoftBank induced September slaughter \~33&#37;](https://preview.redd.it/oppwfx3zjxq91.png?width=1427&format=png&auto=webp&s=216de27d0d7023571f5c467278f98f1ef491ac73)
+
+[Covid crash Total Decline \~35 to 38&#37;](https://preview.redd.it/nvb1ho3zjxq91.png?width=1440&format=png&auto=webp&s=d3e262c740ee8600d8492242069f8e631b10c0a5)",48,82,https://www.reddit.com/r/wallstreetbets/comments/xromms/game_of_trends_a_feast_for_bears_apple_and_tesla/,Tesla AI Day,"Game Of Trends: A Feast For Bears - Apple and Tesla [Looking for Cheaper](https://preview.redd.it/dpjiu3nnewq91.png?width=930&format=png&auto=webp&s=739668f9c1c47ff55d08ae7491f3bef30e310c9b)
+
+Hey everyone,
+
+I wrote a post not too long ago talking about how we shouldn't fight the fed. In the comments I describe the short positions that had been building against $TSLA and $AAPL. I think a lot of you now understand why Wallstreet was gearing up for war on retail's two favorite stocks.
+
+Now I am going to tell you what their goal probably is and to summarize what the economic trends we're seeing in the consumer based on earnings reports.
+
+Buckle up, you probably want to both hear and not hear what I have to say.
+
+# Inflation -- People Are Making Decisions, ""Do I buy luxury brand or do I buy store brand?""
+
+So, inflation. The Big I-Word. It's been a disaster for the market. A genie that should never have been let out of the bottle, but it is and we're not done with it yet (clearly). There are a lot of signs emerging that it's affecting the consumer. While it's not affecting the net spend from consumers--yet--it is affecting their choices.
+
+Take $WMT. WMT saw a pretty good upswing in it's earnings last report with quite a good beat, but why is this? Aren't things horrible for retail stores? Well, if you think so, you'd be right. But one person's loss is another person's gain. When you're entering tough times and things are expensive you do what you have to do, you buy cheaper. You go for store brand products. Instead of shopping at your local high end Bashes grocery store or Super Target, you hit up Wal Mart, Costco, places that have their entire model built on stretching a consumer/shopper's dollar to the max.
+
+This was our first big key to what's going on. Let's talk about the next.
+
+# The Bullwhip Effect
+
+&#x200B;
+
+[What the Books say is happening. This is how you get a glut of inventory](https://preview.redd.it/2evme75dewq91.png?width=670&format=png&auto=webp&s=f08fa1a17a7c191d0bf059cff198850d6fb56243)
+
+Bullwhip Effect -- AKA Covid ""BUY IT ALL! WE'RE STUCK AT HOME!""
+
+We're seeing a huge bullwhip effect in the market. Places are being flooded with inventory. Yes, this is old news, but it is also current news. $TGT's last quarter was the perfect example for how this god awful situation plays out. Companies ordered a ridiculous amount during the pandemic because all of us sat at home on our phones ordering everything we ever wanted in our lives. Because stocks were so low, places started to double, triple up on their orders in order to try and meet a new high demand that they were forecasting.
+
+Well, it didn't last forever. Plus... this didn't help...
+
+&#x200B;
+
+[Yeah... that's your stuff out there.](https://preview.redd.it/p50gpamfewq91.png?width=2500&format=png&auto=webp&s=b835ca06f519998080f9c16d8315ad5ef5c843ae)
+
+Ship Congestion. That's your stuff out there. Sitting for months.
+
+This stuff sat on boats for freaking months. You might say, 'Hey, Tay\_tay86, I know all this crap. Why are you telling me old news?"" Because guess what, it's here now. That stuff has been unloaded and sent to the stores.
+
+But guess what? It's freaking late. Like really late.
+
+So what does a company like $TGT do? Well, in their case they list on clearance. It costs money to have this crap around. Plus if it sits too long, it has to be completely written off. You know, red tag 80-90% clearance aka please get it out of my store. That gave $TGT a fat \~45% cut in EPS because they have to eat all of their costs associated with producing and then shipping that item at stupid high prices to your fat ass. If it takes too long, they get shellacked.
+
+# Here comes out next challenger... Nike. $NKE
+
+&#x200B;
+
+[Here we go again...](https://preview.redd.it/uzj64zvgewq91.jpg?width=1280&format=pjpg&auto=webp&s=177d873f7aa902a06d9ad318ac66bbac91030e0a)
+
+Our old friend. Mr Highly Engineered Shoes Guyz
+
+$NKE reported after the bell today. All eyes were definitely on them. They've been talking about this one all over the place so going in, it's a hot topic. Well, it's a pretty bad story.
+
+There's a lot of similarities here. I highly encourage you to listen to their entire call.
+
+Their margin's are compressed AF. 22% drop in profits is a pretty dire warning to unprofitable companies or ones that are barely profitable.
+
+1. Any time a CEO/CFO is throwing out catch phrases after every BAD result is a sure fire sign that they are trying to distract you from the car wreck that is their report. I Counted at least 4-5 times of 'We're still the super cool choice for shoes' (Paraphrasing, clearly)
+2. They suddenly have too much inventory. Sounds familiar? It should. That's why they are clearing out of the stock afterhours. They are forecasting a repeat of what $TGT just had. $NKE may have squeaked by at 0.93 EPS today, but the next one could be a real gut punch as they try to clear these shoes. Even worse than $TGT, they sell season specific items. This means some of this crap is probably summer oriented when we're going into fall and winter. Yeah, not a good situation. It could potentially be WORSE than what $TGT just experienced. Combine that with the drop in profits and Fx challenges, you've got a real problem.
+3. China revenue dropped. I feel like that one didn't get the highlight it deserves. The CEO kept trying to amp up that China is hungry for sports themed stuff that they sell, but yet their revenue there dropped 13%. Didn't they roll out a lot of direct to consumer options? Well apparently they aren't biting. This is a very eerie warning.
+
+Why?
+
+Well, let's start to summarize. Hopefully you're still reading.
+
+&#x200B;
+
+[The Cracking Of Apple](https://preview.redd.it/uppjfyxhewq91.jpg?width=1024&format=pjpg&auto=webp&s=b327e0f44c102a34631d00e2fd295a0f94fd33aa)
+
+# The Cracking of $AAPL
+
+We've had MULTIPLE warnings about China's demand for our multinational in the past few weeks. Let's list them out:
+
+1. FedEx reported economic weakness in China. If anyone knows how things are going, it's the folks who are delivering stuff that businesses are selling.
+2. Nike is reporting weaker revenue from China (where their stuff is basically made)
+3. Apple is supposedly pulling back a prior manufacturing target by 5-10% due to a lack of demand in places like, you guessed it, China
+
+Now apple's debatable because there's some reports that the Max is doing fine. However, I think that's probably a bullish dream. Their mainstream model is only doing as well as the first.
+
+What's at fault? Honestly, probably the chips and overall market. Nothing inside the phone is dramatically different. It's a big nothing burger and there's not a lot of incentive to upgrade. If you do want to, you might as well shell out for the Max to actually get something.
+
+I believe this is going to result in **a net loss of sales because not everyone will choose to buy expensive when the mainstream model is subpar.** **The upgrade is... minor.**
+
+This is not a homerun for Apple. Wallstreet probably feels very confident about this behind closed doors, but not in public. That's why they've been building short positions against Apple.
+
+&#x200B;
+
+[Closing Time](https://preview.redd.it/tje90u9kewq91.png?width=930&format=png&auto=webp&s=cbb27790f23e8301f7f07db945c1d28d76405ef5)
+
+# Closing out
+
+Alright, so let's close this baby out. I know a lot won't read this, but hey, hope you do. If you had read my last one you would have made a killing betting against $AAPL this week.
+
+So what's the trend we're seeing?
+
+1. **There's too much stuff.**
+2. **Luxuries are not the draw they once were. Things need to be noticeably different to get the $.**
+3. **Because of inflation people (middle class) are choosing to shop at cheaper locations**
+4. **Affordability is top of mind (See CarMax which I am not covering here)**
+
+So this is it. This is all great for the battle against inflation, but it's bad news bears for your stocks. You're looking at potentially shaky EPS results as we head into this earnings season and the next. These are not single quarter problems. Inventories can take a long time to physically move through the system.
+
+Which brings me to what this means:
+
+We're probably going lower in the market.
+
+Wall street is coming for retail. They know from all of the data and the clear charts that retail has piled into $AAPL and $TSLA as safety. They are building short positions against it because they have better info than we do. Rumors are already leaking that $TSLA could be approaching weak deliveries for a lot of the same reasons.
+
+You've got Price and Earnings to every P/E ratio. Price has come down a lot, but now we're going to look at E heading south. There's two ways to skin a company.
+
+Let's talk about $TSLA for a second.
+
+&#x200B;
+
+[Tesla Is A Cult](https://preview.redd.it/t0zal9gpewq91.jpg?width=1600&format=pjpg&auto=webp&s=6922c2439180b2800ab212b5f72dfd1257c23637)
+
+# The Cult Of Tesla
+
+# Disclaimer
+
+1. Look, I don't hide my feelings. I greatly dislike Tesla and their CEO Elon Musk. I don't trust him. I think he manipulates the market and uses it to empty his fans pockets
+2. I think the cars are cheaply made with a lot of flaws.
+3. I don't like cultish love for a human being
+
+Elon has made a mistake. That mistake? Making promises he doesn't keep. There's 1 major promise that Elon should have kept: **Making An Affordable EV.**
+
+I am not going to take you through the logic. It's up above. Read this and you'll understand why I am pointing a finger here. These cars are **EXPENSIVE** and they don't offer you a big new thing than the one you already have does. FSD COSTS EXTRA. These are **luxuries**. What do we know about luxuries? People are choosing to buy cheaper. Carmax DIRECTLY said that affordability is on people's mind for car shopping now. **Especially as interest rates soar making car financing WAY more expensive than it was a year ago.**
+
+I believe this is going to bite Elon Musk right in his lying manipulative ass. His way out, pulling a huge rabbit out of the hat. This could happen soon, or it could happen next year, but it's coming for him.
+
+**Keep in mind he's already tilted his hand calling Austin and Berlin's gigafactories cash burning machines.**
+
+Just to add, Elon Musk isn't your friend. He doesn't care about you or your memes at all. He's been the richest man on the planet. He Does Not Care About You. He Doesn't Even Live In The Same 'World' As You.
+
+# Final Words
+
+Wall street is coming for Apple. Wall Street is coming for Tesla. They know you're holding it. They are two, massive, giant piggy banks sitting in a market where the bears have eaten everything else alive. Every bear is starting to turn their heads and they are looking directly at a juicy, fat, pair of piggy banks.
+
+When it's all done, the market is probably around 3100-3300 unless things get disorderly. I expect these two to lead us lower, because lets be honest, not much else can. These two have 'been holding the market up higher.
+
+Further disclaimer: I have positions against AAPL and Tesla. I've been rolling them for a while. I won't share my exits, but here's proof that I am in what I say I am. I started these with 3k. Going strong so far.
+
+Good luck out there. This is not an endorsement for you to copy me. I trade very actively and move very fluidly. Contact a professional if you want real financial advice. I am an amateur and this is my own take on the market. I am not responsible for whatever you choose to do. Be Safe.
+
+&#x200B;
+
+https://preview.redd.it/q0vivs8sewq91.png?width=1440&format=png&auto=webp&s=eb37a10dc058c8ac747a854528aa47c6acd1f2aa
+
+https://preview.redd.it/yr6m6u8sewq91.png?width=1440&format=png&auto=webp&s=4bea9a13fe7fd814cdca1c5f1c1a4f0406c6a9c4
+
+Follow Up Question:
+
+Why 100$ strike? Apple typically loses 40-50% peak to trough in major declines involving crisis. Typical bear cycles are \~33%. Someone asked for charts. Here's 4 from the past bull market.
+
+u/AdPsychological5374 requested to see
+
+&#x200B;
+
+[44&#37; Decline 2013](https://preview.redd.it/wqtzfm3zjxq91.png?width=1440&format=png&auto=webp&s=86c3d84a3eb2fbd6ab69aef194addcffa65b7630)
+
+[Complicated path, Total decline \~33&#37;](https://preview.redd.it/bsbnir3zjxq91.png?width=1440&format=png&auto=webp&s=d89b28c3a3b49b6cd9e328d50281330dad5e99fe)
+
+[SoftBank induced September slaughter \~33&#37;](https://preview.redd.it/oppwfx3zjxq91.png?width=1427&format=png&auto=webp&s=216de27d0d7023571f5c467278f98f1ef491ac73)
+
+[Covid crash Total Decline \~35 to 38&#37;](https://preview.redd.it/nvb1ho3zjxq91.png?width=1440&format=png&auto=webp&s=d3e262c740ee8600d8492242069f8e631b10c0a5)"
+TSLA_013,xs33ut,wallstreetbets,2022-09-30 14:41:25,Texts released ahead of Twitter trial show Elon Musk assembling the deal,"Elon Musk's takeover of Twitter went down via private text messages between the Tesla CEO and a small circle of Silicon Valley's rich and powerful, plus their underlings, advisers and a handful of reporters, politicians and aspiring dealmakers.
+
+The messages were part of court filings and revealed Thursday as part of the pre-trial discovery process in the court battle over whether Musk has to follow through on the merger agreement he signed to buy Twitter. Twitter and Musk are due in court Oct. 17.
+
+The stream of messages includes Musk's exchanges with Twitter founder Jack Dorsey, current CEO Parag Agrawal, Oracle co-founder Larry Ellison, and many more.
+
+Elon Musk wants to get out of buying Twitter. A whistleblower's claims might help him
+
+The court documents show Musk making overtures to Twitter, discussing the importance of free speech, workshopping ideas on how to improve the platform, assembling the financing for the deal, and then deliberating over how to make the struggling company profitable.
+
+Ann Lipton, a professor of business law at Tulane University, says some corporate cases yield ""juicy and embarrassing internal emails."" But Twitter's case is extra entertaining because Musk is such a colorful figure and Twitter is a high profile company with outsize influence.
+
+Jack Dorsey, who founded Twitter and stepped down in November 2021, discussed taking Twitter private with Musk in late March.
+
+https://preview.redd.it/7hugnrmte0r91.png?width=1052&format=png&auto=webp&s=fe0925f42ffbc4093c2cd869d1e67cfff7182387
+
+ Musk quickly amassed enough stock to add up to a 9% stake of Twitter.
+
+Congratulations poured in from all over, with many people eager to support his ventures and collaborate with the world's richest person.
+
+He told investor Antonio Gracias, ""Free speech matters most when it's someone you hate spouting what you think is bull\*\*\*\*.""
+
+Gracias replied, ""You are totally right. I 100% agree with you.""
+
+https://preview.redd.it/ihr5bybwe0r91.png?width=1020&format=png&auto=webp&s=ec6781f3acff999eaa46d22c938da670add1b45b
+
+Musk at first declined a seat on the board, then accepted a day later and immediately proposed to Agrawal that the platform ""unwind permanent bans on users.""
+
+The two bonded over being former engineers and current CEOs, their time spent coding in the trenches and their appreciation for technical aptitude.
+
+""Treat me like an engineer instead of a CEO,"" Agrawal told Musk.
+
+""Frankly, I hate doing mgmt (management) stuff. I kinda don't think anyone should be the boss of anyone. But I love helping solve technical/product design problems,"" wrote the cofounder of six companies.
+
+https://preview.redd.it/795epufze0r91.png?width=1056&format=png&auto=webp&s=6b894ddc5a7cd596478383ba8d80b276b59edb9f
+
+Just two days later, after Musk publicly asked if Twitter was dying and a phone conversation referenced in the messages, Agrawal scolded Musk.
+
+""It's my responsibility to tell you that it's not helping me make Twitter better in the current context,"" he wrote. Musk replied that he wouldn't join the board and planned to take Twitter private.
+
+https://preview.redd.it/o77l3xq1f0r91.png?width=1054&format=png&auto=webp&s=1ac6d0944d8df76a07201d2f64b1137a8000ed51
+
+Dorsey vouched for Agrawal and tried to repair the relationship with a video meeting in late April. But Musk and Agrawal couldn't patch things up.
+
+Dorsey dryly commented to Musk, ""At least it became clear that you can't work together. That was clarifying.""
+
+The messages show Silicon Valley movers and shakers falling over themselves to get in on the Twitter deal. Investor Joe Lonsdale endorsed Musk's proposal to make Twitter's algorithm open source and promised to talk it up at a Republican policy retreat.
+
+Joe Rogan wrote to him, ""Are you going to liberate Twitter from the censorship happy mob?""
+
+Musk replied that he would ""provide advice, which they may or may not choose to follow.""
+
+Musk fielded kudos, queries and pitches from journalists, politicians, investors and confidants.
+
+With that many friends, the only thing Musk needed was enough money to fund his bid to buy Twitter.
+
+He reached out to Oracle's Larry Ellison, who offered a billion dollars. Musk asked for double.
+
+https://preview.redd.it/gv32osc5f0r91.png?width=1049&format=png&auto=webp&s=209b568c38ecf40fb7510085f7a2da38a80e16ba
+
+Full article: [https://www.npr.org/2022/09/30/1126084000/texts-released-ahead-of-twitter-trial-show-elon-musk-assembling-the-deal](https://www.npr.org/2022/09/30/1126084000/texts-released-ahead-of-twitter-trial-show-elon-musk-assembling-the-deal)
+
+Elon Musk's private text messages with Silicon Valley's rich and powerful, advisers, reporters, politicians and aspiring dealmakers, were released as part of the pre-trial ahead of the court battle between Musk and Twitter slated on October 17. In whose favor do you think the trial next month will be ruled?",22,11,https://www.reddit.com/r/wallstreetbets/comments/xs33ut/texts_released_ahead_of_twitter_trial_show_elon/,Tesla AI Day,"Texts released ahead of Twitter trial show Elon Musk assembling the deal Elon Musk's takeover of Twitter went down via private text messages between the Tesla CEO and a small circle of Silicon Valley's rich and powerful, plus their underlings, advisers and a handful of reporters, politicians and aspiring dealmakers.
+
+The messages were part of court filings and revealed Thursday as part of the pre-trial discovery process in the court battle over whether Musk has to follow through on the merger agreement he signed to buy Twitter. Twitter and Musk are due in court Oct. 17.
+
+The stream of messages includes Musk's exchanges with Twitter founder Jack Dorsey, current CEO Parag Agrawal, Oracle co-founder Larry Ellison, and many more.
+
+Elon Musk wants to get out of buying Twitter. A whistleblower's claims might help him
+
+The court documents show Musk making overtures to Twitter, discussing the importance of free speech, workshopping ideas on how to improve the platform, assembling the financing for the deal, and then deliberating over how to make the struggling company profitable.
+
+Ann Lipton, a professor of business law at Tulane University, says some corporate cases yield ""juicy and embarrassing internal emails."" But Twitter's case is extra entertaining because Musk is such a colorful figure and Twitter is a high profile company with outsize influence.
+
+Jack Dorsey, who founded Twitter and stepped down in November 2021, discussed taking Twitter private with Musk in late March.
+
+https://preview.redd.it/7hugnrmte0r91.png?width=1052&format=png&auto=webp&s=fe0925f42ffbc4093c2cd869d1e67cfff7182387
+
+ Musk quickly amassed enough stock to add up to a 9% stake of Twitter.
+
+Congratulations poured in from all over, with many people eager to support his ventures and collaborate with the world's richest person.
+
+He told investor Antonio Gracias, ""Free speech matters most when it's someone you hate spouting what you think is bull\*\*\*\*.""
+
+Gracias replied, ""You are totally right. I 100% agree with you.""
+
+https://preview.redd.it/ihr5bybwe0r91.png?width=1020&format=png&auto=webp&s=ec6781f3acff999eaa46d22c938da670add1b45b
+
+Musk at first declined a seat on the board, then accepted a day later and immediately proposed to Agrawal that the platform ""unwind permanent bans on users.""
+
+The two bonded over being former engineers and current CEOs, their time spent coding in the trenches and their appreciation for technical aptitude.
+
+""Treat me like an engineer instead of a CEO,"" Agrawal told Musk.
+
+""Frankly, I hate doing mgmt (management) stuff. I kinda don't think anyone should be the boss of anyone. But I love helping solve technical/product design problems,"" wrote the cofounder of six companies.
+
+https://preview.redd.it/795epufze0r91.png?width=1056&format=png&auto=webp&s=6b894ddc5a7cd596478383ba8d80b276b59edb9f
+
+Just two days later, after Musk publicly asked if Twitter was dying and a phone conversation referenced in the messages, Agrawal scolded Musk.
+
+""It's my responsibility to tell you that it's not helping me make Twitter better in the current context,"" he wrote. Musk replied that he wouldn't join the board and planned to take Twitter private.
+
+https://preview.redd.it/o77l3xq1f0r91.png?width=1054&format=png&auto=webp&s=1ac6d0944d8df76a07201d2f64b1137a8000ed51
+
+Dorsey vouched for Agrawal and tried to repair the relationship with a video meeting in late April. But Musk and Agrawal couldn't patch things up.
+
+Dorsey dryly commented to Musk, ""At least it became clear that you can't work together. That was clarifying.""
+
+The messages show Silicon Valley movers and shakers falling over themselves to get in on the Twitter deal. Investor Joe Lonsdale endorsed Musk's proposal to make Twitter's algorithm open source and promised to talk it up at a Republican policy retreat.
+
+Joe Rogan wrote to him, ""Are you going to liberate Twitter from the censorship happy mob?""
+
+Musk replied that he would ""provide advice, which they may or may not choose to follow.""
+
+Musk fielded kudos, queries and pitches from journalists, politicians, investors and confidants.
+
+With that many friends, the only thing Musk needed was enough money to fund his bid to buy Twitter.
+
+He reached out to Oracle's Larry Ellison, who offered a billion dollars. Musk asked for double.
+
+https://preview.redd.it/gv32osc5f0r91.png?width=1049&format=png&auto=webp&s=209b568c38ecf40fb7510085f7a2da38a80e16ba
+
+Full article: [https://www.npr.org/2022/09/30/1126084000/texts-released-ahead-of-twitter-trial-show-elon-musk-assembling-the-deal](https://www.npr.org/2022/09/30/1126084000/texts-released-ahead-of-twitter-trial-show-elon-musk-assembling-the-deal)
+
+Elon Musk's private text messages with Silicon Valley's rich and powerful, advisers, reporters, politicians and aspiring dealmakers, were released as part of the pre-trial ahead of the court battle between Musk and Twitter slated on October 17. In whose favor do you think the trial next month will be ruled?"
+TSLA_013,xs7zl2,wallstreetbets,2022-09-30 18:00:49,Tesla calls before Close?,Market goes down but the AI Event should Provide a boost on monday. Thoughts ?,1,4,https://www.reddit.com/r/wallstreetbets/comments/xs7zl2/tesla_calls_before_close/,Tesla AI Day,Tesla calls before Close? Market goes down but the AI Event should Provide a boost on monday. Thoughts ?
+TSLA_013,xsbtdf,wallstreetbets,2022-09-30 20:34:32,"Cramer just said ""DO NOT TOUCH ALIBABA"" Why you should do the opposite.","1. It's CRAMER. Just inverse him and make money. 
+2. If you hate CHINA's regime, you should invest in ALIBABA. It's CEO, Jack Ma, hates China's current regime  and spoke out AGAINST them, which started an unprecedented tech crack down and is one  reason why it's currently so cheap.
+3. Now for the technicals. $BABA has $70 BILLION dollars in cash which represents over 30% of it's current market cap. That is BONKERS. For comparison, Amazon is at 5%, Apple is at 2%, and Tesla is at 2%
+4. $BABA makes over 20 billion a year in operating cash flow. That means in 2 years, with the cash in hand, buy HALF of it's entire shares back. They are a cash MACHINE, making more money / year than amazon and many other companies with higher valuations.
+5. BABA is dirt cheap. Trading at 50 cents on the dollar when considering all of it's assets, including ANT.
+6. It is trading near the same price at it's IPO, yet it has grown considerably. At IPO it had 200 million users, now it has over 1.2 BILLION.  
+7. Alibaba, as a brand, ranks in the top 10 list globally, surpassing the likes of McDonald's, Tesla and Coca-Cola.
+8.  Alibaba has essentially given up all of its gains since its IPO in 2014. In other words, Alibaba has been 'dead money' for almost a decade. However, unlike its share price, fundamentally, Alibaba has made remarkable progress on multiple fronts. Most notably, Alibaba has turned into a cash flow machine, with cash from operations increasing tenfold since its IPO, which in turn has led to a soaring cash balance, making the company cash rich. 
+9. China is having their 2009 crisis. Real estate market in shambles, political turmoil, have pushed the HSI indexes to their lowest level in decades. China is currently EASING while the entire world tightens. They are enacting fiscal stimulus, lowering rates, and telling banks to buy their own markets. This depressed last will not last forever. Investors with 10 year horizon will stand to make a fortune.
+10. Just do your own research on how much money BABA makes compared to their market cap and compare it to other stocks and you will see that BABA truly is the cheapest stock on the market. 
+
+&#x200B;
+
+In conclusion, political turmoil, china's zero covid policy, and other global factors have wreaked havoc on the share price of $BABA, but has been pushed far below fair value
+
+It seems to me that, based on today's valuation, that the market believes that Alibaba will start shrinking over time. This doesn't really make sense and, unlike others, I see the sell-off over the past couple of years as an opportunity. Alibaba itself is also taking advantage of the sell-off by going as far as to authorize the largest share repurchase program in its history. In short, I feel extremely comfortable with Alibaba's massive operating cash flow, which, over time, translates into an ever-increasing cash position, thus further strengthening the balance sheet. This will no doubt help the company, not just weather the storm, but also to thrive.",15,32,https://www.reddit.com/r/wallstreetbets/comments/xsbtdf/cramer_just_said_do_not_touch_alibaba_why_you/,Tesla AI Day,"Cramer just said ""DO NOT TOUCH ALIBABA"" Why you should do the opposite. 1. It's CRAMER. Just inverse him and make money. 
+2. If you hate CHINA's regime, you should invest in ALIBABA. It's CEO, Jack Ma, hates China's current regime  and spoke out AGAINST them, which started an unprecedented tech crack down and is one  reason why it's currently so cheap.
+3. Now for the technicals. $BABA has $70 BILLION dollars in cash which represents over 30% of it's current market cap. That is BONKERS. For comparison, Amazon is at 5%, Apple is at 2%, and Tesla is at 2%
+4. $BABA makes over 20 billion a year in operating cash flow. That means in 2 years, with the cash in hand, buy HALF of it's entire shares back. They are a cash MACHINE, making more money / year than amazon and many other companies with higher valuations.
+5. BABA is dirt cheap. Trading at 50 cents on the dollar when considering all of it's assets, including ANT.
+6. It is trading near the same price at it's IPO, yet it has grown considerably. At IPO it had 200 million users, now it has over 1.2 BILLION.  
+7. Alibaba, as a brand, ranks in the top 10 list globally, surpassing the likes of McDonald's, Tesla and Coca-Cola.
+8.  Alibaba has essentially given up all of its gains since its IPO in 2014. In other words, Alibaba has been 'dead money' for almost a decade. However, unlike its share price, fundamentally, Alibaba has made remarkable progress on multiple fronts. Most notably, Alibaba has turned into a cash flow machine, with cash from operations increasing tenfold since its IPO, which in turn has led to a soaring cash balance, making the company cash rich. 
+9. China is having their 2009 crisis. Real estate market in shambles, political turmoil, have pushed the HSI indexes to their lowest level in decades. China is currently EASING while the entire world tightens. They are enacting fiscal stimulus, lowering rates, and telling banks to buy their own markets. This depressed last will not last forever. Investors with 10 year horizon will stand to make a fortune.
+10. Just do your own research on how much money BABA makes compared to their market cap and compare it to other stocks and you will see that BABA truly is the cheapest stock on the market. 
+
+&#x200B;
+
+In conclusion, political turmoil, china's zero covid policy, and other global factors have wreaked havoc on the share price of $BABA, but has been pushed far below fair value
+
+It seems to me that, based on today's valuation, that the market believes that Alibaba will start shrinking over time. This doesn't really make sense and, unlike others, I see the sell-off over the past couple of years as an opportunity. Alibaba itself is also taking advantage of the sell-off by going as far as to authorize the largest share repurchase program in its history. In short, I feel extremely comfortable with Alibaba's massive operating cash flow, which, over time, translates into an ever-increasing cash position, thus further strengthening the balance sheet. This will no doubt help the company, not just weather the storm, but also to thrive."
+TSLA_013,xsd18z,wallstreetbets,2022-09-30 21:23:31,"9-30-22 SPY/ ES Futures, Apple and Tesla Weekly Recap and Market Analysis","Well lets just get this part out of the way first… here is your new JPM Collar. 2890 and 3425 Puts with 3870 Calls. Futures came within 15 dollars of hitting that 3580 price target of the collar which expired today. Does that mean SPX will see 3870+ and 3425 at some point over the next 3 months? Possibly yes… but remember this is just a protective collar this isn’t their prediction. The JPM collar is amessy thing to track. 
+
+&#x200B;
+
+https://preview.redd.it/ec6qs83ic2r91.png?width=672&format=png&auto=webp&s=249ab20a7e2c2ba7081beecb9716b208e20f320b
+
+It appears the trend of a red open and a red close is holding true now for 4 quarters in a row. Something to keep in mind for next time. 
+
+The question with what looked like a strong morning that turned weak and had a lot of weakness EOD with stocks like Apple still in a massive sell off… whats next? Is the bottom in? or did SPY just start its next leg down? 
+
+&#x200B;
+
+https://preview.redd.it/j6ty5rkic2r91.png?width=828&format=png&auto=webp&s=7cdb0ae8bd0693491598c0098ff7fc6f4b4f7ebf
+
+Here you can see we broke through both supports of that red diamond I was talking about. In theory that should lead to a bigger downside move. 
+
+&#x200B;
+
+https://preview.redd.it/9ehc0l0jc2r91.png?width=848&format=png&auto=webp&s=2395343f4a8b93818a94826d5b64e106fa58a8bf
+
+Here is the cleaned up chart for SPY now. You can see the blue falling wedge is still entact and the black bear channel also is still intact. What I am seeing forming on the markets here and I mentioned this yesterday was that 360-370 was clear consolidation and until we see one of those levels broken we should be patient. Now that the 360 downside has not only been broken but it was closed below the favor is there to downside. However, the issue we have here is that we have been selling off non-stop for a month now. 7 of the last 8 days have been red (-8.3%),  11 of the last 14 days have been red (-11.5%), 17 of the last 25 days have been red (-15%) and finally 21 of the last 32 days have been red (-16.9%). 
+
+That is a ton of selling and this has SPY closing a daily candle below the 75% retracement (blue dotted line) of this 2022 bear channel for the first time since June. However, this still does not feel like for SPY capitulation. This is just a slow boring bleed. This isnt the -5% like we had at CPI this is just a slow bleed and the VIX is not hitting those capitulation levels. We are either starting our next leg down and next week is going to be the week the blood hits the markets with VIX closing over 40 or the bottom fell out here with quarterly options expiration and we will see a push up from here. Honestly I went into today and was bullish most of the day but now I am worried with SPY closing below the weekly 200ema for the first time since the 2020 covid crash… however, once we closed a candle below the weekly 200ema that was bottom… 
+
+&#x200B;
+
+https://preview.redd.it/9dbe1xijc2r91.png?width=778&format=png&auto=webp&s=5cd0f102c9617770c1d04fdc29a80e7091eb3c2a
+
+Closing a candle below the weekly 200ema and the full body being below it is very worrisome for sure. That EOD sell off on spy does have me wondering if we come out swinging bloody on Monday. However, with this weeky candle body we could see a true double bottom of 357 and push green. SPY remains in the black bear channel and has now an intense blue resistance line which forms a falling wedge. 
+
+Key supports for next week- 357 -> 350.2 -> 348 -> 346 (black bear channel support) -> 342 -> 338 (green 2022 bear channel support) 
+
+Key resistance for next week- 353.4 (black falling wedge resistance) -> 357 -> 366.6 (weekly 200ema) 
+
+What I am seeing that unless SPY opens down 1.1% Monday and holds there all week for a push lower to 346 then we will open persumably taking out that blue resistance and that should provide some upward momentum. However, unless bulls can really gather momentum and take out the weekly 200ema at 366.6 then it is likely short lived upward momentum. With 6 of the last 7 weeks closing red we are on pace to test the 10 out of 11 red weeks we saw from march to june. If that is the case we truly could see 330 by end of october. 
+
+&#x200B;
+
+https://preview.redd.it/xrnswo2kc2r91.png?width=661&format=png&auto=webp&s=0a1496caa8a23373855e650c3020055b4bb64e06
+
+Futures also broke through its diamond pattern today and broke out of its similar consolidation from 3650 to 3730. 
+
+I will be watching that blue support line closely as we have 3 touches on it so that should be something that is able to withstand a test. Current futures is doing its best to close over 3600. 
+
+&#x200B;
+
+https://preview.redd.it/w9x2hajkc2r91.png?width=619&format=png&auto=webp&s=6450539058961e3b2aaa912d2b08390cb5261e83
+
+Similar idea here on Futures weekly here. We are seeing that the blue falling wedge is about to come to an end next week when we open. Now mind you we could always false breakout and then drop from there but SPY and Futures patterns are pointing to upside from a technical stand point. Same thought process here is that unless we open pretty deep red (about -1.4%) on futures and hold there we will see that blue rising wedge broken. 
+
+Key support- 3600 -> 3545 -> 3528 -> 3500 (black bear channel support) 
+
+Key resistance- 3545 (blue falling wedge) -> 3680 (weekly 200ema) -> 3705
+
+&#x200B;
+
+https://preview.redd.it/fwxti11lc2r91.png?width=827&format=png&auto=webp&s=0440437f52482bb803ef5bd43c3ec624362e5515
+
+Apple to me looks like this week was “capitulation” I think investors finally realized tech is not safe. The one kinda impressive thing about it though is how dramatic the drop on Apple has been in comparison to SPY. So Apple dropped 10.9% or $16.72 in 4 days while SPY only fell 4.1% or $$15.26 in the same time frame. This seems like a rotation to risk off from me. As I have been mentioning for the last two week is that Tech was holding up impressively well compared to SPY that was getting beat up. 
+
+There is a chance people rotated our of non-tech stuff for the last two weeks and finally are rotating out of tech now too. They say TECH is always the last to fall… Currently Apple is only 6.5% from its 52week low. 
+
+While this impressive sell off make me think we should see a bounce on Apple I would be very careful buying calls until we see that red resistance line broken. It attempted today and I was very convinced today it was going to bounce and that the markets were going to find support. However, it rejected hard at that 143.1 resistance and dumped impressively from there. 
+
+&#x200B;
+
+https://preview.redd.it/568ac1ilc2r91.png?width=773&format=png&auto=webp&s=ff53620d4c9c6d9cd26ebe7e6efd7a69d74e4a6b
+
+Watching the weekly you can see we have a pretty intense blue bear channel and a lesser intense black bear channel. 
+
+Support- 138 -> 135.5 (black bear channel support) -> 133.3 -> 131.9 (blue bear channel support)
+
+Resistance- 141.6 -> 145.6 -> 149.2
+
+&#x200B;
+
+https://preview.redd.it/ctnptuxlc2r91.png?width=800&format=png&auto=webp&s=61f44fe5fc9f382839bf10fbd823ee474688ab28
+
+If we believe that the tech dominos are about to fall then my prediction last week when Tesla rejected 312 and I noted this blue arrow inverse head and shoulders… tesla just might actually see that 220-240 support range. Tesla is impressively still 22% off its 52 week low here. On the daily chart we saw Tesla close below 270 for the first time since July. There is a potential of a support bounce at 258.6, however, if Tesla loses that support next week I do suspect the bigger downside is coming. While comparatively tesla looked much stronger then Apple today (especially this morning) as long as Apple is selling off Tesla will get sympathy weakness. 
+
+&#x200B;
+
+https://preview.redd.it/4t9hkxdmc2r91.png?width=734&format=png&auto=webp&s=c189e139d7c09d9ecd8bfb0f15d5cf14911bc619
+
+Tesla weekly closed out in a deadzone from 258.2 to 272. There is not a lot of price action here since March. However the biggest weekly takeaway is that this is the first time we have see Tesla weekly candle close below 270 since July. In addition we did have a hard rejection at that 300 level. 
+
+With that blue resistance line I will be keeping an eye on that. If Tesla is to break through that line at some point next week that would be my signal of upside to come. Until then I do suspect we may actually see further downside. Generally speaking a gravestone doji in a downtrend is seen as continuation now reversal. 
+
+If Tesla loses 258.2 I would think the sell off will be hot and heavy down. Think flash crash (most likely coupled with a Apple flash crash to 52 week low. 
+
+Key support- 258.2 -> 248 (black June recovery support line) -> 244.6 -> 222.8
+
+Key resistance- 265.4 (blue resistance) -> 272.1 -> 287.9 
+
+&#x200B;
+
+https://preview.redd.it/us0cffxmc2r91.png?width=783&format=png&auto=webp&s=e07b217c4607bc0cbac8deaef403c9e9f6a7bdef
+
+The VIX once again is less help then help when it comes to trading this 2022 bear market. On one hand this morning it was unwinding, broke through the daily 8ema and broke the rising wedge which accelerated this sell off before FOMC. However, by mid day the VIX said nah fam just kidding and ripped back to 33.25 before it unwound EOD. 
+
+That is where today is interesting as we have a red VIX day with a pretty large red SPY day. 
+
+The big VIX spike on September 28th to me appears to tell that the bottom is in for the time being, however, IF markets “agree” with the negative sentiment of the markets we COULD see the VIX unwind while markets continue to drop. 
+
+Overall there are a lot of stocks hitting their 52 week lows and hitting lows that have not been seen since 2020. Overall I think we are getting closer and closer to the next bounce. In my opinion much like the May 20th to June 8th bounce I think we are due for another bounce before a bigger leg down takes place. Comparatively this is one of the bigger overall sell offs that we have seen this year next to the June CPI/ FOMC flash crash we had. 
+
+I think if you were to start DCAing into a small 30-60dte call position here you would be well rewarded in time, however, I do have this eerie feeling in the back of my head that next week is going to come out blood red and we are going to see full on capitulation (think covid/ 2008 crash -20% week). However, to experience a week like that we NEED a bigger catalyst. We need that market news that hits that makes everyone go oh no. its time to sell everything and get out while I still have anything left. I don’t think we are there yet there is a lot of hope in this market and world still. And lets be honest we are not the same levels we were during covid and 2008 crash. 
+
+This is one of those times where it is better NOT to swing and its better to miss 3-4% on the upside move then be early and see another 5-6% down before it bounces. SPY and markets continue to teeter on the edge of the cliff. 
+
+10% Challenge- 
+
+&#x200B;
+
+https://preview.redd.it/jkre76hnc2r91.png?width=817&format=png&auto=webp&s=093e583a223a29a4d4ef71801226cf1c14cb972a
+
+Today I was “off” but had a tesla swing I averaged down (WAY too late) and was able to close out in the morning before I had to actually leave for the day. I am glad I did too because I really thought when I left I was leaving in a bullish momentum market and when I checked back later I was dead wrong. Markets took a turn. Thankful for not getting greedy there. 
+
+This was my best week I have had since May profits wise, however, comparatively since my position size was about 2-3x bigger back in May this comparatively is the best week I have had this year yet. 
+
+This is definitely one of my strongest months I have had too hitting just under $10k profits and averaging 83.6% over the whole month. 
+
+Youtube video will be up later tonight! Hope you guys had a great weekend.",136,98,https://www.reddit.com/r/wallstreetbets/comments/xsd18z/93022_spy_es_futures_apple_and_tesla_weekly_recap/,Tesla AI Day,"9-30-22 SPY/ ES Futures, Apple and Tesla Weekly Recap and Market Analysis Well lets just get this part out of the way first… here is your new JPM Collar. 2890 and 3425 Puts with 3870 Calls. Futures came within 15 dollars of hitting that 3580 price target of the collar which expired today. Does that mean SPX will see 3870+ and 3425 at some point over the next 3 months? Possibly yes… but remember this is just a protective collar this isn’t their prediction. The JPM collar is amessy thing to track. 
+
+&#x200B;
+
+https://preview.redd.it/ec6qs83ic2r91.png?width=672&format=png&auto=webp&s=249ab20a7e2c2ba7081beecb9716b208e20f320b
+
+It appears the trend of a red open and a red close is holding true now for 4 quarters in a row. Something to keep in mind for next time. 
+
+The question with what looked like a strong morning that turned weak and had a lot of weakness EOD with stocks like Apple still in a massive sell off… whats next? Is the bottom in? or did SPY just start its next leg down? 
+
+&#x200B;
+
+https://preview.redd.it/j6ty5rkic2r91.png?width=828&format=png&auto=webp&s=7cdb0ae8bd0693491598c0098ff7fc6f4b4f7ebf
+
+Here you can see we broke through both supports of that red diamond I was talking about. In theory that should lead to a bigger downside move. 
+
+&#x200B;
+
+https://preview.redd.it/9ehc0l0jc2r91.png?width=848&format=png&auto=webp&s=2395343f4a8b93818a94826d5b64e106fa58a8bf
+
+Here is the cleaned up chart for SPY now. You can see the blue falling wedge is still entact and the black bear channel also is still intact. What I am seeing forming on the markets here and I mentioned this yesterday was that 360-370 was clear consolidation and until we see one of those levels broken we should be patient. Now that the 360 downside has not only been broken but it was closed below the favor is there to downside. However, the issue we have here is that we have been selling off non-stop for a month now. 7 of the last 8 days have been red (-8.3%),  11 of the last 14 days have been red (-11.5%), 17 of the last 25 days have been red (-15%) and finally 21 of the last 32 days have been red (-16.9%). 
+
+That is a ton of selling and this has SPY closing a daily candle below the 75% retracement (blue dotted line) of this 2022 bear channel for the first time since June. However, this still does not feel like for SPY capitulation. This is just a slow boring bleed. This isnt the -5% like we had at CPI this is just a slow bleed and the VIX is not hitting those capitulation levels. We are either starting our next leg down and next week is going to be the week the blood hits the markets with VIX closing over 40 or the bottom fell out here with quarterly options expiration and we will see a push up from here. Honestly I went into today and was bullish most of the day but now I am worried with SPY closing below the weekly 200ema for the first time since the 2020 covid crash… however, once we closed a candle below the weekly 200ema that was bottom… 
+
+&#x200B;
+
+https://preview.redd.it/9dbe1xijc2r91.png?width=778&format=png&auto=webp&s=5cd0f102c9617770c1d04fdc29a80e7091eb3c2a
+
+Closing a candle below the weekly 200ema and the full body being below it is very worrisome for sure. That EOD sell off on spy does have me wondering if we come out swinging bloody on Monday. However, with this weeky candle body we could see a true double bottom of 357 and push green. SPY remains in the black bear channel and has now an intense blue resistance line which forms a falling wedge. 
+
+Key supports for next week- 357 -> 350.2 -> 348 -> 346 (black bear channel support) -> 342 -> 338 (green 2022 bear channel support) 
+
+Key resistance for next week- 353.4 (black falling wedge resistance) -> 357 -> 366.6 (weekly 200ema) 
+
+What I am seeing that unless SPY opens down 1.1% Monday and holds there all week for a push lower to 346 then we will open persumably taking out that blue resistance and that should provide some upward momentum. However, unless bulls can really gather momentum and take out the weekly 200ema at 366.6 then it is likely short lived upward momentum. With 6 of the last 7 weeks closing red we are on pace to test the 10 out of 11 red weeks we saw from march to june. If that is the case we truly could see 330 by end of october. 
+
+&#x200B;
+
+https://preview.redd.it/xrnswo2kc2r91.png?width=661&format=png&auto=webp&s=0a1496caa8a23373855e650c3020055b4bb64e06
+
+Futures also broke through its diamond pattern today and broke out of its similar consolidation from 3650 to 3730. 
+
+I will be watching that blue support line closely as we have 3 touches on it so that should be something that is able to withstand a test. Current futures is doing its best to close over 3600. 
+
+&#x200B;
+
+https://preview.redd.it/w9x2hajkc2r91.png?width=619&format=png&auto=webp&s=6450539058961e3b2aaa912d2b08390cb5261e83
+
+Similar idea here on Futures weekly here. We are seeing that the blue falling wedge is about to come to an end next week when we open. Now mind you we could always false breakout and then drop from there but SPY and Futures patterns are pointing to upside from a technical stand point. Same thought process here is that unless we open pretty deep red (about -1.4%) on futures and hold there we will see that blue rising wedge broken. 
+
+Key support- 3600 -> 3545 -> 3528 -> 3500 (black bear channel support) 
+
+Key resistance- 3545 (blue falling wedge) -> 3680 (weekly 200ema) -> 3705
+
+&#x200B;
+
+https://preview.redd.it/fwxti11lc2r91.png?width=827&format=png&auto=webp&s=0440437f52482bb803ef5bd43c3ec624362e5515
+
+Apple to me looks like this week was “capitulation” I think investors finally realized tech is not safe. The one kinda impressive thing about it though is how dramatic the drop on Apple has been in comparison to SPY. So Apple dropped 10.9% or $16.72 in 4 days while SPY only fell 4.1% or $$15.26 in the same time frame. This seems like a rotation to risk off from me. As I have been mentioning for the last two week is that Tech was holding up impressively well compared to SPY that was getting beat up. 
+
+There is a chance people rotated our of non-tech stuff for the last two weeks and finally are rotating out of tech now too. They say TECH is always the last to fall… Currently Apple is only 6.5% from its 52week low. 
+
+While this impressive sell off make me think we should see a bounce on Apple I would be very careful buying calls until we see that red resistance line broken. It attempted today and I was very convinced today it was going to bounce and that the markets were going to find support. However, it rejected hard at that 143.1 resistance and dumped impressively from there. 
+
+&#x200B;
+
+https://preview.redd.it/568ac1ilc2r91.png?width=773&format=png&auto=webp&s=ff53620d4c9c6d9cd26ebe7e6efd7a69d74e4a6b
+
+Watching the weekly you can see we have a pretty intense blue bear channel and a lesser intense black bear channel. 
+
+Support- 138 -> 135.5 (black bear channel support) -> 133.3 -> 131.9 (blue bear channel support)
+
+Resistance- 141.6 -> 145.6 -> 149.2
+
+&#x200B;
+
+https://preview.redd.it/ctnptuxlc2r91.png?width=800&format=png&auto=webp&s=61f44fe5fc9f382839bf10fbd823ee474688ab28
+
+If we believe that the tech dominos are about to fall then my prediction last week when Tesla rejected 312 and I noted this blue arrow inverse head and shoulders… tesla just might actually see that 220-240 support range. Tesla is impressively still 22% off its 52 week low here. On the daily chart we saw Tesla close below 270 for the first time since July. There is a potential of a support bounce at 258.6, however, if Tesla loses that support next week I do suspect the bigger downside is coming. While comparatively tesla looked much stronger then Apple today (especially this morning) as long as Apple is selling off Tesla will get sympathy weakness. 
+
+&#x200B;
+
+https://preview.redd.it/4t9hkxdmc2r91.png?width=734&format=png&auto=webp&s=c189e139d7c09d9ecd8bfb0f15d5cf14911bc619
+
+Tesla weekly closed out in a deadzone from 258.2 to 272. There is not a lot of price action here since March. However the biggest weekly takeaway is that this is the first time we have see Tesla weekly candle close below 270 since July. In addition we did have a hard rejection at that 300 level. 
+
+With that blue resistance line I will be keeping an eye on that. If Tesla is to break through that line at some point next week that would be my signal of upside to come. Until then I do suspect we may actually see further downside. Generally speaking a gravestone doji in a downtrend is seen as continuation now reversal. 
+
+If Tesla loses 258.2 I would think the sell off will be hot and heavy down. Think flash crash (most likely coupled with a Apple flash crash to 52 week low. 
+
+Key support- 258.2 -> 248 (black June recovery support line) -> 244.6 -> 222.8
+
+Key resistance- 265.4 (blue resistance) -> 272.1 -> 287.9 
+
+&#x200B;
+
+https://preview.redd.it/us0cffxmc2r91.png?width=783&format=png&auto=webp&s=e07b217c4607bc0cbac8deaef403c9e9f6a7bdef
+
+The VIX once again is less help then help when it comes to trading this 2022 bear market. On one hand this morning it was unwinding, broke through the daily 8ema and broke the rising wedge which accelerated this sell off before FOMC. However, by mid day the VIX said nah fam just kidding and ripped back to 33.25 before it unwound EOD. 
+
+That is where today is interesting as we have a red VIX day with a pretty large red SPY day. 
+
+The big VIX spike on September 28th to me appears to tell that the bottom is in for the time being, however, IF markets “agree” with the negative sentiment of the markets we COULD see the VIX unwind while markets continue to drop. 
+
+Overall there are a lot of stocks hitting their 52 week lows and hitting lows that have not been seen since 2020. Overall I think we are getting closer and closer to the next bounce. In my opinion much like the May 20th to June 8th bounce I think we are due for another bounce before a bigger leg down takes place. Comparatively this is one of the bigger overall sell offs that we have seen this year next to the June CPI/ FOMC flash crash we had. 
+
+I think if you were to start DCAing into a small 30-60dte call position here you would be well rewarded in time, however, I do have this eerie feeling in the back of my head that next week is going to come out blood red and we are going to see full on capitulation (think covid/ 2008 crash -20% week). However, to experience a week like that we NEED a bigger catalyst. We need that market news that hits that makes everyone go oh no. its time to sell everything and get out while I still have anything left. I don’t think we are there yet there is a lot of hope in this market and world still. And lets be honest we are not the same levels we were during covid and 2008 crash. 
+
+This is one of those times where it is better NOT to swing and its better to miss 3-4% on the upside move then be early and see another 5-6% down before it bounces. SPY and markets continue to teeter on the edge of the cliff. 
+
+10% Challenge- 
+
+&#x200B;
+
+https://preview.redd.it/jkre76hnc2r91.png?width=817&format=png&auto=webp&s=093e583a223a29a4d4ef71801226cf1c14cb972a
+
+Today I was “off” but had a tesla swing I averaged down (WAY too late) and was able to close out in the morning before I had to actually leave for the day. I am glad I did too because I really thought when I left I was leaving in a bullish momentum market and when I checked back later I was dead wrong. Markets took a turn. Thankful for not getting greedy there. 
+
+This was my best week I have had since May profits wise, however, comparatively since my position size was about 2-3x bigger back in May this comparatively is the best week I have had this year yet. 
+
+This is definitely one of my strongest months I have had too hitting just under $10k profits and averaging 83.6% over the whole month. 
+
+Youtube video will be up later tonight! Hope you guys had a great weekend."
+TSLA_013,xsg6zu,wallstreetbets,2022-09-30 23:41:32,"Tesla AI day is on Friday evening because the market is closed, another 4D chess move.",,1,2,https://www.reddit.com/r/wallstreetbets/comments/xsg6zu/tesla_ai_day_is_on_friday_evening_because_the/,Tesla AI Day,"Tesla AI day is on Friday evening because the market is closed, another 4D chess move."
+TSLA_013,xsgcgw,wallstreetbets,2022-09-30 23:48:39,Having the Tesla AI day on Friday evening is another 4D chess move by the master because the market is closed,,1,2,https://i.redd.it/7zg8ryvj23r91.jpg,Tesla AI Day,Having the Tesla AI day on Friday evening is another 4D chess move by the master because the market is closed
+TSLA_013,xsge5y,wallstreetbets,2022-09-30 23:50:46,Having the Tesla AI day today on Friday evening at 9:30 is another 4D chess move by the master because the market is closed,,1,1,https://i.redd.it/veaak6gx23r91.jpg,Tesla AI Day,Having the Tesla AI day today on Friday evening at 9:30 is another 4D chess move by the master because the market is closed
+TSLA_013,xsgfim,wallstreetbets,2022-09-30 23:52:25,Having the Tesla AI day today on Friday evening at 9:30 is another 4D chess move by the master because the market is closed,,1,1,https://www.reddit.com/r/wallstreetbets/comments/xsgfim/having_the_tesla_ai_day_today_on_friday_evening/,Tesla AI Day,Having the Tesla AI day today on Friday evening at 9:30 is another 4D chess move by the master because the market is closed
+TSLA_013,xsgh36,wallstreetbets,2022-09-30 23:54:33,Having the Tesla AI day today on Friday evening at 9:30 is another 4D chess move by the master because the market is closed,,1,1,https://www.cnet.com/roadshow/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-tech/,Tesla AI Day,Having the Tesla AI day today on Friday evening at 9:30 is another 4D chess move by the master because the market is closed
+TSLA_013,xskigi,wallstreetbets,2022-10-01 03:10:27,Tesla AI Day,,530,19,https://i.redd.it/ua2lfg2k24r91.jpg,Tesla AI Day,Tesla AI Day
+TSLA_013,xsvtq5,wallstreetbets,2022-10-01 13:50:17,Recap for anyone that missed Tesla AI day,,241,25,https://v.redd.it/bxyyocap87r91,Tesla AI Day,Recap for anyone that missed Tesla AI day
+TSLA_013,xurrbx,wallstreetbets,2022-10-03 18:44:14,TSLA: Time to Sell Calls,"**Distractions for Elon and for the Research and Development Budget** 
+
+https://preview.redd.it/sf03u98gkmr91.png?width=1600&format=png&auto=webp&s=bdc82b606a7deb944812f1f454242c24dd8fd6b4
+
+**Deliveries are Rising, but Growth Rates Flattening**  
+
+
+https://preview.redd.it/4apaujwvkmr91.png?width=1296&format=png&auto=webp&s=a5c4bf4ea78eadd13d4e1a56ceb226f5a4e263d8
+
+&#x200B;
+
+**Auto Loan Leverage and Rates Are on the Rise**
+
+https://preview.redd.it/fogk40s5lmr91.png?width=720&format=png&auto=webp&s=cec2e68b274ef04ad37dadc66628a0cbe8940f40
+
+**Moving Averages Pointing Down**
+
+&#x200B;
+
+https://preview.redd.it/990tzhymlmr91.png?width=932&format=png&auto=webp&s=8319414cd0963159a9f9d684cf6277591b4245a0
+
+**The Valuation is Ridiculous** 
+
+https://preview.redd.it/3fydr0xommr91.png?width=1366&format=png&auto=webp&s=db66de5d47c0f96aa0a1d17b6c2977c849ee6760
+
+**Tesla is Cool, but Not Dominant**   
+
+
+&#x200B;
+
+https://preview.redd.it/v9a4vspkomr91.png?width=2040&format=png&auto=webp&s=c068d3917162f6bd5abdbcccf394b4dffbe8ea7e
+
+&#x200B;
+
+**Input Costs Going Up, Means Margins Coming Down**  
+
+
+https://preview.redd.it/9eit5m0somr91.png?width=1280&format=png&auto=webp&s=b1416a78789a84e7450cde4ff30b4ecf0bb96bd1
+
+**Tesla Not Keeping Pace with BYD**
+
+&#x200B;
+
+https://preview.redd.it/lgb8tcsqqmr91.png?width=1060&format=png&auto=webp&s=c7246e498f9a82dd6e4a19e2b07203e2c700193e
+
+**If TSLA Can't Hit the Growth Trend, its Stock Will Be Re-Evaluated** 
+
+https://preview.redd.it/vanbj1e4rmr91.png?width=803&format=png&auto=webp&s=f130c75fe9fa285a0ffe275e6d3f8359c7cd1ed1
+
+**Downtrend Channel Has Formed, 200 is Next Point of Meaningful Resistance** 
+
+https://preview.redd.it/ejnpvty4xmr91.png?width=1632&format=png&auto=webp&s=a2fad3c4de45f4af0dfc578971ea87bb28cba6ae
+
+IV is high, valuation is high, retail is still stupid and buying memes - plus TSLA hasn't yet ""broken"" like the rest of the tech/growth stocks. 
+
+Today, sell the Nov 18 -200/+205 call spreads and pick up roughly $300 for risking $500. Set a limit order to sell the -195/+190 put spread for $200 in credit and when it fills you will have a ""free"" option for max gain (collect $300 from calls, $200 from puts, max gain is $500 and max loss is now $0) Close both sides when the battle at 200 begins.",23,30,https://www.reddit.com/r/wallstreetbets/comments/xurrbx/tsla_time_to_sell_calls/,Tesla AI Day,"TSLA: Time to Sell Calls **Distractions for Elon and for the Research and Development Budget** 
+
+https://preview.redd.it/sf03u98gkmr91.png?width=1600&format=png&auto=webp&s=bdc82b606a7deb944812f1f454242c24dd8fd6b4
+
+**Deliveries are Rising, but Growth Rates Flattening**  
+
+
+https://preview.redd.it/4apaujwvkmr91.png?width=1296&format=png&auto=webp&s=a5c4bf4ea78eadd13d4e1a56ceb226f5a4e263d8
+
+&#x200B;
+
+**Auto Loan Leverage and Rates Are on the Rise**
+
+https://preview.redd.it/fogk40s5lmr91.png?width=720&format=png&auto=webp&s=cec2e68b274ef04ad37dadc66628a0cbe8940f40
+
+**Moving Averages Pointing Down**
+
+&#x200B;
+
+https://preview.redd.it/990tzhymlmr91.png?width=932&format=png&auto=webp&s=8319414cd0963159a9f9d684cf6277591b4245a0
+
+**The Valuation is Ridiculous** 
+
+https://preview.redd.it/3fydr0xommr91.png?width=1366&format=png&auto=webp&s=db66de5d47c0f96aa0a1d17b6c2977c849ee6760
+
+**Tesla is Cool, but Not Dominant**   
+
+
+&#x200B;
+
+https://preview.redd.it/v9a4vspkomr91.png?width=2040&format=png&auto=webp&s=c068d3917162f6bd5abdbcccf394b4dffbe8ea7e
+
+&#x200B;
+
+**Input Costs Going Up, Means Margins Coming Down**  
+
+
+https://preview.redd.it/9eit5m0somr91.png?width=1280&format=png&auto=webp&s=b1416a78789a84e7450cde4ff30b4ecf0bb96bd1
+
+**Tesla Not Keeping Pace with BYD**
+
+&#x200B;
+
+https://preview.redd.it/lgb8tcsqqmr91.png?width=1060&format=png&auto=webp&s=c7246e498f9a82dd6e4a19e2b07203e2c700193e
+
+**If TSLA Can't Hit the Growth Trend, its Stock Will Be Re-Evaluated** 
+
+https://preview.redd.it/vanbj1e4rmr91.png?width=803&format=png&auto=webp&s=f130c75fe9fa285a0ffe275e6d3f8359c7cd1ed1
+
+**Downtrend Channel Has Formed, 200 is Next Point of Meaningful Resistance** 
+
+https://preview.redd.it/ejnpvty4xmr91.png?width=1632&format=png&auto=webp&s=a2fad3c4de45f4af0dfc578971ea87bb28cba6ae
+
+IV is high, valuation is high, retail is still stupid and buying memes - plus TSLA hasn't yet ""broken"" like the rest of the tech/growth stocks. 
+
+Today, sell the Nov 18 -200/+205 call spreads and pick up roughly $300 for risking $500. Set a limit order to sell the -195/+190 put spread for $200 in credit and when it fills you will have a ""free"" option for max gain (collect $300 from calls, $200 from puts, max gain is $500 and max loss is now $0) Close both sides when the battle at 200 begins."
+TSLA_013,xuvlrt,wallstreetbets,2022-10-03 21:11:24,"10-3-22 SPY/ ES Futures, Apple and Tesla Market Analysis","Well after SPY made a 52week low last week to close the day there was a lot of talk about a “black Monday” and that SPY was about to hit -3% today… well the bulls came out and said not so fast! 
+
+Overall on Apple and SPY there are some major bull milestones hit, however, Tesla had a VERY rough day today… 
+
+&#x200B;
+
+https://preview.redd.it/3yehqax3pnr91.png?width=905&format=png&auto=webp&s=3feae3c2ed5debd1071a20b0ac69246316d6b653
+
+Taking a look at SPY daily chart here we broke through that blue falling wedge. This is the resistance line we have been trading under since before CPI. However, we attempted to break through the daily 8ema resistance which also was key resistance at 368.1. While we were able to peak out head over it momentarily we saw a really good sized pullback EOD to close under the daily 8ema and soft resistance at 366.8. Overall this is a bearish finish to a very green day and honestly this reminds me almost perfectly of last Wednesday. 
+
+If we can get a continuation rally and close over 370.6 tomorrow which breaks the overall black bear channel then I will be bullish going forward. However, if we reject the black bear channel resistance at 366.8 tomorrow and start to sell off there is a good chance we will see a bigger sell off the rest of the week. At a minimum I wouldn’t be surprised to see a back test of support at 362.9. If bulls can defend that then we might see more upside, however, lose that and especially lose 360 again and I suspect more downside to come. 
+
+Key support- 362.9 -> 361.1 -> 357.2 -> 352.3
+
+Key resistance- 366.8 -> 368.1 -> 370.6 -> 374.2 (373.44 gap fill)
+
+&#x200B;
+
+https://preview.redd.it/q24sj7o4pnr91.png?width=975&format=png&auto=webp&s=a037201feae8d680ea703aca855f6e4fb7b230ac
+
+Much of the same goes for futures. There was actually a ton of volatility last night but in the end this morning we saw a really big green pre market push. 
+
+Key support- 3655 -> 3600 -> 3545
+
+Key resistance- 3710 -> 3732 -> 3750 (black bear channel) -> 3770
+
+&#x200B;
+
+https://preview.redd.it/zh1nzb75pnr91.png?width=975&format=png&auto=webp&s=2d1e369a3a05835efab4faa4ee8728b9468f1f2d
+
+Of all the charts Apple looks to be the most bullish in my opinion. But that also makes a lot of sense when you look at how absolutely bloodied Apple was last week. After a 4 day 11% sell off Apple finally found support at 138.2 forming a double bottom bullishly engulfing daily candle. Apple broke through key 142.5 resistance however, in the end closed below it. That will be key resistance to watch tomorrow. 
+
+If bulls can defend 141.4 tomorrow after breaking through that 5 day long aggressive resistance line that it struggled at all week last week that would be pretty bullish going forward. Assuming bulls can keep up this momentum we could see Apple push back to the 150s this week. 
+
+Much like SPY/ Futures rejection at the daily 8ema I would like to see Apple close a candle over the daily 8ema before I get too excited about going long on Calls. 
+
+Key support- 141.4 -> 138.2
+
+Key resistance- 142.5 -> 146.2 (daily 8ema) 
+
+&#x200B;
+
+https://preview.redd.it/pfoycto5pnr91.png?width=975&format=png&auto=webp&s=a02bd03948a7d560cac4a3bab72aaa3b790f3407
+
+On September 21st I said that with the rejection at 312 there was a possibility that Tesla could see a retest of support at 220-240. Well I would not have expected this even though I saw the technical setup for it.
+
+It appears to me what is happening is Tesla is about to find its bottom support much like SPY and Apple presumably did last week. There is a potential we see some more downside on Tesla before it pushes up again. 
+
+There is a very aggressive black dotted support line that’s two days old now that we will look for Tesla to take out and from there it needs to take out that red solid resistance line. IF we can see those two resistance lines taken out it will be a good time to go long on some Tesla calls. However, if we see rejections at those resistance lines then we should assume further downside to go. Also, if today really was just a bull trap and a fake rally like last Wednesday I still believe Tesla has the most to lose with it still being 15% off its 52 week low. If SPY and Apple retreat tomorrow I would be interested in some puts targeting 222 support. 
+
+If the off chance that tesla has some massive recovery day of 7%+ tomorrow, gap fills and rejects 
+
+Key support- 237.3 -> 223 -> 207.2 
+
+Key resistance- 230 (black dotted resistance -5.5% open) -> 249.6 -> 254.6 -> 260.4
+
+&#x200B;
+
+https://preview.redd.it/mekcvz76pnr91.png?width=975&format=png&auto=webp&s=944c21bc166e03e16792cded5ff5d3d590386e77
+
+The VIX is hinting at more bullish continuation to come, however it still fails to close below 30. I am keeping a close eye on the VIX as you can see the candle from Wednesday on the VIX looks very similar. Today we are also forming a downward resistance line on the VIX now too. As long as that resistance holds, the VIX continues to close under the daily 8ema and preferably gets below 30 I will be more bullish going forward. 
+
+As much as today was a huge green push and there are a lot of hints at bullish momentum attempting to take over and that we possible Friday did put the bottom in… Im still hesitant. If tomorrow can take out 370.6 on SPY, if tesla can bounce green and if Apple can take out its daily 8ema at 146.2 then with the VIX closing under 30 (preferably under 29) I will be more bullishly biased going forward. However, with that being said knowing we are only 3% from the 52week low on SPY and knowing that we are at the 75% retracement of the 2022 bear channel I would not take Puts here except as an intraday swing. 
+
+I do think that puts overnight tonight is a high probability play just after such a big green day and TRIN being extremely outta wack all day we naturally could see a small retracement to retest supports before continuing up. 
+
+&#x200B;
+
+https://preview.redd.it/8gi5njq6pnr91.png?width=641&format=png&auto=webp&s=82da8e607a06ec90a4c1e3a8e5ae97f80722262c
+
+Something else I actually completely failed to think about last week is that this is the week before the next CPI reading. Currently they are at a consensus of 8.1% and a forecast of 8.3%. This would mean this would be the third CPI in a row to show a decline. Now granted CORE cpi does matter as we saw back on September 13th but With the markets being forward looking we could much like the September CPI be seeing a small push up in anticipation of this CPI. 
+
+As much as we logically know the FED will not pivot (really they should not pivot) after BOE last week did QE and now if inflation truly peaking if we get another good CPI (especially if CORE is down) we could see markets go on another rally much like July. While its illogical given the overall market and economy if the markets get a whisper of Fed going Dovish or pivoting we are going to see a pretty impressive rally much like July. At least until either the FED says don’t be dumb that’s not happening or until the next CPI in November and FOMC. However, if CPI comes in hotter especially CORE come October 13th we are most likely going to see the actual bottom get put in. As markets will know Fed is going to have to go even more hawkish to tame inflation. 
+
+10% challenge-
+
+Overall all today was a great day for me. I played some nice SPX calls. I took profits really early on my plays as I wasn’t sure what we were going to see when we opened that huge green pre market, especially with Tesla selling off. 
+
+&#x200B;
+
+https://preview.redd.it/kc7g97j7pnr91.png?width=572&format=png&auto=webp&s=aca9330a20bbf6b34849d35e9ecb4241aa1cf63b
+
+I closed some longer DTE swings I opened on Thursday and Friday last week. I honestly probably could have help all of these swings and been just fine but after a big 3% green day in the middle of a massive sell off its silly to not take profits. I did leave some 363C 28dte calls run though. 
+
+Overall I was able to secure about 2x my monthly goal today. Going to be in humble mode and conservation mode the rest of the week. 
+
+The #1 thing I see people do is they have a killer hour, day, week, or month and then they get overconfident and trade away all their profits they just worked so hard to earn. 
+
+This market is extreme volatile and will chew you up and spit you out faster then you can hit sell. Continue to conserve capital and trade lightly. Remember the goal of this bear market is to survive until things are better enough that we can more easily profit. We cant do that if we trade away all our money and profits. 
+
+Youtube will be up later! 
+
+&#x200B;
+
+https://preview.redd.it/btofs928pnr91.png?width=947&format=png&auto=webp&s=0d6dc37e24d7f9368dc18c130da2761bc4aaede9",62,36,https://www.reddit.com/r/wallstreetbets/comments/xuvlrt/10322_spy_es_futures_apple_and_tesla_market/,Tesla AI Day,"10-3-22 SPY/ ES Futures, Apple and Tesla Market Analysis Well after SPY made a 52week low last week to close the day there was a lot of talk about a “black Monday” and that SPY was about to hit -3% today… well the bulls came out and said not so fast! 
+
+Overall on Apple and SPY there are some major bull milestones hit, however, Tesla had a VERY rough day today… 
+
+&#x200B;
+
+https://preview.redd.it/3yehqax3pnr91.png?width=905&format=png&auto=webp&s=3feae3c2ed5debd1071a20b0ac69246316d6b653
+
+Taking a look at SPY daily chart here we broke through that blue falling wedge. This is the resistance line we have been trading under since before CPI. However, we attempted to break through the daily 8ema resistance which also was key resistance at 368.1. While we were able to peak out head over it momentarily we saw a really good sized pullback EOD to close under the daily 8ema and soft resistance at 366.8. Overall this is a bearish finish to a very green day and honestly this reminds me almost perfectly of last Wednesday. 
+
+If we can get a continuation rally and close over 370.6 tomorrow which breaks the overall black bear channel then I will be bullish going forward. However, if we reject the black bear channel resistance at 366.8 tomorrow and start to sell off there is a good chance we will see a bigger sell off the rest of the week. At a minimum I wouldn’t be surprised to see a back test of support at 362.9. If bulls can defend that then we might see more upside, however, lose that and especially lose 360 again and I suspect more downside to come. 
+
+Key support- 362.9 -> 361.1 -> 357.2 -> 352.3
+
+Key resistance- 366.8 -> 368.1 -> 370.6 -> 374.2 (373.44 gap fill)
+
+&#x200B;
+
+https://preview.redd.it/q24sj7o4pnr91.png?width=975&format=png&auto=webp&s=a037201feae8d680ea703aca855f6e4fb7b230ac
+
+Much of the same goes for futures. There was actually a ton of volatility last night but in the end this morning we saw a really big green pre market push. 
+
+Key support- 3655 -> 3600 -> 3545
+
+Key resistance- 3710 -> 3732 -> 3750 (black bear channel) -> 3770
+
+&#x200B;
+
+https://preview.redd.it/zh1nzb75pnr91.png?width=975&format=png&auto=webp&s=2d1e369a3a05835efab4faa4ee8728b9468f1f2d
+
+Of all the charts Apple looks to be the most bullish in my opinion. But that also makes a lot of sense when you look at how absolutely bloodied Apple was last week. After a 4 day 11% sell off Apple finally found support at 138.2 forming a double bottom bullishly engulfing daily candle. Apple broke through key 142.5 resistance however, in the end closed below it. That will be key resistance to watch tomorrow. 
+
+If bulls can defend 141.4 tomorrow after breaking through that 5 day long aggressive resistance line that it struggled at all week last week that would be pretty bullish going forward. Assuming bulls can keep up this momentum we could see Apple push back to the 150s this week. 
+
+Much like SPY/ Futures rejection at the daily 8ema I would like to see Apple close a candle over the daily 8ema before I get too excited about going long on Calls. 
+
+Key support- 141.4 -> 138.2
+
+Key resistance- 142.5 -> 146.2 (daily 8ema) 
+
+&#x200B;
+
+https://preview.redd.it/pfoycto5pnr91.png?width=975&format=png&auto=webp&s=a02bd03948a7d560cac4a3bab72aaa3b790f3407
+
+On September 21st I said that with the rejection at 312 there was a possibility that Tesla could see a retest of support at 220-240. Well I would not have expected this even though I saw the technical setup for it.
+
+It appears to me what is happening is Tesla is about to find its bottom support much like SPY and Apple presumably did last week. There is a potential we see some more downside on Tesla before it pushes up again. 
+
+There is a very aggressive black dotted support line that’s two days old now that we will look for Tesla to take out and from there it needs to take out that red solid resistance line. IF we can see those two resistance lines taken out it will be a good time to go long on some Tesla calls. However, if we see rejections at those resistance lines then we should assume further downside to go. Also, if today really was just a bull trap and a fake rally like last Wednesday I still believe Tesla has the most to lose with it still being 15% off its 52 week low. If SPY and Apple retreat tomorrow I would be interested in some puts targeting 222 support. 
+
+If the off chance that tesla has some massive recovery day of 7%+ tomorrow, gap fills and rejects 
+
+Key support- 237.3 -> 223 -> 207.2 
+
+Key resistance- 230 (black dotted resistance -5.5% open) -> 249.6 -> 254.6 -> 260.4
+
+&#x200B;
+
+https://preview.redd.it/mekcvz76pnr91.png?width=975&format=png&auto=webp&s=944c21bc166e03e16792cded5ff5d3d590386e77
+
+The VIX is hinting at more bullish continuation to come, however it still fails to close below 30. I am keeping a close eye on the VIX as you can see the candle from Wednesday on the VIX looks very similar. Today we are also forming a downward resistance line on the VIX now too. As long as that resistance holds, the VIX continues to close under the daily 8ema and preferably gets below 30 I will be more bullish going forward. 
+
+As much as today was a huge green push and there are a lot of hints at bullish momentum attempting to take over and that we possible Friday did put the bottom in… Im still hesitant. If tomorrow can take out 370.6 on SPY, if tesla can bounce green and if Apple can take out its daily 8ema at 146.2 then with the VIX closing under 30 (preferably under 29) I will be more bullishly biased going forward. However, with that being said knowing we are only 3% from the 52week low on SPY and knowing that we are at the 75% retracement of the 2022 bear channel I would not take Puts here except as an intraday swing. 
+
+I do think that puts overnight tonight is a high probability play just after such a big green day and TRIN being extremely outta wack all day we naturally could see a small retracement to retest supports before continuing up. 
+
+&#x200B;
+
+https://preview.redd.it/8gi5njq6pnr91.png?width=641&format=png&auto=webp&s=82da8e607a06ec90a4c1e3a8e5ae97f80722262c
+
+Something else I actually completely failed to think about last week is that this is the week before the next CPI reading. Currently they are at a consensus of 8.1% and a forecast of 8.3%. This would mean this would be the third CPI in a row to show a decline. Now granted CORE cpi does matter as we saw back on September 13th but With the markets being forward looking we could much like the September CPI be seeing a small push up in anticipation of this CPI. 
+
+As much as we logically know the FED will not pivot (really they should not pivot) after BOE last week did QE and now if inflation truly peaking if we get another good CPI (especially if CORE is down) we could see markets go on another rally much like July. While its illogical given the overall market and economy if the markets get a whisper of Fed going Dovish or pivoting we are going to see a pretty impressive rally much like July. At least until either the FED says don’t be dumb that’s not happening or until the next CPI in November and FOMC. However, if CPI comes in hotter especially CORE come October 13th we are most likely going to see the actual bottom get put in. As markets will know Fed is going to have to go even more hawkish to tame inflation. 
+
+10% challenge-
+
+Overall all today was a great day for me. I played some nice SPX calls. I took profits really early on my plays as I wasn’t sure what we were going to see when we opened that huge green pre market, especially with Tesla selling off. 
+
+&#x200B;
+
+https://preview.redd.it/kc7g97j7pnr91.png?width=572&format=png&auto=webp&s=aca9330a20bbf6b34849d35e9ecb4241aa1cf63b
+
+I closed some longer DTE swings I opened on Thursday and Friday last week. I honestly probably could have help all of these swings and been just fine but after a big 3% green day in the middle of a massive sell off its silly to not take profits. I did leave some 363C 28dte calls run though. 
+
+Overall I was able to secure about 2x my monthly goal today. Going to be in humble mode and conservation mode the rest of the week. 
+
+The #1 thing I see people do is they have a killer hour, day, week, or month and then they get overconfident and trade away all their profits they just worked so hard to earn. 
+
+This market is extreme volatile and will chew you up and spit you out faster then you can hit sell. Continue to conserve capital and trade lightly. Remember the goal of this bear market is to survive until things are better enough that we can more easily profit. We cant do that if we trade away all our money and profits. 
+
+Youtube will be up later! 
+
+&#x200B;
+
+https://preview.redd.it/btofs928pnr91.png?width=947&format=png&auto=webp&s=0d6dc37e24d7f9368dc18c130da2761bc4aaede9"
+TSLA_013,xrmzr0,teslamotors,2022-09-30 00:05:32,Saw this Semi while at Tesla ahead of AI Day,Notice the steering wheel in the middle with a screen on the right and on the left.,350,34,https://www.reddit.com/gallery/xrmzr0,Tesla AI Day,Saw this Semi while at Tesla ahead of AI Day Notice the steering wheel in the middle with a screen on the right and on the left.
+TSLA_013,xrz8bu,teslamotors,2022-09-30 11:46:49,Tesla AI Day 2022,,531,645,https://youtu.be/ODSJsviD_SU,Tesla AI Day,Tesla AI Day 2022
+TSLA_013,xs24za,teslamotors,2022-09-30 14:01:13,Tesla AI day - robots compared,,1,1,https://www.youtube.com/watch?v=zZO1dsJj17o,Tesla AI Day,Tesla AI day - robots compared
+TSLA_013,xs1yzv,teslamotors,2022-09-30 14:05:11,Welcome to Tesla's AI Day 2022! - Event Megathread,,2,1,,Tesla AI Day,Welcome to Tesla's AI Day 2022! - Event Megathread
+TSLA_013,xsd0la,teslamotors,2022-09-30 21:22:39,Join us on the Discord for AI Day!,"Hello! As many of you probably know AI day has finally arrived! This is usually a high level event that Tesla uses as a recruitment platform to people in the field of AI and Robotics. 
+
+Join us tonight at 9pm EDT 6PM PDT on our stage where we will talk about what is going on during the event and hopefully explain things in simpler terms! There will also be a text chat going on concurrently if you don't want to join the stage or can't listen in. We will not be streaming the event on our stage so be sure to have another screen or device open if you want to follow the live event! 
+
+Link to Discord: [discord.gg/tesla](https://discord.gg/tesla) 
+
+https://preview.redd.it/19fnj6ikb2r91.png?width=583&format=png&auto=webp&s=c7e596929644f276bd82d026c66f312d324a4757",6,1,https://www.reddit.com/r/teslamotors/comments/xsd0la/join_us_on_the_discord_for_ai_day/,Tesla AI Day,"Join us on the Discord for AI Day! Hello! As many of you probably know AI day has finally arrived! This is usually a high level event that Tesla uses as a recruitment platform to people in the field of AI and Robotics. 
+
+Join us tonight at 9pm EDT 6PM PDT on our stage where we will talk about what is going on during the event and hopefully explain things in simpler terms! There will also be a text chat going on concurrently if you don't want to join the stage or can't listen in. We will not be streaming the event on our stage so be sure to have another screen or device open if you want to follow the live event! 
+
+Link to Discord: [discord.gg/tesla](https://discord.gg/tesla) 
+
+https://preview.redd.it/19fnj6ikb2r91.png?width=583&format=png&auto=webp&s=c7e596929644f276bd82d026c66f312d324a4757"
+TSLA_013,xsehm9,teslamotors,2022-09-30 22:25:28,Music to celebrate the Tesla AI day 🎵,,1,1,https://www.youtube.com/watch?v=ntudnPmM-nk,Tesla AI Day,Music to celebrate the Tesla AI day 🎵
+TSLA_013,xsf3ef,teslamotors,2022-09-30 22:52:13,Monitoring the car is way less stressful than driving it on FSD,"I got FSD 10.69.2.2 access in Model Y a couple of weeks ago and after driving it on a daily commute almost every day I firmly believe in Tesla's approach to self driving is the right one. Today while coming back home in a high traffic Austin roads I realized that its much less stressful to let the car drive than me driving and getting stressed about pane changing, monitoring signals, and following the traffic. Specially on the daily commute, I know where the car will struggle so it's less stressful every day.
+
+How is everyone else's experience?",263,158,https://www.reddit.com/r/teslamotors/comments/xsf3ef/monitoring_the_car_is_way_less_stressful_than/,Tesla AI Day,"Monitoring the car is way less stressful than driving it on FSD I got FSD 10.69.2.2 access in Model Y a couple of weeks ago and after driving it on a daily commute almost every day I firmly believe in Tesla's approach to self driving is the right one. Today while coming back home in a high traffic Austin roads I realized that its much less stressful to let the car drive than me driving and getting stressed about pane changing, monitoring signals, and following the traffic. Specially on the daily commute, I know where the car will struggle so it's less stressful every day.
+
+How is everyone else's experience?"
+TSLA_013,xsj6fe,teslamotors,2022-10-01 02:03:58,Tesla AI day merch,,1,1,https://www.reddit.com/r/teslamotors/comments/xsj6fe/tesla_ai_day_merch/,Tesla AI Day,Tesla AI day merch
+TSLA_013,xsjs72,teslamotors,2022-10-01 02:33:52,Tesla AI Day 2022: Elon Musk's Optimus Robot and Self-Driving Car Technology,,1,1,https://www.thatssonav.com/2022/09/tesla-ai-day-2022-elon-musks-optimus.html,Tesla AI Day,Tesla AI Day 2022: Elon Musk's Optimus Robot and Self-Driving Car Technology
+TSLA_013,xsksnx,teslamotors,2022-10-01 03:25:11,Tesla AI Day Celebration Stream. Come chill and discuss with Cyberpunk Lofi made by AI.,,1,1,https://www.youtube.com/watch?v=fVdmEohU3VI,Tesla AI Day,Tesla AI Day Celebration Stream. Come chill and discuss with Cyberpunk Lofi made by AI.
+TSLA_013,xslifi,teslamotors,2022-10-01 04:02:20,Tesla's Optimus bot gives a live demo during AI day 2022,,1,1,,Tesla AI Day,Tesla's Optimus bot gives a live demo during AI day 2022
+TSLA_013,xsmoth,teslamotors,2022-10-01 05:05:45,@6:21 minute mark Did FSD turn left on on a red arrow in a straight lane in this video? - San Francisco to Tesla AI Day with Zero Takeovers on Full Self-Driving Beta 10.69.2.2,,1,1,https://youtu.be/XaMRNp0jZ0A,Tesla AI Day,@6:21 minute mark Did FSD turn left on on a red arrow in a straight lane in this video? - San Francisco to Tesla AI Day with Zero Takeovers on Full Self-Driving Beta 10.69.2.2
+TSLA_013,xsozfu,teslamotors,2022-10-01 07:23:19,Tesla AI Day in 23 Minutes (Supercut) (2022),,314,163,https://www.youtube.com/watch?v=suv8ex8xlZA,Tesla AI Day,Tesla AI Day in 23 Minutes (Supercut) (2022)
+TSLA_013,xsshpn,teslamotors,2022-10-01 11:01:22,Elon Musk unveils humanoid ‘Optimus’ robot at Tesla’s AI Day,,1,1,,Tesla AI Day,Elon Musk unveils humanoid ‘Optimus’ robot at Tesla’s AI Day
+TSLA_013,xt1txz,teslamotors,2022-10-01 17:58:36,Tesla AI day 2022: Optimus Robot,,1,1,,Tesla AI Day,Tesla AI day 2022: Optimus Robot
+TSLA_013,xt4nar,teslamotors,2022-10-01 19:58:33,Tesla AI Day 2!!!! ITS HERE!!!!,,1,1,https://youtu.be/Qxth7F8Y5jM,Tesla AI Day,Tesla AI Day 2!!!! ITS HERE!!!!
+TSLA_013,xt7svg,teslamotors,2022-10-01 22:15:21,Has anyone else noticed the influx of Boston Dynamics posts on Reddit since Tesla’s AI day?,,1,1,https://www.reddit.com/r/teslamotors/comments/xt7svg/has_anyone_else_noticed_the_influx_of_boston/,Tesla AI Day,Has anyone else noticed the influx of Boston Dynamics posts on Reddit since Tesla’s AI day?
+TSLA_013,xu3rcv,teslamotors,2022-10-02 23:55:05,Tested CCS Combo Adapter and Le Circuit Electrique (Québec) - 100KW fast charging works!,"Just a heads up for everyone, especially those here in Québec.
+
+My wife and I received the new CCS Combo Charger for our Model 3 last week. We took a road trip off island (Montréal) yesterday, and had a chance to test the adapter at one of the 100kW fast chargers that Le Circuit Electrique / Electric Circuit has.
+
+We used the one in Sutton, QC, about \~50km from the nearest Supercharger in Magog.
+
+I'm pleased to report that the adapter worked perfectly. The charging terminal both recognized the charge rate (in kWh) as well as the SoC (in %) of the Model 3 while it was charging. The Circuit Electrique app also showed this SoC/rate/time info and provided options for push notifications at certain state of charge %, etc.
+
+We charged from about 65% to 80% in 10 minutes or so. I'm sure it could have been faster, but the initial charge was much slower than 100kW (closer to 40-50) due to a lack of heat in the battery when we started the charge session. The Tesla navigation system doesn't seem to recognize Circuit Electrique fast chargers and, consequently, doesn't precondition the battery for you.
+
+Fantastic news that it all works without issue, as expected. There are hundreds of these 100kW fast charger stations throughout Québec, so this opens up a lot of charging options while on the road.",72,28,https://www.reddit.com/r/teslamotors/comments/xu3rcv/tested_ccs_combo_adapter_and_le_circuit/,Tesla AI Day,"Tested CCS Combo Adapter and Le Circuit Electrique (Québec) - 100KW fast charging works! Just a heads up for everyone, especially those here in Québec.
+
+My wife and I received the new CCS Combo Charger for our Model 3 last week. We took a road trip off island (Montréal) yesterday, and had a chance to test the adapter at one of the 100kW fast chargers that Le Circuit Electrique / Electric Circuit has.
+
+We used the one in Sutton, QC, about \~50km from the nearest Supercharger in Magog.
+
+I'm pleased to report that the adapter worked perfectly. The charging terminal both recognized the charge rate (in kWh) as well as the SoC (in %) of the Model 3 while it was charging. The Circuit Electrique app also showed this SoC/rate/time info and provided options for push notifications at certain state of charge %, etc.
+
+We charged from about 65% to 80% in 10 minutes or so. I'm sure it could have been faster, but the initial charge was much slower than 100kW (closer to 40-50) due to a lack of heat in the battery when we started the charge session. The Tesla navigation system doesn't seem to recognize Circuit Electrique fast chargers and, consequently, doesn't precondition the battery for you.
+
+Fantastic news that it all works without issue, as expected. There are hundreds of these 100kW fast charger stations throughout Québec, so this opens up a lot of charging options while on the road."
+TSLA_013,xulx4j,teslamotors,2022-10-03 15:04:51,"Giga Shanghai stays open during weeklong National Day holiday, Tesla China workers earn triple pay",,306,26,https://driveteslacanada.ca/energy/giga-shanghai-stays-open-during-national-day-holiday-tesla-china-workers-earn-triple-pay/,Tesla AI Day,"Giga Shanghai stays open during weeklong National Day holiday, Tesla China workers earn triple pay"
+TSLA_013,xuqs88,teslamotors,2022-10-03 18:06:37,GAME OVER! These NEW Products & Changes Will Be Announced In The Upcoming Tesla AI Day!,,1,1,https://evtraveller.com/game-over-these-new-products-changes-will-be-announced-in-the-upcoming-tesla-ai-day/?feed_id=133592&_unique_id=633b24adc69ec,Tesla AI Day,GAME OVER! These NEW Products & Changes Will Be Announced In The Upcoming Tesla AI Day!
+TSLA_013,xut2sx,teslamotors,2022-10-03 19:34:14,This quote by Pete Bannon from the AI day 2022 is something everyone should hear,"""I'm frequently asked, why is a car company building a supercomputer for training. This question fundamentally misunderstands the nature of Tesla. At it's heart, Tesla is a hardcore technology company. All across the company, people are working hard - in science and engineering - to advance the fundamental understanding and methods that we have available to build cars, energy solutions, robots and anything else we can do to improve the human conditions around the world.""
+
+Pete Bannon leads the custom silicon and low voltage team at Tesla.",830,147,https://www.reddit.com/r/teslamotors/comments/xut2sx/this_quote_by_pete_bannon_from_the_ai_day_2022_is/,Tesla AI Day,"This quote by Pete Bannon from the AI day 2022 is something everyone should hear ""I'm frequently asked, why is a car company building a supercomputer for training. This question fundamentally misunderstands the nature of Tesla. At it's heart, Tesla is a hardcore technology company. All across the company, people are working hard - in science and engineering - to advance the fundamental understanding and methods that we have available to build cars, energy solutions, robots and anything else we can do to improve the human conditions around the world.""
+
+Pete Bannon leads the custom silicon and low voltage team at Tesla."
