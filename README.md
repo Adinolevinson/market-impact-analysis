@@ -36,3 +36,10 @@ A data science project investigating how company events influence stock price mo
 9. Initial machine learning , learnt data not good enough
 10. Created a pipeline to create a reddit search query for each event to be able to find posts regarding the event
 11. Used Arctic Shift's text search but found it extremely inconsistent (with 422 errors) but now changing it to pull all posts from the subreddits within the event window and then filter out the posts myself
+12. Built reddit search queries and event-to-day 2 collection windows and added reddit post collection with subreddit filtering, pagination and cleaning
+13. combined all tesla reddit posts into one dataset to use for NLP
+14. Added Vader sentiment scoring to all Reddit posts
+15. Set up OpenAI API and used GPT-5 nano to convert Reddit text into investor relevance, importance, novelty, expected outcome, expected suprise
+16. Applied the LLM feature extraction accross all reddit and saved complete NLP dataset
+17. Agregated the features to one row per event
+18. Merged the reddit features with the Tesla features, creating a final dataset ready for ML
